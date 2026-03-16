@@ -1,0 +1,24 @@
+M:\שלב 6 C# פרויקט\DotNet2025_2705_7529\Tools\obj\Debug\net6.0\Tools.csproj.AssemblyReference.cache
+M:\שלב 6 C# פרויקט\DotNet2025_2705_7529\Tools\obj\Debug\net6.0\Tools.GeneratedMSBuildEditorConfig.editorconfig
+M:\שלב 6 C# פרויקט\DotNet2025_2705_7529\Tools\obj\Debug\net6.0\Tools.AssemblyInfoInputs.cache
+M:\שלב 6 C# פרויקט\DotNet2025_2705_7529\Tools\obj\Debug\net6.0\Tools.AssemblyInfo.cs
+M:\שלב 6 C# פרויקט\DotNet2025_2705_7529\Tools\obj\Debug\net6.0\Tools.csproj.CoreCompileInputs.cache
+M:\שלב 6 C# פרויקט\DotNet2025_2705_7529\Tools\bin\Debug\net6.0\Tools.deps.json
+M:\שלב 6 C# פרויקט\DotNet2025_2705_7529\Tools\bin\Debug\net6.0\Tools.dll
+M:\שלב 6 C# פרויקט\DotNet2025_2705_7529\Tools\bin\Debug\net6.0\Tools.pdb
+M:\שלב 6 C# פרויקט\DotNet2025_2705_7529\Tools\obj\Debug\net6.0\Tools.dll
+M:\שלב 6 C# פרויקט\DotNet2025_2705_7529\Tools\obj\Debug\net6.0\refint\Tools.dll
+M:\שלב 6 C# פרויקט\DotNet2025_2705_7529\Tools\obj\Debug\net6.0\Tools.pdb
+M:\שלב 6 C# פרויקט\DotNet2025_2705_7529\Tools\obj\Debug\net6.0\ref\Tools.dll
+M:\פרוייקט C# 6,7\DotNet2025_2705_7529\Tools\bin\Debug\net6.0\Tools.deps.json
+M:\פרוייקט C# 6,7\DotNet2025_2705_7529\Tools\bin\Debug\net6.0\Tools.dll
+M:\פרוייקט C# 6,7\DotNet2025_2705_7529\Tools\bin\Debug\net6.0\Tools.pdb
+M:\פרוייקט C# 6,7\DotNet2025_2705_7529\Tools\obj\Debug\net6.0\Tools.csproj.AssemblyReference.cache
+M:\פרוייקט C# 6,7\DotNet2025_2705_7529\Tools\obj\Debug\net6.0\Tools.GeneratedMSBuildEditorConfig.editorconfig
+M:\פרוייקט C# 6,7\DotNet2025_2705_7529\Tools\obj\Debug\net6.0\Tools.AssemblyInfoInputs.cache
+M:\פרוייקט C# 6,7\DotNet2025_2705_7529\Tools\obj\Debug\net6.0\Tools.AssemblyInfo.cs
+M:\פרוייקט C# 6,7\DotNet2025_2705_7529\Tools\obj\Debug\net6.0\Tools.csproj.CoreCompileInputs.cache
+M:\פרוייקט C# 6,7\DotNet2025_2705_7529\Tools\obj\Debug\net6.0\Tools.dll
+M:\פרוייקט C# 6,7\DotNet2025_2705_7529\Tools\obj\Debug\net6.0\refint\Tools.dll
+M:\פרוייקט C# 6,7\DotNet2025_2705_7529\Tools\obj\Debug\net6.0\Tools.pdb
+M:\פרוייקט C# 6,7\DotNet2025_2705_7529\Tools\obj\Debug\net6.0\ref\Tools.dll
