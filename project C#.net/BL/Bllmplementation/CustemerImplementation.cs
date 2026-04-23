@@ -1,12 +1,13 @@
-﻿using System;
+﻿using BlApi;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace BlApi
+namespace Bllmplementation
 {
-    public interface IClient
+    internal class CustemerImplementation:ICastumer
     {
 
     }

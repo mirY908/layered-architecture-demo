@@ -26,6 +26,19 @@
           "bin/placeholder/DalList.dll": {}
         }
       },
+      "DalXml/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "DalFacade": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/DalXml.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/DalXml.dll": {}
+        }
+      },
       "Tools/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
@@ -49,6 +62,11 @@
       "path": "../DalList/DalList.csproj",
       "msbuildProject": "../DalList/DalList.csproj"
     },
+    "DalXml/1.0.0": {
+      "type": "project",
+      "path": "../DalXml/DalXml.csproj",
+      "msbuildProject": "../DalXml/DalXml.csproj"
+    },
     "Tools/1.0.0": {
       "type": "project",
       "path": "../Tools/Tools.csproj",
@@ -58,27 +76,28 @@
   "projectFileDependencyGroups": {
     "net6.0": [
       "DalFacade >= 1.0.0",
-      "DalList >= 1.0.0"
+      "DalList >= 1.0.0",
+      "DalXml >= 1.0.0"
     ]
   },
   "packageFolders": {
-    "C:\\Users\\p9743\\.nuget\\packages\\": {},
+    "C:\\Users\\mirayitzhaki\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\p9743\\Downloads\\פרויקט C# מתקדם\\BL\\BL.csproj",
+      "projectUniqueName": "M:\\פרוייקט מירה ורחלי\\C-project-MR\\project C#.net\\BL\\BL.csproj",
       "projectName": "BL",
-      "projectPath": "C:\\Users\\p9743\\Downloads\\פרויקט C# מתקדם\\BL\\BL.csproj",
-      "packagesPath": "C:\\Users\\p9743\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\p9743\\Downloads\\פרויקט C# מתקדם\\BL\\obj\\",
+      "projectPath": "M:\\פרוייקט מירה ורחלי\\C-project-MR\\project C#.net\\BL\\BL.csproj",
+      "packagesPath": "C:\\Users\\mirayitzhaki\\.nuget\\packages\\",
+      "outputPath": "M:\\פרוייקט מירה ורחלי\\C-project-MR\\project C#.net\\BL\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\p9743\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\mirayitzhaki\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -87,17 +106,21 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\p9743\\Downloads\\פרויקט C# מתקדם\\DalFacade\\DalFacade.csproj": {
-              "projectPath": "C:\\Users\\p9743\\Downloads\\פרויקט C# מתקדם\\DalFacade\\DalFacade.csproj"
+            "M:\\פרוייקט מירה ורחלי\\C-project-MR\\project C#.net\\DalFacade\\DalFacade.csproj": {
+              "projectPath": "M:\\פרוייקט מירה ורחלי\\C-project-MR\\project C#.net\\DalFacade\\DalFacade.csproj"
             },
-            "C:\\Users\\p9743\\Downloads\\פרויקט C# מתקדם\\DalList\\DalList.csproj": {
-              "projectPath": "C:\\Users\\p9743\\Downloads\\פרויקט C# מתקדם\\DalList\\DalList.csproj"
+            "M:\\פרוייקט מירה ורחלי\\C-project-MR\\project C#.net\\DalList\\DalList.csproj": {
+              "projectPath": "M:\\פרוייקט מירה ורחלי\\C-project-MR\\project C#.net\\DalList\\DalList.csproj"
+            },
+            "M:\\פרוייקט מירה ורחלי\\C-project-MR\\project C#.net\\DalXml\\DalXml.csproj": {
+              "projectPath": "M:\\פרוייקט מירה ורחלי\\C-project-MR\\project C#.net\\DalXml\\DalXml.csproj"
             }
           }
         }
@@ -106,13 +129,7 @@
         "warnAsError": [
           "NU1605"
         ]
-      },
-      "restoreAuditProperties": {
-        "enableAudit": "true",
-        "auditLevel": "low",
-        "auditMode": "direct"
-      },
-      "SdkAnalysisLevel": "9.0.200"
+      }
     },
     "frameworks": {
       "net6.0": {
@@ -128,26 +145,12 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "downloadDependencies": [
-          {
-            "name": "Microsoft.AspNetCore.App.Ref",
-            "version": "[6.0.36, 6.0.36]"
-          },
-          {
-            "name": "Microsoft.NETCore.App.Ref",
-            "version": "[6.0.36, 6.0.36]"
-          },
-          {
-            "name": "Microsoft.WindowsDesktop.App.Ref",
-            "version": "[6.0.36, 6.0.36]"
-          }
-        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.203\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
       }
     }
   }

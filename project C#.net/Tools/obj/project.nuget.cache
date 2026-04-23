@@ -1,12 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "HUL9mjfvP0I=",
+  "dgSpecHash": "l8MijXOoXT2BDup/qexFxkU3T6B55qrYanKKgWhM4afW1owK6roXClPni6xhHGBFCmzl612AqvA0K4z9uQ0kvA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\p9743\\Downloads\\פרויקט C# מתקדם\\Tools\\Tools.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\p9743\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.36\\microsoft.windowsdesktop.app.ref.6.0.36.nupkg.sha512",
-    "C:\\Users\\p9743\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.36\\microsoft.netcore.app.ref.6.0.36.nupkg.sha512",
-    "C:\\Users\\p9743\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.36\\microsoft.aspnetcore.app.ref.6.0.36.nupkg.sha512"
-  ],
+  "projectFilePath": "M:\\פרוייקט מירה ורחלי\\C-project-MR\\project C#.net\\Tools\\Tools.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }

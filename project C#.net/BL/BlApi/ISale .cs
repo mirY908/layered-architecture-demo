@@ -1,12 +1,13 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using BO;
+namespace BlApi;
 
-namespace BlApi
+public interface ISale 
 {
-    internal interface ISale
-    {
-    }
+    int Create(Sale item);
+    Sale? Read(int id);
+    Sale? Read(Func<Sale, bool> filter);
+    IEnumerable<Sale?> ReadAll(Func<Sale, bool>? filter = null);
+    void Update(Sale item);
+    void Delete(int id);
+    public bool IsCustomerExist();
 }

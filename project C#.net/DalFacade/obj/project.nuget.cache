@@ -1,12 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ef95/+o5e7U=",
+  "dgSpecHash": "KV/lWgVWmvMpQAmQ/9rRF3RjSu86wAdT+FVnegRDHoY63S0yEProu1dGQsAleEGOrwRPWtwsVw9L+n58jSx+wA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\p9743\\Downloads\\פרויקט C# מתקדם\\DalFacade\\DalFacade.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\p9743\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.36\\microsoft.windowsdesktop.app.ref.6.0.36.nupkg.sha512",
-    "C:\\Users\\p9743\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.36\\microsoft.netcore.app.ref.6.0.36.nupkg.sha512",
-    "C:\\Users\\p9743\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.36\\microsoft.aspnetcore.app.ref.6.0.36.nupkg.sha512"
-  ],
+  "projectFilePath": "M:\\פרוייקט מירה ורחלי\\C-project-MR\\project C#.net\\DalFacade\\DalFacade.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }

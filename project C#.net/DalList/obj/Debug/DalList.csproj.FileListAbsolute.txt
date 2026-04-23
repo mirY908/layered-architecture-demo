@@ -24,3 +24,16 @@ C:\Users\p9743\Downloads\פרויקט C# מתקדם\DalList\obj\Debug\DalList.dl
 C:\Users\p9743\Downloads\פרויקט C# מתקדם\DalList\obj\Debug\refint\DalList.dll
 C:\Users\p9743\Downloads\פרויקט C# מתקדם\DalList\obj\Debug\DalList.pdb
 C:\Users\p9743\Downloads\פרויקט C# מתקדם\DalList\obj\Debug\ref\DalList.dll
+M:\פרוייקט מירה ורחלי\C-project-MR\project C#.net\bin\DalList.deps.json
+M:\פרוייקט מירה ורחלי\C-project-MR\project C#.net\bin\DalList.dll
+M:\פרוייקט מירה ורחלי\C-project-MR\project C#.net\bin\DalList.pdb
+M:\פרוייקט מירה ורחלי\C-project-MR\project C#.net\DalList\obj\Debug\DalList.csproj.AssemblyReference.cache
+M:\פרוייקט מירה ורחלי\C-project-MR\project C#.net\DalList\obj\Debug\DalList.GeneratedMSBuildEditorConfig.editorconfig
+M:\פרוייקט מירה ורחלי\C-project-MR\project C#.net\DalList\obj\Debug\DalList.AssemblyInfoInputs.cache
+M:\פרוייקט מירה ורחלי\C-project-MR\project C#.net\DalList\obj\Debug\DalList.AssemblyInfo.cs
+M:\פרוייקט מירה ורחלי\C-project-MR\project C#.net\DalList\obj\Debug\DalList.csproj.CoreCompileInputs.cache
+M:\פרוייקט מירה ורחלי\C-project-MR\project C#.net\DalList\obj\Debug\DalList.csproj.CopyComplete
+M:\פרוייקט מירה ורחלי\C-project-MR\project C#.net\DalList\obj\Debug\DalList.dll
+M:\פרוייקט מירה ורחלי\C-project-MR\project C#.net\DalList\obj\Debug\refint\DalList.dll
+M:\פרוייקט מירה ורחלי\C-project-MR\project C#.net\DalList\obj\Debug\DalList.pdb
+M:\פרוייקט מירה ורחלי\C-project-MR\project C#.net\DalList\obj\Debug\ref\DalList.dll

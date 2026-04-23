@@ -1,13 +1,16 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿
 
-namespace BlApi
+//using DalApi;
+
+using BO;
+
+namespace BlApi;
+
+public interface IBI
 {
-    public interface IBl
-    {
+    public ICastumer Castumer { get; }
+    public IProduct product { get; }
+    public IOrder order { get; }
+    public ISale sale { get; }
 
-    }
 }

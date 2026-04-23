@@ -13,9 +13,9 @@ namespace BO
         public string ProductName;
         public  Category category;
         public double Price;
-        public int? Amount;
+        public int Amount;
         public List<SaleInProduct> SaleInProducts;
-        public Product(int Id, string ProductName, Category Category, double Price, int? Amount)
+        public Product(int Id, string ProductName, Category Category, double Price, int Amount)
         {
             this.Id = Id;
             this.ProductName = ProductName;
@@ -23,6 +23,10 @@ namespace BO
             this.Price = Price;
             this.Amount = Amount;
            // this.SaleInProducts = saleInProducts;
+        }
+        public Product()
+        {
+            
         }
     }
 }
