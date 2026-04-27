@@ -8,13 +8,17 @@ namespace BO
 {
     public class Order
     {
-        public bool favority;
-        public List<ProductInOrder> orders;
-        public double priceToPay;
-        public Order(bool favority, double priceToPay)
+        public bool IsFavoriteCustomer;
+        public List<ProductInOrder> ProductList { get; set; } = new List<ProductInOrder>();
+        public double TotalPrice;
+        public Order(bool IsFavoriteCustomer, double TotalPrice)
         {
-            this.favority = favority;
-            this.priceToPay = priceToPay;
+            this.IsFavoriteCustomer = IsFavoriteCustomer;
+            this.TotalPrice = TotalPrice;
+        }
+        public Order()
+        {
+            
         }
     }
 }

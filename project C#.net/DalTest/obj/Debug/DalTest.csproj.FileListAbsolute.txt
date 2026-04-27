@@ -17,3 +17,36 @@ M:\פרוייקט C# 6,7\DotNet2025_2705_7529\DalTest\obj\Debug\ref\DalTest.dll
 C:\Users\p9743\Downloads\פרויקט C# מתקדם\DalTest\obj\Debug\DalTest.dll
 C:\Users\p9743\Downloads\פרויקט C# מתקדם\DalTest\obj\Debug\refint\DalTest.dll
 C:\Users\p9743\Downloads\פרויקט C# מתקדם\DalTest\obj\Debug\DalTest.pdb
+C:\Users\User\Downloads\פרוייקט מירה ורחלי\layered-architecture-demo\project C#.net\bin\DalTest.exe
+C:\Users\User\Downloads\פרוייקט מירה ורחלי\layered-architecture-demo\project C#.net\bin\DalTest.deps.json
+C:\Users\User\Downloads\פרוייקט מירה ורחלי\layered-architecture-demo\project C#.net\bin\DalTest.runtimeconfig.json
+C:\Users\User\Downloads\פרוייקט מירה ורחלי\layered-architecture-demo\project C#.net\bin\DalTest.dll
+C:\Users\User\Downloads\פרוייקט מירה ורחלי\layered-architecture-demo\project C#.net\bin\DalTest.pdb
+C:\Users\User\Downloads\פרוייקט מירה ורחלי\layered-architecture-demo\project C#.net\DalTest\obj\Debug\DalTest.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\פרוייקט מירה ורחלי\layered-architecture-demo\project C#.net\DalTest\obj\Debug\DalTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Downloads\פרוייקט מירה ורחלי\layered-architecture-demo\project C#.net\DalTest\obj\Debug\DalTest.AssemblyInfoInputs.cache
+C:\Users\User\Downloads\פרוייקט מירה ורחלי\layered-architecture-demo\project C#.net\DalTest\obj\Debug\DalTest.AssemblyInfo.cs
+C:\Users\User\Downloads\פרוייקט מירה ורחלי\layered-architecture-demo\project C#.net\DalTest\obj\Debug\DalTest.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\פרוייקט מירה ורחלי\layered-architecture-demo\project C#.net\DalTest\obj\Debug\DalTest.sourcelink.json
+C:\Users\User\Downloads\פרוייקט מירה ורחלי\layered-architecture-demo\project C#.net\DalTest\obj\Debug\DalTest.csproj.Up2Date
+C:\Users\User\Downloads\פרוייקט מירה ורחלי\layered-architecture-demo\project C#.net\DalTest\obj\Debug\DalTest.dll
+C:\Users\User\Downloads\פרוייקט מירה ורחלי\layered-architecture-demo\project C#.net\DalTest\obj\Debug\refint\DalTest.dll
+C:\Users\User\Downloads\פרוייקט מירה ורחלי\layered-architecture-demo\project C#.net\DalTest\obj\Debug\DalTest.pdb
+C:\Users\User\Downloads\פרוייקט מירה ורחלי\layered-architecture-demo\project C#.net\DalTest\obj\Debug\DalTest.genruntimeconfig.cache
+C:\Users\User\Downloads\פרוייקט מירה ורחלי\layered-architecture-demo\project C#.net\DalTest\obj\Debug\ref\DalTest.dll
+E:\פרוייקט מירה ורחלי\layered-architecture-demo\project C#.net\bin\DalTest.exe
+E:\פרוייקט מירה ורחלי\layered-architecture-demo\project C#.net\bin\DalTest.deps.json
+E:\פרוייקט מירה ורחלי\layered-architecture-demo\project C#.net\bin\DalTest.runtimeconfig.json
+E:\פרוייקט מירה ורחלי\layered-architecture-demo\project C#.net\bin\DalTest.dll
+E:\פרוייקט מירה ורחלי\layered-architecture-demo\project C#.net\bin\DalTest.pdb
+E:\פרוייקט מירה ורחלי\layered-architecture-demo\project C#.net\DalTest\obj\Debug\DalTest.csproj.AssemblyReference.cache
+E:\פרוייקט מירה ורחלי\layered-architecture-demo\project C#.net\DalTest\obj\Debug\DalTest.GeneratedMSBuildEditorConfig.editorconfig
+E:\פרוייקט מירה ורחלי\layered-architecture-demo\project C#.net\DalTest\obj\Debug\DalTest.AssemblyInfoInputs.cache
+E:\פרוייקט מירה ורחלי\layered-architecture-demo\project C#.net\DalTest\obj\Debug\DalTest.AssemblyInfo.cs
+E:\פרוייקט מירה ורחלי\layered-architecture-demo\project C#.net\DalTest\obj\Debug\DalTest.csproj.CoreCompileInputs.cache
+E:\פרוייקט מירה ורחלי\layered-architecture-demo\project C#.net\DalTest\obj\Debug\DalTest.csproj.CopyComplete
+E:\פרוייקט מירה ורחלי\layered-architecture-demo\project C#.net\DalTest\obj\Debug\DalTest.dll
+E:\פרוייקט מירה ורחלי\layered-architecture-demo\project C#.net\DalTest\obj\Debug\refint\DalTest.dll
+E:\פרוייקט מירה ורחלי\layered-architecture-demo\project C#.net\DalTest\obj\Debug\DalTest.pdb
+E:\פרוייקט מירה ורחלי\layered-architecture-demo\project C#.net\DalTest\obj\Debug\DalTest.genruntimeconfig.cache
+E:\פרוייקט מירה ורחלי\layered-architecture-demo\project C#.net\DalTest\obj\Debug\ref\DalTest.dll

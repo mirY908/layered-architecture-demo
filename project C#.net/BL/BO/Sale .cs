@@ -14,15 +14,15 @@ namespace BO
 
       public  double  SumPriceSale { get; set; }
         public bool IfEveryOne { get; set; }
-        public DateTime StartrSale;
+        public DateTime StartSale;
         public DateTime EndSale;
-        public Sale(int Id, int ProductId, int? MinProductSale, double SumPriceSale, bool IfEveryOne, DateTime StartrSale, DateTime EndSale)
+        public Sale(int Id, int ProductId, int? MinProductSale, double SumPriceSale, bool IfEveryOne, DateTime StartSale, DateTime EndSale)
         {
             this.Id = Id;
             this.ProductId = ProductId;
             this.MinProductSale = MinProductSale;
             this.IfEveryOne = IfEveryOne;
-            this.StartrSale = StartrSale;
+            this.StartSale = StartSale;
             this.EndSale = EndSale;
         }
         public Sale()

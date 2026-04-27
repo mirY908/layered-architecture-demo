@@ -2,11 +2,11 @@
 using Dal;
 using System;
 
-namespace DalXml
-{
+namespace Dal;
 
-    internal sealed class DalXml : IDal
-    {
+//public sealed class DalXml : IDal
+internal sealed class DalXml : IDal
+{
         private static readonly DalXml instance = new DalXml();
 
         public static DalXml Instance { get { return instance; } }
@@ -16,5 +16,4 @@ namespace DalXml
         public ICustomer Custemer { get; } = new CustemerImplementation();
 
         private DalXml() { }
-    }
 }

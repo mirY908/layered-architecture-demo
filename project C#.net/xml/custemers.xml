@@ -1,3 +1,39 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ArrayOfCustemer>
+<ArrayOfCustemer xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Custemer>
+    <CustemerId>3</CustemerId>
+    <CustemerName>3</CustemerName>
+    <Adress>3</Adress>
+    <phone>3</phone>
+  </Custemer>
+  <Custemer>
+    <CustemerId>122</CustemerId>
+    <CustemerName>Yael</CustemerName>
+    <Adress>jerusalem</Adress>
+    <phone>0504447777</phone>
+  </Custemer>
+  <Custemer>
+    <CustemerId>133</CustemerId>
+    <CustemerName>Rachel</CustemerName>
+    <Adress>Bb</Adress>
+    <phone>0504447771</phone>
+  </Custemer>
+  <Custemer>
+    <CustemerId>144</CustemerId>
+    <CustemerName>Yosef</CustemerName>
+    <Adress>usa</Adress>
+    <phone>0504447773</phone>
+  </Custemer>
+  <Custemer>
+    <CustemerId>155</CustemerId>
+    <CustemerName>Yisrael</CustemerName>
+    <Adress>Yisrael</Adress>
+    <phone>0504447775</phone>
+  </Custemer>
+  <Custemer>
+    <CustemerId>166</CustemerId>
+    <CustemerName>Rfael</CustemerName>
+    <Adress>jerusalem</Adress>
+    <phone>0504447779</phone>
+  </Custemer>
 </ArrayOfCustemer>

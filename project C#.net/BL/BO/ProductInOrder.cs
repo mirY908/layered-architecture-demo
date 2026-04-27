@@ -12,7 +12,22 @@ namespace BO
         public string name;
         public double minPrice;
         public int amount;
-        List<SaleInProduct> products;
+        //List<SaleInProduct> products;
+        public List<SaleInProduct> products; 
         public double finalPrice;
+
+        public ProductInOrder()
+        {
+           
+        }
+
+       
+        public ProductInOrder(int id, double price, int amount)
+        {
+            this.id = id;
+            this.minPrice = price;
+            this.amount = amount;
+            this.products = new List<SaleInProduct>();
+        }
     }
 }

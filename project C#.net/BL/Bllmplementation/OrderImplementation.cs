@@ -3,113 +3,160 @@ using BO;
 using System;
 using System.Collections.Generic;
 using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+using Do; // הוספתי גישה ל-DO עבור החריגות של הנתונים
 
 namespace Bllmplementation
 {
-    internal class OrderImplementation:IOrder
+    internal class OrderImplementation : IOrder
     {
-    //    private DalApi.IDal _dal = DalApi.Factory.Get;
+        private DalApi.IDal _dal = DalApi.Factory.Get;
 
-    //    public List<SaleInProduct> AddProductToOrder(int code, int amount)
-    //    {
-    //        Order order = new Order { ProductList = new List<ProductInOrder>() };
-    //        return AddProductToOrder(order, code, amount);
-    //    }
-    //    public List<SaleInProduct> AddProductToOrder(Order order, int productId, int amountInOrder)
-    //    {
-    //        try
-    //        {
-    //            Product product = _dal.Product.Read(productId).ConvertDoProductToBoProduct();
+        public List<SaleInProduct> AddProductToOrder(int code, int amount)
+        {
+            Order order = new Order { ProductList = new List<ProductInOrder>() };
+            return AddProductToOrder(order, code, amount);
+        }
 
-    //            ProductInOrder productInOrder = order.ProductList.FirstOrDefault(p => p.ProductId == productId);
-    //            if (productInOrder != null)
-    //            {
-    //                if (product.AmountInStock < productInOrder.AmountOfOrder)
-    //                    throw new Exception("Not enough in stock");
-    //                else
-    //                    productInOrder.AmountOfOrder += amountInOrder;
-    //                return productInOrder.SalesOfProduct;
-    //            }
+        public List<SaleInProduct> AddProductToOrder(Order order, int productId, int amountInOrder)
+        {
+            try
+            {
+                // שליפת מוצר מה-DAL. אם לא נמצא, ה-DAL (או ה-CopyToBO) יחזיר שגיאה
+                var dalProduct = _dal.Product.Read(productId);
+                if (dalProduct == null)
+                    throw new BO.BlDoesNotExistException($"Product with ID {productId} was not found.");
 
-    //            else
-    //            {
-    //                if (product.AmountInStock < amountInOrder)
-    //                    throw new Exception("Not enough in stock");
-    //            }
-    //            ProductInOrder newProduct = new ProductInOrder(product.IdProduct, product.Price, amountInOrder);
-    //            SearchSaleForProduct(newProduct, order.IsFavoriteCustomer);
-    //            CalcTotalPriceForProduct(newProduct);
-    //            order.ProductList.Add(newProduct);
-    //            CalcTotalPrice(order);
-    //            return newProduct.SalesOfProduct;
-    //        }
-    //        catch (Exception ex)
-    //        {
-    //            throw new Exception(ex.Message, ex);
-    //        }
-    //    }
+                BO.Product product = dalProduct.CopyToBO();
 
-    //    public void CalcTotalPrice(Order order)
-    //    {
-    //        order.TotalPrice = order.ProductList.Sum(p => p.TotalPrice);
-    //    }
+                ProductInOrder productInOrder = order.ProductList.FirstOrDefault(p => p.id == productId);
 
-    //    public void CalcTotalPriceForProduct(ProductInOrder productInOrder)
-    //    {
-    //        List<SaleInProduct> useSaleInOrder = new List<SaleInProduct>();
-    //        foreach (SaleInProduct item in productInOrder.SalesOfProduct)
-    //        {
-    //            if (productInOrder.AmountOfOrder < item.AmountForSale) continue;
-    //            productInOrder.TotalPrice += productInOrder.AmountOfOrder / item.AmountForSale * item.Price;
-    //            productInOrder.AmountOfOrder %= item.AmountForSale;
-    //            useSaleInOrder.Add(item);
-    //            if (productInOrder.AmountOfOrder == 0) break;
-    //        }
-    //        if (productInOrder.AmountOfOrder != 0)
-    //        {
-    //            productInOrder.TotalPrice = productInOrder.AmountOfOrder * productInOrder.BasePrice;
-    //        }
-    //        productInOrder.SalesOfProduct = useSaleInOrder;
-    //    }
+                if (productInOrder != null)
+                {
+                    // בדיקת מלאי - שימוש בחריגת נתונים לא תקינים מה-BO
+                    if (product.Amount < (productInOrder.amount + amountInOrder))
+                        throw new BO.BlInvalidDataException($"Not enough in stock for product {product.Id}. Available: {product.Amount}");
 
+                    productInOrder.amount += amountInOrder;
+                    SearchSaleForProduct(productInOrder, order.IsFavoriteCustomer);
+                    CalcTotalPriceForProduct(productInOrder);
+                    CalcTotalPrice(order);
 
-    //    public void DoOrder(Order order)
-    //    {
-    //        try
-    //        {
-    //            foreach (ProductInOrder product in order.ProductList)
-    //            {
-    //                DO.Product prod = _dal.Product.Read(product.ProductId) ?? throw new Exception("Product not found");
+                    return productInOrder.products;
+                }
+                else
+                {
+                    if (product.Amount < amountInOrder)
+                        throw new BO.BlInvalidDataException($"Not enough in stock for product {product.Id}. Available: {product.Amount}");
+                }
 
-    //                if (product.AmountOfOrder > prod.AmountInStock)
-    //                    throw new Exception($"Not enough stock for product {prod.IdProduct}");
+                ProductInOrder newProduct = new ProductInOrder(product.Id, product.Price, amountInOrder);
+                SearchSaleForProduct(newProduct, order.IsFavoriteCustomer);
+                CalcTotalPriceForProduct(newProduct);
 
-    //                prod = prod with { AmountInStock = prod.AmountInStock - product.AmountOfOrder };
-    //                _dal.Product.Update(prod);
-    //            }
-    //        }
-    //        catch (Exception e)
-    //        {
-    //            throw new Exception("Failed to perform order", e);
-    //        }
-    //    }
+                order.ProductList.Add(newProduct);
+                CalcTotalPrice(order);
 
+                return newProduct.products;
+            }
+            catch (BO.BlDoesNotExistException) { throw; }
+            catch (BO.BlInvalidDataException) { throw; }
+            catch (Exception ex)
+            {
+                throw new BO.BlException("An error occurred while adding product to order.", ex);
+            }
+        }
 
-    //    public void SearchSaleForProduct(ProductInOrder productInOrder, bool isFavorate)
-    //    {
-    //        try
-    //        {
-    //            productInOrder.SalesOfProduct = _dal.Sale.ReadAll(s => s.ProductId == productInOrder.ProductId &&
-    //            s.StartDate <= DateTime.Now && s.EndDate >= DateTime.Now && s.RequiredAmount <= productInOrder.AmountOfOrder && (isFavorate == true && s.IsForClubMembers == true) || (isFavorate == false))
-    //                .Select(s => new BO.SaleInProduct(s.IdSale, s.ProductId, s.RequiredAmount, s.PriceSale, s.IsForClubMembers))
-    //                .OrderBy(s => s.Price).ToList();
-    //        }
-    //        catch (Exception ex)
-    //        {
-    //            throw new Exception(ex.Message, ex);
-    //        }
-    //    }
-    //}
+        public void DoOrder(Order order)
+        {
+            try
+            {
+                foreach (ProductInOrder pInOrder in order.ProductList)
+                {
+                    Do.Product prod = _dal.Product.Read(pInOrder.id)
+                                      ?? throw new BO.BlDoesNotExistException($"Product {pInOrder.id} not found during order finalization.");
+
+                    if (pInOrder.amount > prod.Amount)
+                        throw new BO.BlInvalidDataException($"Insufficient stock for product {prod.Id} during checkout.");
+
+                    // עדכון מלאי ב-DAL
+                    prod = prod with { Amount = prod.Amount - (int)pInOrder.amount };
+                    _dal.Product.Update(prod);
+                }
+            }
+            catch (Do.DalDoesNotExistException ex)
+            {
+                throw new BO.BlDoesNotExistException("Database sync error: Product missing.", ex);
+            }
+            catch (BO.BlInvalidDataException) { throw; }
+            catch (Exception e)
+            {
+                throw new BO.BlException("Failed to perform order completion.", e);
+            }
+        }
+
+        public void SearchSaleForProduct(ProductInOrder productInOrder, bool isFavorate)
+        {
+            try
+            {
+                var salesFromDal = _dal.Sale.ReadAll(s =>
+                    s.ProductId == productInOrder.id &&
+                    s.StartSale <= DateTime.Now &&
+                    s.EndSale >= DateTime.Now &&
+                    s.MinProductSale <= productInOrder.amount);
+
+                productInOrder.products = salesFromDal
+                    .Where(s => (isFavorate && s.IfEveryOne) || !s.IfEveryOne)
+                    .Select(s => new BO.SaleInProduct(s.Id, (int)s.MinProductSale, (int)s.SumPriceSale, s.IfEveryOne))
+                    .OrderBy(s => s.price).ToList();
+            }
+            catch (Exception ex)
+            {
+                throw new BO.BlException("Error searching for applicable sales.", ex);
+            }
+        }
+
+        // פונקציות עזר נשארות ללא שינוי לוגי כי הן לא פונות ל-DAL
+        public void CalcTotalPrice(Order order)
+        {
+            order.TotalPrice = order.ProductList.Sum(p => p.finalPrice);
+        }
+
+        public void CalcTotalPriceForProduct(ProductInOrder productInOrder)
+        {
+            List<SaleInProduct> usedSales = new List<SaleInProduct>();
+            double tempTotal = 0;
+            int tempAmount = (int)productInOrder.amount;
+
+            if (productInOrder.products != null)
+            {
+                foreach (SaleInProduct item in productInOrder.products)
+                {
+                    if (tempAmount < item.amount) continue;
+
+                    int sets = tempAmount / item.amount;
+                    tempTotal += sets * item.price;
+                    tempAmount %= item.amount;
+
+                    usedSales.Add(item);
+                    if (tempAmount == 0) break;
+                }
+            }
+
+            if (tempAmount > 0)
+            {
+                tempTotal += tempAmount * productInOrder.minPrice;
+            }
+
+            productInOrder.finalPrice = tempTotal;
+            productInOrder.products = usedSales;
+        }
+        public IEnumerable<object> ReadAll()
+        {
+            // החזרה של רשימה ריקה של אובייקטים כדי לקיים את החוזה של הממשק
+            return new List<object>();
+
+            // אם בעתיד תרצי להחזיר את כל ההזמנות מה-DAL (בהנחה שיש כזה):
+            // return _dal.Order.ReadAll().Select(s => s.CopyToBO());
+        }
+    }
 }
