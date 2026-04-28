@@ -6,8 +6,9 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using Do; // חשוב כדי לזהות את החריגות של הנתונים
+using static BO.Tools;
 
-namespace Bllmplementation
+namespace BlImplementation
 {
     internal class ProductImplementation : IProduct
     {

@@ -89,7 +89,7 @@ public static class Tools
             MinProductSale = doSale.MinProductSale,
             SumPriceSale =(double) doSale.SumPriceSale,
             IfEveryOne = doSale.IfEveryOne,
-            StartrSale = doSale.StartSale,
+            StartSale = doSale.StartSale,
             EndSale =(DateTime) doSale.EndSale
         };
     }
@@ -101,7 +101,7 @@ public static class Tools
             boSale.MinProductSale,
             boSale.SumPriceSale,
             boSale.IfEveryOne,
-            boSale.StartrSale,
+            boSale.StartSale,
             boSale.EndSale
         );
     }

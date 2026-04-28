@@ -1,13 +1,12 @@
 ﻿using BlApi;
 
 
-namespace Bllmplementation;
+namespace BlImplementation;
 
-internal class BI:IBI
+internal class BI : IBI
 {
-    public ICastumer Customer => new CustemerImplementation();
-    public IProduct Product => new ProductImplementation();
-    public ISale Sale => new SaleImplementation();
-
-    public IOrder Order => new OrderImplementation();
+    public ICastumer customer => new CustemerImplementation();
+    public IProduct product => new ProductImplementation();
+    public ISale sale => new SaleImplementation();
+    public IOrder order => new OrderImplementation();
 }

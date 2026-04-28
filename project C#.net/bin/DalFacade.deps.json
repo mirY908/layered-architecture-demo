@@ -16,10 +16,7 @@
       },
       "Tools/1.0.0": {
         "runtime": {
-          "Tools.dll": {
-            "assemblyVersion": "1.0.0.0",
-            "fileVersion": "1.0.0.0"
-          }
+          "Tools.dll": {}
         }
       }
     }

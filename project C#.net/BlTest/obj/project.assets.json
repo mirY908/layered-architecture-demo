@@ -64,7 +64,7 @@
         "framework": ".NETCoreApp,Version=v6.0",
         "dependencies": {
           "DalFacade": "1.0.0",
-          "Tools": "1.0.0"
+          "DalList": "1.0.0"
         },
         "compile": {
           "bin/placeholder/DalXml.dll": {}
@@ -124,23 +124,25 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\User\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\mirayitzhaki\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\Downloads\\פרוייקט מירה ורחלי\\layered-architecture-demo\\project C#.net\\BlTest\\BlTest.csproj",
+      "projectUniqueName": "M:\\פרויקט גיט2\\layered-architecture-demo\\project C#.net\\BlTest\\BlTest.csproj",
       "projectName": "BlTest",
-      "projectPath": "C:\\Users\\User\\Downloads\\פרוייקט מירה ורחלי\\layered-architecture-demo\\project C#.net\\BlTest\\BlTest.csproj",
-      "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\Downloads\\פרוייקט מירה ורחלי\\layered-architecture-demo\\project C#.net\\BlTest\\obj\\",
+      "projectPath": "M:\\פרויקט גיט2\\layered-architecture-demo\\project C#.net\\BlTest\\BlTest.csproj",
+      "packagesPath": "C:\\Users\\mirayitzhaki\\.nuget\\packages\\",
+      "outputPath": "M:\\פרויקט גיט2\\layered-architecture-demo\\project C#.net\\BlTest\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\mirayitzhaki\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -154,14 +156,13 @@
       },
       "frameworks": {
         "net6.0": {
-          "framework": "net6.0",
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\User\\Downloads\\פרוייקט מירה ורחלי\\layered-architecture-demo\\project C#.net\\BL\\BL.csproj": {
-              "projectPath": "C:\\Users\\User\\Downloads\\פרוייקט מירה ורחלי\\layered-architecture-demo\\project C#.net\\BL\\BL.csproj"
+            "M:\\פרויקט גיט2\\layered-architecture-demo\\project C#.net\\BL\\BL.csproj": {
+              "projectPath": "M:\\פרויקט גיט2\\layered-architecture-demo\\project C#.net\\BL\\BL.csproj"
             },
-            "C:\\Users\\User\\Downloads\\פרוייקט מירה ורחלי\\layered-architecture-demo\\project C#.net\\DalTest\\DalTest.csproj": {
-              "projectPath": "C:\\Users\\User\\Downloads\\פרוייקט מירה ורחלי\\layered-architecture-demo\\project C#.net\\DalTest\\DalTest.csproj"
+            "M:\\פרויקט גיט2\\layered-architecture-demo\\project C#.net\\DalTest\\DalTest.csproj": {
+              "projectPath": "M:\\פרויקט גיט2\\layered-architecture-demo\\project C#.net\\DalTest\\DalTest.csproj"
             }
           }
         }
@@ -170,17 +171,10 @@
         "warnAsError": [
           "NU1605"
         ]
-      },
-      "restoreAuditProperties": {
-        "enableAudit": "true",
-        "auditLevel": "low",
-        "auditMode": "direct"
-      },
-      "SdkAnalysisLevel": "10.0.200"
+      }
     },
     "frameworks": {
       "net6.0": {
-        "framework": "net6.0",
         "targetAlias": "net6.0",
         "imports": [
           "net461",
@@ -198,7 +192,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.203\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
       }
     }
   }

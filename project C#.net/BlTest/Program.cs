@@ -5,7 +5,7 @@ namespace BITest;
 
 internal class Program
 {
-    // הגדרת שדה עבור הממשק הראשי של השכבה הלוגית IBl כנדרש בדף
+    // הגדרת שדה עבור הממשק הראשי של השכבה הלוגית IBI כנדרש בדף
     static readonly IBI s_bl = Factory.Get();
 
     static void Main(string[] args)
@@ -83,14 +83,14 @@ internal class Program
         string sub = Console.ReadLine();
         if (sub == "1")
         {
-            var all = s_bl.Castumer.ReadAll();
+            var all = s_bl.customer.ReadAll();
             foreach (var c in all) Console.WriteLine(c);
         }
         else if (sub == "2")
         {
             Console.WriteLine("Enter Customer ID:");
             int id = int.Parse(Console.ReadLine());
-            Console.WriteLine(s_bl.Castumer.Read(id));
+            Console.WriteLine(s_bl.customer.Read(id));
         }
     }
 

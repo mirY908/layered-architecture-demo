@@ -5,7 +5,7 @@ using System.Collections.Generic;
 using System.Linq;
 using Do; // הוספתי גישה ל-DO עבור החריגות של הנתונים
 
-namespace Bllmplementation
+namespace BlImplementation
 {
     internal class OrderImplementation : IOrder
     {

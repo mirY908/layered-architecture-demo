@@ -2,9 +2,9 @@
 
 using BO;
 
-namespace BlApi;
-
-        public interface ICastumer
+namespace BlApi
+{   
+    public interface ICastumer
         {
             int Create(Customer item);
              Customer? Read(int id);
@@ -16,5 +16,9 @@ namespace BlApi;
             public bool IsCustomerExist();
          }
 
+
+}
+
+ 
 
 

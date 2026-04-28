@@ -1,0 +1,5 @@
+M:\פרויקט גיט2\layered-architecture-demo\project C#.net\BL\obj\Debug\BL.csproj.AssemblyReference.cache
+M:\פרויקט גיט2\layered-architecture-demo\project C#.net\BL\obj\Debug\BL.GeneratedMSBuildEditorConfig.editorconfig
+M:\פרויקט גיט2\layered-architecture-demo\project C#.net\BL\obj\Debug\BL.AssemblyInfoInputs.cache
+M:\פרויקט גיט2\layered-architecture-demo\project C#.net\BL\obj\Debug\BL.AssemblyInfo.cs
+M:\פרויקט גיט2\layered-architecture-demo\project C#.net\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache

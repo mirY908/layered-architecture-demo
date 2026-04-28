@@ -4,8 +4,9 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using Do; // גישה לשכבת הנתונים עבור החריגות
+using System.Reflection;
 
-namespace Bllmplementation
+namespace BlImplementation
 {
     internal class SaleImplementation : ISale
     {

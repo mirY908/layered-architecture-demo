@@ -173,3 +173,16 @@ E:\פרוייקט מירה ורחלי\layered-architecture-demo\project C#.net\D
 E:\פרוייקט מירה ורחלי\layered-architecture-demo\project C#.net\DalFacade\obj\Debug\DalFacade.csproj.CopyComplete
 C:\Users\User\Downloads\פרוייקט מירה ורחלי\layered-architecture-demo\project C#.net\DalFacade\obj\Debug\DalFacade.csproj.AssemblyReference.cache
 C:\Users\User\Downloads\פרוייקט מירה ורחלי\layered-architecture-demo\project C#.net\DalFacade\obj\Debug\DalFacade.csproj.Up2Date
+M:\פרויקט גיט2\layered-architecture-demo\project C#.net\bin\DalFacade.deps.json
+M:\פרויקט גיט2\layered-architecture-demo\project C#.net\bin\DalFacade.dll
+M:\פרויקט גיט2\layered-architecture-demo\project C#.net\bin\DalFacade.pdb
+M:\פרויקט גיט2\layered-architecture-demo\project C#.net\DalFacade\obj\Debug\DalFacade.csproj.AssemblyReference.cache
+M:\פרויקט גיט2\layered-architecture-demo\project C#.net\DalFacade\obj\Debug\DalFacade.GeneratedMSBuildEditorConfig.editorconfig
+M:\פרויקט גיט2\layered-architecture-demo\project C#.net\DalFacade\obj\Debug\DalFacade.AssemblyInfoInputs.cache
+M:\פרויקט גיט2\layered-architecture-demo\project C#.net\DalFacade\obj\Debug\DalFacade.AssemblyInfo.cs
+M:\פרויקט גיט2\layered-architecture-demo\project C#.net\DalFacade\obj\Debug\DalFacade.csproj.CoreCompileInputs.cache
+M:\פרויקט גיט2\layered-architecture-demo\project C#.net\DalFacade\obj\Debug\DalFacade.csproj.CopyComplete
+M:\פרויקט גיט2\layered-architecture-demo\project C#.net\DalFacade\obj\Debug\DalFacade.dll
+M:\פרויקט גיט2\layered-architecture-demo\project C#.net\DalFacade\obj\Debug\refint\DalFacade.dll
+M:\פרויקט גיט2\layered-architecture-demo\project C#.net\DalFacade\obj\Debug\DalFacade.pdb
+M:\פרויקט גיט2\layered-architecture-demo\project C#.net\DalFacade\obj\Debug\ref\DalFacade.dll

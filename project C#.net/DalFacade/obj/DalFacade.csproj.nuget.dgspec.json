@@ -1,23 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\User\\Downloads\\פרוייקט מירה ורחלי\\layered-architecture-demo\\project C#.net\\DalFacade\\DalFacade.csproj": {}
+    "M:\\פרויקט גיט2\\layered-architecture-demo\\project C#.net\\DalFacade\\DalFacade.csproj": {}
   },
   "projects": {
-    "C:\\Users\\User\\Downloads\\פרוייקט מירה ורחלי\\layered-architecture-demo\\project C#.net\\DalFacade\\DalFacade.csproj": {
+    "M:\\פרויקט גיט2\\layered-architecture-demo\\project C#.net\\DalFacade\\DalFacade.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\Downloads\\פרוייקט מירה ורחלי\\layered-architecture-demo\\project C#.net\\DalFacade\\DalFacade.csproj",
+        "projectUniqueName": "M:\\פרויקט גיט2\\layered-architecture-demo\\project C#.net\\DalFacade\\DalFacade.csproj",
         "projectName": "DalFacade",
-        "projectPath": "C:\\Users\\User\\Downloads\\פרוייקט מירה ורחלי\\layered-architecture-demo\\project C#.net\\DalFacade\\DalFacade.csproj",
-        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\Downloads\\פרוייקט מירה ורחלי\\layered-architecture-demo\\project C#.net\\DalFacade\\obj\\",
+        "projectPath": "M:\\פרויקט גיט2\\layered-architecture-demo\\project C#.net\\DalFacade\\DalFacade.csproj",
+        "packagesPath": "C:\\Users\\mirayitzhaki\\.nuget\\packages\\",
+        "outputPath": "M:\\פרויקט גיט2\\layered-architecture-demo\\project C#.net\\DalFacade\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\mirayitzhaki\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -31,11 +32,10 @@
         },
         "frameworks": {
           "net6.0": {
-            "framework": "net6.0",
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\User\\Downloads\\פרוייקט מירה ורחלי\\layered-architecture-demo\\project C#.net\\Tools\\Tools.csproj": {
-                "projectPath": "C:\\Users\\User\\Downloads\\פרוייקט מירה ורחלי\\layered-architecture-demo\\project C#.net\\Tools\\Tools.csproj"
+              "M:\\פרויקט גיט2\\layered-architecture-demo\\project C#.net\\Tools\\Tools.csproj": {
+                "projectPath": "M:\\פרויקט גיט2\\layered-architecture-demo\\project C#.net\\Tools\\Tools.csproj"
               }
             }
           }
@@ -44,17 +44,10 @@
           "warnAsError": [
             "NU1605"
           ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
-        },
-        "SdkAnalysisLevel": "10.0.200"
+        }
       },
       "frameworks": {
         "net6.0": {
-          "framework": "net6.0",
           "targetAlias": "net6.0",
           "imports": [
             "net461",
@@ -72,24 +65,25 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.203\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\User\\Downloads\\פרוייקט מירה ורחלי\\layered-architecture-demo\\project C#.net\\Tools\\Tools.csproj": {
+    "M:\\פרויקט גיט2\\layered-architecture-demo\\project C#.net\\Tools\\Tools.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\Downloads\\פרוייקט מירה ורחלי\\layered-architecture-demo\\project C#.net\\Tools\\Tools.csproj",
+        "projectUniqueName": "M:\\פרויקט גיט2\\layered-architecture-demo\\project C#.net\\Tools\\Tools.csproj",
         "projectName": "Tools",
-        "projectPath": "C:\\Users\\User\\Downloads\\פרוייקט מירה ורחלי\\layered-architecture-demo\\project C#.net\\Tools\\Tools.csproj",
-        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\Downloads\\פרוייקט מירה ורחלי\\layered-architecture-demo\\project C#.net\\Tools\\obj\\",
+        "projectPath": "M:\\פרויקט גיט2\\layered-architecture-demo\\project C#.net\\Tools\\Tools.csproj",
+        "packagesPath": "C:\\Users\\mirayitzhaki\\.nuget\\packages\\",
+        "outputPath": "M:\\פרויקט גיט2\\layered-architecture-demo\\project C#.net\\Tools\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\mirayitzhaki\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -103,7 +97,6 @@
         },
         "frameworks": {
           "net6.0": {
-            "framework": "net6.0",
             "targetAlias": "net6.0",
             "projectReferences": {}
           }
@@ -112,17 +105,10 @@
           "warnAsError": [
             "NU1605"
           ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
-        },
-        "SdkAnalysisLevel": "10.0.200"
+        }
       },
       "frameworks": {
         "net6.0": {
-          "framework": "net6.0",
           "targetAlias": "net6.0",
           "imports": [
             "net461",
@@ -140,7 +126,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.203\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
         }
       }
     }

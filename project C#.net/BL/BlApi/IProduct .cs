@@ -1,8 +1,8 @@
 ﻿
 using BO;
 
-namespace BlApi;
-
+namespace BlApi
+{
 public interface IProduct
 {
     int Create(Product item);
@@ -13,3 +13,6 @@ public interface IProduct
     void Delete(int id);
     public bool IsCustomerExist();
 }
+
+}
+

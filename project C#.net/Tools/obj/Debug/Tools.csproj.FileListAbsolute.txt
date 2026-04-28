@@ -57,3 +57,15 @@ E:\פרוייקט מירה ורחלי\layered-architecture-demo\project C#.net\T
 E:\פרוייקט מירה ורחלי\layered-architecture-demo\project C#.net\Tools\obj\Debug\refint\Tools.dll
 E:\פרוייקט מירה ורחלי\layered-architecture-demo\project C#.net\Tools\obj\Debug\Tools.pdb
 E:\פרוייקט מירה ורחלי\layered-architecture-demo\project C#.net\Tools\obj\Debug\ref\Tools.dll
+M:\פרויקט גיט2\layered-architecture-demo\project C#.net\bin\Tools.deps.json
+M:\פרויקט גיט2\layered-architecture-demo\project C#.net\bin\Tools.dll
+M:\פרויקט גיט2\layered-architecture-demo\project C#.net\bin\Tools.pdb
+M:\פרויקט גיט2\layered-architecture-demo\project C#.net\Tools\obj\Debug\Tools.csproj.AssemblyReference.cache
+M:\פרויקט גיט2\layered-architecture-demo\project C#.net\Tools\obj\Debug\Tools.GeneratedMSBuildEditorConfig.editorconfig
+M:\פרויקט גיט2\layered-architecture-demo\project C#.net\Tools\obj\Debug\Tools.AssemblyInfoInputs.cache
+M:\פרויקט גיט2\layered-architecture-demo\project C#.net\Tools\obj\Debug\Tools.AssemblyInfo.cs
+M:\פרויקט גיט2\layered-architecture-demo\project C#.net\Tools\obj\Debug\Tools.csproj.CoreCompileInputs.cache
+M:\פרויקט גיט2\layered-architecture-demo\project C#.net\Tools\obj\Debug\Tools.dll
+M:\פרויקט גיט2\layered-architecture-demo\project C#.net\Tools\obj\Debug\refint\Tools.dll
+M:\פרויקט גיט2\layered-architecture-demo\project C#.net\Tools\obj\Debug\Tools.pdb
+M:\פרויקט גיט2\layered-architecture-demo\project C#.net\Tools\obj\Debug\ref\Tools.dll

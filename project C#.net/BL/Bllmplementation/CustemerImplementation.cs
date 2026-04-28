@@ -8,8 +8,9 @@ using System.Collections.Generic;
 using System.Linq;
 using DalApi;
 using Do; // הוספתי כדי שה-catch יזהה את החריגות של הנתונים
+using static BO.Tools;
 
-namespace Bllmplementation
+namespace BlImplementation
 {
     internal class CustemerImplementation : ICastumer
     {

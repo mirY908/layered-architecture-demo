@@ -17,3 +17,24 @@ M:\פרוייקט מירה ורחלי\C-project-MR\project C#.net\BL\obj\Debug\n
 M:\פרוייקט מירה ורחלי\C-project-MR\project C#.net\BL\obj\Debug\net6.0\refint\BL.dll
 M:\פרוייקט מירה ורחלי\C-project-MR\project C#.net\BL\obj\Debug\net6.0\BL.pdb
 M:\פרוייקט מירה ורחלי\C-project-MR\project C#.net\BL\obj\Debug\net6.0\ref\BL.dll
+M:\פרויקט גיט2\layered-architecture-demo\project C#.net\BL\obj\Debug\net6.0\BL.csproj.AssemblyReference.cache
+M:\פרויקט גיט2\layered-architecture-demo\project C#.net\BL\obj\Debug\net6.0\BL.GeneratedMSBuildEditorConfig.editorconfig
+M:\פרויקט גיט2\layered-architecture-demo\project C#.net\BL\obj\Debug\net6.0\BL.AssemblyInfoInputs.cache
+M:\פרויקט גיט2\layered-architecture-demo\project C#.net\BL\obj\Debug\net6.0\BL.AssemblyInfo.cs
+M:\פרויקט גיט2\layered-architecture-demo\project C#.net\BL\obj\Debug\net6.0\BL.csproj.CoreCompileInputs.cache
+M:\פרויקט גיט2\layered-architecture-demo\project C#.net\BL\obj\Debug\net6.0\BL.dll
+M:\פרויקט גיט2\layered-architecture-demo\project C#.net\BL\obj\Debug\net6.0\refint\BL.dll
+M:\פרויקט גיט2\layered-architecture-demo\project C#.net\BL\obj\Debug\net6.0\BL.pdb
+M:\פרויקט גיט2\layered-architecture-demo\project C#.net\BL\bin\Debug\net6.0\BL.deps.json
+M:\פרויקט גיט2\layered-architecture-demo\project C#.net\BL\bin\Debug\net6.0\BL.dll
+M:\פרויקט גיט2\layered-architecture-demo\project C#.net\BL\bin\Debug\net6.0\BL.pdb
+M:\פרויקט גיט2\layered-architecture-demo\project C#.net\BL\bin\Debug\net6.0\DalFacade.dll
+M:\פרויקט גיט2\layered-architecture-demo\project C#.net\BL\bin\Debug\net6.0\DalList.dll
+M:\פרויקט גיט2\layered-architecture-demo\project C#.net\BL\bin\Debug\net6.0\DalXml.dll
+M:\פרויקט גיט2\layered-architecture-demo\project C#.net\BL\bin\Debug\net6.0\Tools.dll
+M:\פרויקט גיט2\layered-architecture-demo\project C#.net\BL\bin\Debug\net6.0\DalFacade.pdb
+M:\פרויקט גיט2\layered-architecture-demo\project C#.net\BL\bin\Debug\net6.0\DalList.pdb
+M:\פרויקט גיט2\layered-architecture-demo\project C#.net\BL\bin\Debug\net6.0\DalXml.pdb
+M:\פרויקט גיט2\layered-architecture-demo\project C#.net\BL\bin\Debug\net6.0\Tools.pdb
+M:\פרויקט גיט2\layered-architecture-demo\project C#.net\BL\obj\Debug\net6.0\BL.csproj.CopyComplete
+M:\פרויקט גיט2\layered-architecture-demo\project C#.net\BL\obj\Debug\net6.0\ref\BL.dll
