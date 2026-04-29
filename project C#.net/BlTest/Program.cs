@@ -10,6 +10,7 @@ internal class Program
 
     static void Main(string[] args)
     {
+        
         try
         {
             // קריאה לפונקציית האתחול מה-DAL כדי לחסוך זמן בהקלדת נתונים

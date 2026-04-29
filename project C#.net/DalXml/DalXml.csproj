@@ -30,5 +30,28 @@
 		<ProjectReference Include="..\DalFacade\DalFacade.csproj" />
 		<ProjectReference Include="..\DalList\DalList.csproj" />
 	</ItemGroup>
+	<ItemGroup>
+	  <None Update="xml\custemers.xml">
+	    <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+	  </None>
+	  <None Update="xml\dal-config.xml">
+	    <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+	  </None>
+	  <None Update="xml\dal-config.xml.txt">
+	    <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+	  </None>
+	  <None Update="xml\data-config.xml">
+	    <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+	  </None>
+	  <None Update="xml\products.xml">
+	    <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+	  </None>
+	  <None Update="xml\sales.xml">
+	    <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+	  </None>
+	  <None Update="xml\‏‏מסמך טקסט חדש.txt">
+	    <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+	  </None>
+	</ItemGroup>
 
 </Project>

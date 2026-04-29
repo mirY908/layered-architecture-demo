@@ -28,31 +28,50 @@
         /// </summary>
         private void InitializeComponent()
         {
-            groupBox1 = new GroupBox();
+            dataGridView1 = new DataGridView();
+            txtSearch = new Label();
+            ((System.ComponentModel.ISupportInitialize)dataGridView1).BeginInit();
             SuspendLayout();
             // 
-            // groupBox1
+            // dataGridView1
             // 
-            groupBox1.Location = new Point(89, 111);
-            groupBox1.Name = "groupBox1";
-            groupBox1.Size = new Size(386, 167);
-            groupBox1.TabIndex = 0;
-            groupBox1.TabStop = false;
-            groupBox1.Text = "groupBox1";
+            dataGridView1.ColumnHeadersHeightSizeMode = DataGridViewColumnHeadersHeightSizeMode.AutoSize;
+            dataGridView1.Location = new Point(12, 12);
+            dataGridView1.Name = "dataGridView1";
+            dataGridView1.RowHeadersWidth = 51;
+            dataGridView1.RowTemplate.Height = 29;
+            dataGridView1.Size = new Size(890, 576);
+            dataGridView1.TabIndex = 0;
+            dataGridView1.CellContentClick += dataGridView1_CellContentClick;
+            // 
+            // txtSearch
+            // 
+            txtSearch.AutoSize = true;
+            txtSearch.Location = new Point(742, 90);
+            txtSearch.Name = "txtSearch";
+            txtSearch.Size = new Size(86, 20);
+            txtSearch.TabIndex = 1;
+            txtSearch.Text = "חיפוש מוצר:";
+            txtSearch.Click += label1_Click;
             // 
             // ProductForm
             // 
-            AutoScaleDimensions = new SizeF(7F, 15F);
+            AutoScaleDimensions = new SizeF(8F, 20F);
             AutoScaleMode = AutoScaleMode.Font;
-            ClientSize = new Size(800, 450);
-            Controls.Add(groupBox1);
+            ClientSize = new Size(914, 600);
+            Controls.Add(txtSearch);
+            Controls.Add(dataGridView1);
+            Margin = new Padding(3, 4, 3, 4);
             Name = "ProductForm";
             Text = "ProductForm";
+            ((System.ComponentModel.ISupportInitialize)dataGridView1).EndInit();
             ResumeLayout(false);
+            PerformLayout();
         }
 
         #endregion
 
-        private GroupBox groupBox1;
+        private DataGridView dataGridView1;
+        private Label txtSearch;
     }
 }
