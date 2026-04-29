@@ -9,8 +9,9 @@ namespace Dal
 {
     internal class SaleImplementation : ISale
     {
-        string path = @"..\xml\sales.xml";
-
+        //string path = @"..xml\sales.xml";
+        //string path = @"xml\sales.xml";
+        string path = @"xml\sales.xml";
         public int Create(Sale item)
         {
             XElement SaleRoot = XElement.Load(path);

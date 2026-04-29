@@ -38,3 +38,25 @@ M:\פרויקט גיט2\layered-architecture-demo\project C#.net\BL\bin\Debug\ne
 M:\פרויקט גיט2\layered-architecture-demo\project C#.net\BL\bin\Debug\net6.0\Tools.pdb
 M:\פרויקט גיט2\layered-architecture-demo\project C#.net\BL\obj\Debug\net6.0\BL.csproj.CopyComplete
 M:\פרויקט גיט2\layered-architecture-demo\project C#.net\BL\obj\Debug\net6.0\ref\BL.dll
+C:\Users\User\Downloads\פרוייקט מירה ורחלי\layered-architecture-demo\project C#.net\BL\bin\Debug\net6.0\BL.deps.json
+C:\Users\User\Downloads\פרוייקט מירה ורחלי\layered-architecture-demo\project C#.net\BL\bin\Debug\net6.0\BL.dll
+C:\Users\User\Downloads\פרוייקט מירה ורחלי\layered-architecture-demo\project C#.net\BL\bin\Debug\net6.0\BL.pdb
+C:\Users\User\Downloads\פרוייקט מירה ורחלי\layered-architecture-demo\project C#.net\BL\bin\Debug\net6.0\DalFacade.dll
+C:\Users\User\Downloads\פרוייקט מירה ורחלי\layered-architecture-demo\project C#.net\BL\bin\Debug\net6.0\DalList.dll
+C:\Users\User\Downloads\פרוייקט מירה ורחלי\layered-architecture-demo\project C#.net\BL\bin\Debug\net6.0\DalXml.dll
+C:\Users\User\Downloads\פרוייקט מירה ורחלי\layered-architecture-demo\project C#.net\BL\bin\Debug\net6.0\Tools.dll
+C:\Users\User\Downloads\פרוייקט מירה ורחלי\layered-architecture-demo\project C#.net\BL\bin\Debug\net6.0\DalFacade.pdb
+C:\Users\User\Downloads\פרוייקט מירה ורחלי\layered-architecture-demo\project C#.net\BL\bin\Debug\net6.0\DalList.pdb
+C:\Users\User\Downloads\פרוייקט מירה ורחלי\layered-architecture-demo\project C#.net\BL\bin\Debug\net6.0\DalXml.pdb
+C:\Users\User\Downloads\פרוייקט מירה ורחלי\layered-architecture-demo\project C#.net\BL\bin\Debug\net6.0\Tools.pdb
+C:\Users\User\Downloads\פרוייקט מירה ורחלי\layered-architecture-demo\project C#.net\BL\obj\Debug\net6.0\BL.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\פרוייקט מירה ורחלי\layered-architecture-demo\project C#.net\BL\obj\Debug\net6.0\BL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Downloads\פרוייקט מירה ורחלי\layered-architecture-demo\project C#.net\BL\obj\Debug\net6.0\BL.AssemblyInfoInputs.cache
+C:\Users\User\Downloads\פרוייקט מירה ורחלי\layered-architecture-demo\project C#.net\BL\obj\Debug\net6.0\BL.AssemblyInfo.cs
+C:\Users\User\Downloads\פרוייקט מירה ורחלי\layered-architecture-demo\project C#.net\BL\obj\Debug\net6.0\BL.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\פרוייקט מירה ורחלי\layered-architecture-demo\project C#.net\BL\obj\Debug\net6.0\BL.sourcelink.json
+C:\Users\User\Downloads\פרוייקט מירה ורחלי\layered-architecture-demo\project C#.net\BL\obj\Debug\net6.0\BL.csproj.Up2Date
+C:\Users\User\Downloads\פרוייקט מירה ורחלי\layered-architecture-demo\project C#.net\BL\obj\Debug\net6.0\BL.dll
+C:\Users\User\Downloads\פרוייקט מירה ורחלי\layered-architecture-demo\project C#.net\BL\obj\Debug\net6.0\refint\BL.dll
+C:\Users\User\Downloads\פרוייקט מירה ורחלי\layered-architecture-demo\project C#.net\BL\obj\Debug\net6.0\BL.pdb
+C:\Users\User\Downloads\פרוייקט מירה ורחלי\layered-architecture-demo\project C#.net\BL\obj\Debug\net6.0\ref\BL.dll

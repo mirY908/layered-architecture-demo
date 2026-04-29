@@ -29,3 +29,35 @@ M:\פרויקט גיט2\layered-architecture-demo\project C#.net\BlTest\obj\Debu
 M:\פרויקט גיט2\layered-architecture-demo\project C#.net\BlTest\obj\Debug\net6.0\BlTest.pdb
 M:\פרויקט גיט2\layered-architecture-demo\project C#.net\BlTest\obj\Debug\net6.0\BlTest.genruntimeconfig.cache
 M:\פרויקט גיט2\layered-architecture-demo\project C#.net\BlTest\obj\Debug\net6.0\ref\BlTest.dll
+C:\Users\User\Downloads\פרוייקט מירה ורחלי\layered-architecture-demo\project C#.net\BlTest\bin\Debug\net6.0\DalTest.deps.json
+C:\Users\User\Downloads\פרוייקט מירה ורחלי\layered-architecture-demo\project C#.net\BlTest\bin\Debug\net6.0\DalTest.runtimeconfig.json
+C:\Users\User\Downloads\פרוייקט מירה ורחלי\layered-architecture-demo\project C#.net\BlTest\bin\Debug\net6.0\DalTest.exe
+C:\Users\User\Downloads\פרוייקט מירה ורחלי\layered-architecture-demo\project C#.net\BlTest\bin\Debug\net6.0\BlTest.exe
+C:\Users\User\Downloads\פרוייקט מירה ורחלי\layered-architecture-demo\project C#.net\BlTest\bin\Debug\net6.0\BlTest.deps.json
+C:\Users\User\Downloads\פרוייקט מירה ורחלי\layered-architecture-demo\project C#.net\BlTest\bin\Debug\net6.0\BlTest.runtimeconfig.json
+C:\Users\User\Downloads\פרוייקט מירה ורחלי\layered-architecture-demo\project C#.net\BlTest\bin\Debug\net6.0\BlTest.dll
+C:\Users\User\Downloads\פרוייקט מירה ורחלי\layered-architecture-demo\project C#.net\BlTest\bin\Debug\net6.0\BlTest.pdb
+C:\Users\User\Downloads\פרוייקט מירה ורחלי\layered-architecture-demo\project C#.net\BlTest\bin\Debug\net6.0\BL.dll
+C:\Users\User\Downloads\פרוייקט מירה ורחלי\layered-architecture-demo\project C#.net\BlTest\bin\Debug\net6.0\DalFacade.dll
+C:\Users\User\Downloads\פרוייקט מירה ורחלי\layered-architecture-demo\project C#.net\BlTest\bin\Debug\net6.0\DalList.dll
+C:\Users\User\Downloads\פרוייקט מירה ורחלי\layered-architecture-demo\project C#.net\BlTest\bin\Debug\net6.0\DalTest.dll
+C:\Users\User\Downloads\פרוייקט מירה ורחלי\layered-architecture-demo\project C#.net\BlTest\bin\Debug\net6.0\DalXml.dll
+C:\Users\User\Downloads\פרוייקט מירה ורחלי\layered-architecture-demo\project C#.net\BlTest\bin\Debug\net6.0\Tools.dll
+C:\Users\User\Downloads\פרוייקט מירה ורחלי\layered-architecture-demo\project C#.net\BlTest\bin\Debug\net6.0\BL.pdb
+C:\Users\User\Downloads\פרוייקט מירה ורחלי\layered-architecture-demo\project C#.net\BlTest\bin\Debug\net6.0\DalTest.pdb
+C:\Users\User\Downloads\פרוייקט מירה ורחלי\layered-architecture-demo\project C#.net\BlTest\bin\Debug\net6.0\DalFacade.pdb
+C:\Users\User\Downloads\פרוייקט מירה ורחלי\layered-architecture-demo\project C#.net\BlTest\bin\Debug\net6.0\DalList.pdb
+C:\Users\User\Downloads\פרוייקט מירה ורחלי\layered-architecture-demo\project C#.net\BlTest\bin\Debug\net6.0\DalXml.pdb
+C:\Users\User\Downloads\פרוייקט מירה ורחלי\layered-architecture-demo\project C#.net\BlTest\bin\Debug\net6.0\Tools.pdb
+C:\Users\User\Downloads\פרוייקט מירה ורחלי\layered-architecture-demo\project C#.net\BlTest\obj\Debug\net6.0\BlTest.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\פרוייקט מירה ורחלי\layered-architecture-demo\project C#.net\BlTest\obj\Debug\net6.0\BlTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Downloads\פרוייקט מירה ורחלי\layered-architecture-demo\project C#.net\BlTest\obj\Debug\net6.0\BlTest.AssemblyInfoInputs.cache
+C:\Users\User\Downloads\פרוייקט מירה ורחלי\layered-architecture-demo\project C#.net\BlTest\obj\Debug\net6.0\BlTest.AssemblyInfo.cs
+C:\Users\User\Downloads\פרוייקט מירה ורחלי\layered-architecture-demo\project C#.net\BlTest\obj\Debug\net6.0\BlTest.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\פרוייקט מירה ורחלי\layered-architecture-demo\project C#.net\BlTest\obj\Debug\net6.0\BlTest.sourcelink.json
+C:\Users\User\Downloads\פרוייקט מירה ורחלי\layered-architecture-demo\project C#.net\BlTest\obj\Debug\net6.0\BlTest.csproj.Up2Date
+C:\Users\User\Downloads\פרוייקט מירה ורחלי\layered-architecture-demo\project C#.net\BlTest\obj\Debug\net6.0\BlTest.dll
+C:\Users\User\Downloads\פרוייקט מירה ורחלי\layered-architecture-demo\project C#.net\BlTest\obj\Debug\net6.0\refint\BlTest.dll
+C:\Users\User\Downloads\פרוייקט מירה ורחלי\layered-architecture-demo\project C#.net\BlTest\obj\Debug\net6.0\BlTest.pdb
+C:\Users\User\Downloads\פרוייקט מירה ורחלי\layered-architecture-demo\project C#.net\BlTest\obj\Debug\net6.0\BlTest.genruntimeconfig.cache
+C:\Users\User\Downloads\פרוייקט מירה ורחלי\layered-architecture-demo\project C#.net\BlTest\obj\Debug\net6.0\ref\BlTest.dll

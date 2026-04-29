@@ -10,7 +10,7 @@ namespace Dal
     internal static class Config
     {
         private static string fileName = @"..\xml\data-config.xml";
-
+        //private static string fileName = @"xml\dal-config.xml";
         public static int ProductNum
         {
             get

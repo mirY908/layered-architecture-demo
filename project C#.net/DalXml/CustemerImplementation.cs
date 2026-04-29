@@ -6,8 +6,8 @@ namespace Dal
 {
     internal class CustemerImplementation : ICustomer
     {
-        string path = @"..\xml\custemers.xml";
-
+        //string path = @"..\xml\custemers.xml";
+        string path = @"xml\custemers.xml";
         private List<Custemer> Load()
         {
             if (!File.Exists(path)) return new List<Custemer>();

@@ -28,5 +28,9 @@ namespace BO
         {
             
         }
+        public override string ToString()
+        {
+            return $"ID: {Id}, Name: {ProductName}, Category: {category}, Price: {Price}, Amount: {Amount}";
+        }
     }
 }

@@ -9,7 +9,8 @@ namespace Dal
 {
     internal class ProductImplementation : IProduct
     {
-        string path = @"..\xml\products.xml";
+        //string path = @"..\xml\products.xml";
+        string path = @"xml\products.xml";
 
         public int Create(Product item)
         {
