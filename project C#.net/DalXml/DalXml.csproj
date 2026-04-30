@@ -10,7 +10,7 @@
     <ProjectReference Include="..\DalFacade\DalFacade.csproj" />
   </ItemGroup>
 
-</Project>-->
+</Project>--><!--
 
 
 <Project Sdk="Microsoft.NET.Sdk">
@@ -52,6 +52,54 @@
 	  <None Update="xml\‏‏מסמך טקסט חדש.txt">
 	    <CopyToOutputDirectory>Always</CopyToOutputDirectory>
 	  </None>
+	</ItemGroup>
+
+</Project>-->
+
+
+
+<Project Sdk="Microsoft.NET.Sdk">
+
+	<PropertyGroup>
+		<TargetFramework>net6.0</TargetFramework>
+		<ImplicitUsings>enable</ImplicitUsings>
+		<Nullable>enable</Nullable>
+		<RootNamespace>Dal</RootNamespace>
+
+		<!-- הגדרות ריכוז פלט לתיקייה משותפת -->
+		<OutputPath>$(SolutionDir)\bin\</OutputPath>
+		<AppendTargetFrameworkToOutputPath>false</AppendTargetFrameworkToOutputPath>
+		<AppendRuntimeIdentifierToOutputPath>false</AppendRuntimeIdentifierToOutputPath>
+		<UseCommonOutputDirectory>true</UseCommonOutputDirectory>
+	</PropertyGroup>
+
+	<ItemGroup>
+		<ProjectReference Include="..\DalFacade\DalFacade.csproj" />
+		<ProjectReference Include="..\DalList\DalList.csproj" />
+	</ItemGroup>
+
+	<ItemGroup>
+		<None Update="xml\custemers.xml">
+			<CopyToOutputDirectory>Never</CopyToOutputDirectory>
+		</None>
+		<None Update="xml\dal-config.xml">
+			<CopyToOutputDirectory>Never</CopyToOutputDirectory>
+		</None>
+		<None Update="xml\dal-config.xml.txt">
+			<CopyToOutputDirectory>Never</CopyToOutputDirectory>
+		</None>
+		<None Update="xml\data-config.xml">
+			<CopyToOutputDirectory>Never</CopyToOutputDirectory>
+		</None>
+		<None Update="xml\products.xml">
+			<CopyToOutputDirectory>Never</CopyToOutputDirectory>
+		</None>
+		<None Update="xml\sales.xml">
+			<CopyToOutputDirectory>Never</CopyToOutputDirectory>
+		</None>
+		<None Update="xml\‏‏מסמך טקסט חדש.txt">
+			<CopyToOutputDirectory>Always</CopyToOutputDirectory>
+		</None>
 	</ItemGroup>
 
 </Project>

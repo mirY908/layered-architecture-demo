@@ -1,10 +1,14 @@
-﻿<Project Sdk="Microsoft.NET.Sdk">
+﻿<!--<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
     <TargetFramework>net6.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
 	  <RootNamespace />
+	  <BaseOutputPath>$(SolutionDir)\bin\</BaseOutputPath>
+	  <ProduceReferenceAssembly>False</ProduceReferenceAssembly>
+
+
   </PropertyGroup>
 
   <ItemGroup>
@@ -13,5 +17,29 @@
     <ProjectReference Include="..\DalXml\DalXml.csproj" />
   </ItemGroup>
 
-</Project>
+</Project>-->
 
+<Project Sdk="Microsoft.NET.Sdk">
+
+	<PropertyGroup>
+		<TargetFramework>net6.0</TargetFramework>
+		<ImplicitUsings>enable</ImplicitUsings>
+		<Nullable>enable</Nullable>
+		<RootNamespace />
+
+		<!-- השורות שהמורה ביקשה להוסיף -->
+		<OutputPath>$(SolutionDir)\bin\</OutputPath>
+		<AppendTargetFrameworkToOutputPath>false</AppendTargetFrameworkToOutputPath>
+		<AppendRuntimeIdentifierToOutputPath>false</AppendRuntimeIdentifierToOutputPath>
+		<UseCommonOutputDirectory>true</UseCommonOutputDirectory>
+
+		<ProduceReferenceAssembly>False</ProduceReferenceAssembly>
+	</PropertyGroup>
+
+	<ItemGroup>
+		<ProjectReference Include="..\DalFacade\DalFacade.csproj" />
+		<ProjectReference Include="..\DalList\DalList.csproj" />
+		<ProjectReference Include="..\DalXml\DalXml.csproj" />
+	</ItemGroup>
+
+</Project>

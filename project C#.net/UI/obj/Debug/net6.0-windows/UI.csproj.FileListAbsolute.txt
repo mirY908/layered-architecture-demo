@@ -61,3 +61,8 @@ C:\Users\User\Downloads\פרוייקט מירה ורחלי\layered-architecture-
 C:\Users\User\Downloads\פרוייקט מירה ורחלי\layered-architecture-demo\project C#.net\UI\obj\Debug\net6.0-windows\UI.pdb
 C:\Users\User\Downloads\פרוייקט מירה ורחלי\layered-architecture-demo\project C#.net\UI\obj\Debug\net6.0-windows\UI.genruntimeconfig.cache
 C:\Users\User\Downloads\פרוייקט מירה ורחלי\layered-architecture-demo\project C#.net\UI\obj\Debug\net6.0-windows\ref\UI.dll
+C:\Users\User\Downloads\פרוייקט מירה ורחלי\layered-architecture-demo\project C#.net\bin\Debug\net6.0-windows\UI.exe
+C:\Users\User\Downloads\פרוייקט מירה ורחלי\layered-architecture-demo\project C#.net\bin\Debug\net6.0-windows\UI.deps.json
+C:\Users\User\Downloads\פרוייקט מירה ורחלי\layered-architecture-demo\project C#.net\bin\Debug\net6.0-windows\UI.runtimeconfig.json
+C:\Users\User\Downloads\פרוייקט מירה ורחלי\layered-architecture-demo\project C#.net\bin\Debug\net6.0-windows\UI.dll
+C:\Users\User\Downloads\פרוייקט מירה ורחלי\layered-architecture-demo\project C#.net\bin\Debug\net6.0-windows\UI.pdb
