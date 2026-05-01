@@ -456,4 +456,34 @@
     <Adress>jerusalem</Adress>
     <phone>0504447779</phone>
   </Custemer>
+  <Custemer>
+    <CustemerId>5678</CustemerId>
+    <CustemerName>עהחינל</CustemerName>
+    <Adress>חלך</Adress>
+    <phone>678</phone>
+  </Custemer>
+  <Custemer>
+    <CustemerId>215737529</CustemerId>
+    <CustemerName>רחלי</CustemerName>
+    <Adress>הריטבא 14</Adress>
+    <phone>0533118147</phone>
+  </Custemer>
+  <Custemer>
+    <CustemerId>456</CustemerId>
+    <CustemerName>מירה</CustemerName>
+    <Adress>ברכפלד</Adress>
+    <phone>676980067</phone>
+  </Custemer>
+  <Custemer>
+    <CustemerId>3456789</CustemerId>
+    <CustemerName>מירי פנט</CustemerName>
+    <Adress>מודיעין עילית</Adress>
+    <phone>0589078753</phone>
+  </Custemer>
+  <Custemer>
+    <CustemerId>2959</CustemerId>
+    <CustemerName>יעל</CustemerName>
+    <Adress>ללל</Adress>
+    <phone>84</phone>
+  </Custemer>
 </ArrayOfCustemer>

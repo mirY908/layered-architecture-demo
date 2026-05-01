@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\User\\Downloads\\פרוייקט מירה ורחלי\\layered-architecture-demo\\project C#.net\\BlTest\\BlTest.csproj": {}
+    "C:\\Users\\User\\Contacts\\Downloads\\- עותק - עותק\\layered-architecture-demo\\project C#.net\\BlTest\\BlTest.csproj": {}
   },
   "projects": {
-    "C:\\Users\\User\\Downloads\\פרוייקט מירה ורחלי\\layered-architecture-demo\\project C#.net\\BlTest\\BlTest.csproj": {
+    "C:\\Users\\User\\Contacts\\Downloads\\- עותק - עותק\\layered-architecture-demo\\project C#.net\\BlTest\\BlTest.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\Downloads\\פרוייקט מירה ורחלי\\layered-architecture-demo\\project C#.net\\BlTest\\BlTest.csproj",
+        "projectUniqueName": "C:\\Users\\User\\Contacts\\Downloads\\- עותק - עותק\\layered-architecture-demo\\project C#.net\\BlTest\\BlTest.csproj",
         "projectName": "BlTest",
-        "projectPath": "C:\\Users\\User\\Downloads\\פרוייקט מירה ורחלי\\layered-architecture-demo\\project C#.net\\BlTest\\BlTest.csproj",
+        "projectPath": "C:\\Users\\User\\Contacts\\Downloads\\- עותק - עותק\\layered-architecture-demo\\project C#.net\\BlTest\\BlTest.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\Downloads\\פרוייקט מירה ורחלי\\layered-architecture-demo\\project C#.net\\BlTest\\obj\\",
+        "outputPath": "C:\\Users\\User\\Contacts\\Downloads\\- עותק - עותק\\layered-architecture-demo\\project C#.net\\BlTest\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -22,7 +22,7 @@
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "net6.0"
+          "net8.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
@@ -30,15 +30,15 @@
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net6.0": {
-            "framework": "net6.0",
-            "targetAlias": "net6.0",
+          "net8.0": {
+            "framework": "net8.0",
+            "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\User\\Downloads\\פרוייקט מירה ורחלי\\layered-architecture-demo\\project C#.net\\BL\\BL.csproj": {
-                "projectPath": "C:\\Users\\User\\Downloads\\פרוייקט מירה ורחלי\\layered-architecture-demo\\project C#.net\\BL\\BL.csproj"
+              "C:\\Users\\User\\Contacts\\Downloads\\- עותק - עותק\\layered-architecture-demo\\project C#.net\\BL\\BL.csproj": {
+                "projectPath": "C:\\Users\\User\\Contacts\\Downloads\\- עותק - עותק\\layered-architecture-demo\\project C#.net\\BL\\BL.csproj"
               },
-              "C:\\Users\\User\\Downloads\\פרוייקט מירה ורחלי\\layered-architecture-demo\\project C#.net\\DalTest\\DalTest.csproj": {
-                "projectPath": "C:\\Users\\User\\Downloads\\פרוייקט מירה ורחלי\\layered-architecture-demo\\project C#.net\\DalTest\\DalTest.csproj"
+              "C:\\Users\\User\\Contacts\\Downloads\\- עותק - עותק\\layered-architecture-demo\\project C#.net\\DalTest\\DalTest.csproj": {
+                "projectPath": "C:\\Users\\User\\Contacts\\Downloads\\- עותק - עותק\\layered-architecture-demo\\project C#.net\\DalTest\\DalTest.csproj"
               }
             }
           }
@@ -56,9 +56,9 @@
         "SdkAnalysisLevel": "10.0.200"
       },
       "frameworks": {
-        "net6.0": {
-          "framework": "net6.0",
-          "targetAlias": "net6.0",
+        "net8.0": {
+          "framework": "net8.0",
+          "targetAlias": "net8.0",
           "imports": [
             "net461",
             "net462",
@@ -75,18 +75,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.203\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.203/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\User\\Downloads\\פרוייקט מירה ורחלי\\layered-architecture-demo\\project C#.net\\BL\\BL.csproj": {
+    "C:\\Users\\User\\Contacts\\Downloads\\- עותק - עותק\\layered-architecture-demo\\project C#.net\\BL\\BL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\Downloads\\פרוייקט מירה ורחלי\\layered-architecture-demo\\project C#.net\\BL\\BL.csproj",
+        "projectUniqueName": "C:\\Users\\User\\Contacts\\Downloads\\- עותק - עותק\\layered-architecture-demo\\project C#.net\\BL\\BL.csproj",
         "projectName": "BL",
-        "projectPath": "C:\\Users\\User\\Downloads\\פרוייקט מירה ורחלי\\layered-architecture-demo\\project C#.net\\BL\\BL.csproj",
+        "projectPath": "C:\\Users\\User\\Contacts\\Downloads\\- עותק - עותק\\layered-architecture-demo\\project C#.net\\BL\\BL.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\Downloads\\פרוייקט מירה ורחלי\\layered-architecture-demo\\project C#.net\\BL\\obj\\",
+        "outputPath": "C:\\Users\\User\\Contacts\\Downloads\\- עותק - עותק\\layered-architecture-demo\\project C#.net\\BL\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -97,7 +97,7 @@
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "net6.0"
+          "net8.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
@@ -105,18 +105,18 @@
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net6.0": {
-            "framework": "net6.0",
-            "targetAlias": "net6.0",
+          "net8.0": {
+            "framework": "net8.0",
+            "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\User\\Downloads\\פרוייקט מירה ורחלי\\layered-architecture-demo\\project C#.net\\DalFacade\\DalFacade.csproj": {
-                "projectPath": "C:\\Users\\User\\Downloads\\פרוייקט מירה ורחלי\\layered-architecture-demo\\project C#.net\\DalFacade\\DalFacade.csproj"
+              "C:\\Users\\User\\Contacts\\Downloads\\- עותק - עותק\\layered-architecture-demo\\project C#.net\\DalFacade\\DalFacade.csproj": {
+                "projectPath": "C:\\Users\\User\\Contacts\\Downloads\\- עותק - עותק\\layered-architecture-demo\\project C#.net\\DalFacade\\DalFacade.csproj"
               },
-              "C:\\Users\\User\\Downloads\\פרוייקט מירה ורחלי\\layered-architecture-demo\\project C#.net\\DalList\\DalList.csproj": {
-                "projectPath": "C:\\Users\\User\\Downloads\\פרוייקט מירה ורחלי\\layered-architecture-demo\\project C#.net\\DalList\\DalList.csproj"
+              "C:\\Users\\User\\Contacts\\Downloads\\- עותק - עותק\\layered-architecture-demo\\project C#.net\\DalList\\DalList.csproj": {
+                "projectPath": "C:\\Users\\User\\Contacts\\Downloads\\- עותק - עותק\\layered-architecture-demo\\project C#.net\\DalList\\DalList.csproj"
               },
-              "C:\\Users\\User\\Downloads\\פרוייקט מירה ורחלי\\layered-architecture-demo\\project C#.net\\DalXml\\DalXml.csproj": {
-                "projectPath": "C:\\Users\\User\\Downloads\\פרוייקט מירה ורחלי\\layered-architecture-demo\\project C#.net\\DalXml\\DalXml.csproj"
+              "C:\\Users\\User\\Contacts\\Downloads\\- עותק - עותק\\layered-architecture-demo\\project C#.net\\DalXml\\DalXml.csproj": {
+                "projectPath": "C:\\Users\\User\\Contacts\\Downloads\\- עותק - עותק\\layered-architecture-demo\\project C#.net\\DalXml\\DalXml.csproj"
               }
             }
           }
@@ -134,9 +134,9 @@
         "SdkAnalysisLevel": "10.0.200"
       },
       "frameworks": {
-        "net6.0": {
-          "framework": "net6.0",
-          "targetAlias": "net6.0",
+        "net8.0": {
+          "framework": "net8.0",
+          "targetAlias": "net8.0",
           "imports": [
             "net461",
             "net462",
@@ -153,18 +153,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.203\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.203/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\User\\Downloads\\פרוייקט מירה ורחלי\\layered-architecture-demo\\project C#.net\\DalFacade\\DalFacade.csproj": {
+    "C:\\Users\\User\\Contacts\\Downloads\\- עותק - עותק\\layered-architecture-demo\\project C#.net\\DalFacade\\DalFacade.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\Downloads\\פרוייקט מירה ורחלי\\layered-architecture-demo\\project C#.net\\DalFacade\\DalFacade.csproj",
+        "projectUniqueName": "C:\\Users\\User\\Contacts\\Downloads\\- עותק - עותק\\layered-architecture-demo\\project C#.net\\DalFacade\\DalFacade.csproj",
         "projectName": "DalFacade",
-        "projectPath": "C:\\Users\\User\\Downloads\\פרוייקט מירה ורחלי\\layered-architecture-demo\\project C#.net\\DalFacade\\DalFacade.csproj",
+        "projectPath": "C:\\Users\\User\\Contacts\\Downloads\\- עותק - עותק\\layered-architecture-demo\\project C#.net\\DalFacade\\DalFacade.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\Downloads\\פרוייקט מירה ורחלי\\layered-architecture-demo\\project C#.net\\DalFacade\\obj\\",
+        "outputPath": "C:\\Users\\User\\Contacts\\Downloads\\- עותק - עותק\\layered-architecture-demo\\project C#.net\\DalFacade\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -175,7 +175,7 @@
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "net6.0"
+          "net8.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
@@ -183,12 +183,12 @@
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net6.0": {
-            "framework": "net6.0",
-            "targetAlias": "net6.0",
+          "net8.0": {
+            "framework": "net8.0",
+            "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\User\\Downloads\\פרוייקט מירה ורחלי\\layered-architecture-demo\\project C#.net\\Tools\\Tools.csproj": {
-                "projectPath": "C:\\Users\\User\\Downloads\\פרוייקט מירה ורחלי\\layered-architecture-demo\\project C#.net\\Tools\\Tools.csproj"
+              "C:\\Users\\User\\Contacts\\Downloads\\- עותק - עותק\\layered-architecture-demo\\project C#.net\\Tools\\Tools.csproj": {
+                "projectPath": "C:\\Users\\User\\Contacts\\Downloads\\- עותק - עותק\\layered-architecture-demo\\project C#.net\\Tools\\Tools.csproj"
               }
             }
           }
@@ -206,9 +206,9 @@
         "SdkAnalysisLevel": "10.0.200"
       },
       "frameworks": {
-        "net6.0": {
-          "framework": "net6.0",
-          "targetAlias": "net6.0",
+        "net8.0": {
+          "framework": "net8.0",
+          "targetAlias": "net8.0",
           "imports": [
             "net461",
             "net462",
@@ -225,18 +225,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.203\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.203/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\User\\Downloads\\פרוייקט מירה ורחלי\\layered-architecture-demo\\project C#.net\\DalList\\DalList.csproj": {
+    "C:\\Users\\User\\Contacts\\Downloads\\- עותק - עותק\\layered-architecture-demo\\project C#.net\\DalList\\DalList.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\Downloads\\פרוייקט מירה ורחלי\\layered-architecture-demo\\project C#.net\\DalList\\DalList.csproj",
+        "projectUniqueName": "C:\\Users\\User\\Contacts\\Downloads\\- עותק - עותק\\layered-architecture-demo\\project C#.net\\DalList\\DalList.csproj",
         "projectName": "DalList",
-        "projectPath": "C:\\Users\\User\\Downloads\\פרוייקט מירה ורחלי\\layered-architecture-demo\\project C#.net\\DalList\\DalList.csproj",
+        "projectPath": "C:\\Users\\User\\Contacts\\Downloads\\- עותק - עותק\\layered-architecture-demo\\project C#.net\\DalList\\DalList.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\Downloads\\פרוייקט מירה ורחלי\\layered-architecture-demo\\project C#.net\\DalList\\obj\\",
+        "outputPath": "C:\\Users\\User\\Contacts\\Downloads\\- עותק - עותק\\layered-architecture-demo\\project C#.net\\DalList\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -247,7 +247,7 @@
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "net6.0"
+          "net8.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
@@ -255,15 +255,15 @@
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net6.0": {
-            "framework": "net6.0",
-            "targetAlias": "net6.0",
+          "net8.0": {
+            "framework": "net8.0",
+            "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\User\\Downloads\\פרוייקט מירה ורחלי\\layered-architecture-demo\\project C#.net\\DalFacade\\DalFacade.csproj": {
-                "projectPath": "C:\\Users\\User\\Downloads\\פרוייקט מירה ורחלי\\layered-architecture-demo\\project C#.net\\DalFacade\\DalFacade.csproj"
+              "C:\\Users\\User\\Contacts\\Downloads\\- עותק - עותק\\layered-architecture-demo\\project C#.net\\DalFacade\\DalFacade.csproj": {
+                "projectPath": "C:\\Users\\User\\Contacts\\Downloads\\- עותק - עותק\\layered-architecture-demo\\project C#.net\\DalFacade\\DalFacade.csproj"
               },
-              "C:\\Users\\User\\Downloads\\פרוייקט מירה ורחלי\\layered-architecture-demo\\project C#.net\\Tools\\Tools.csproj": {
-                "projectPath": "C:\\Users\\User\\Downloads\\פרוייקט מירה ורחלי\\layered-architecture-demo\\project C#.net\\Tools\\Tools.csproj"
+              "C:\\Users\\User\\Contacts\\Downloads\\- עותק - עותק\\layered-architecture-demo\\project C#.net\\Tools\\Tools.csproj": {
+                "projectPath": "C:\\Users\\User\\Contacts\\Downloads\\- עותק - עותק\\layered-architecture-demo\\project C#.net\\Tools\\Tools.csproj"
               }
             }
           }
@@ -281,9 +281,9 @@
         "SdkAnalysisLevel": "10.0.200"
       },
       "frameworks": {
-        "net6.0": {
-          "framework": "net6.0",
-          "targetAlias": "net6.0",
+        "net8.0": {
+          "framework": "net8.0",
+          "targetAlias": "net8.0",
           "imports": [
             "net461",
             "net462",
@@ -300,18 +300,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.203\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.203/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\User\\Downloads\\פרוייקט מירה ורחלי\\layered-architecture-demo\\project C#.net\\DalTest\\DalTest.csproj": {
+    "C:\\Users\\User\\Contacts\\Downloads\\- עותק - עותק\\layered-architecture-demo\\project C#.net\\DalTest\\DalTest.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\Downloads\\פרוייקט מירה ורחלי\\layered-architecture-demo\\project C#.net\\DalTest\\DalTest.csproj",
+        "projectUniqueName": "C:\\Users\\User\\Contacts\\Downloads\\- עותק - עותק\\layered-architecture-demo\\project C#.net\\DalTest\\DalTest.csproj",
         "projectName": "DalTest",
-        "projectPath": "C:\\Users\\User\\Downloads\\פרוייקט מירה ורחלי\\layered-architecture-demo\\project C#.net\\DalTest\\DalTest.csproj",
+        "projectPath": "C:\\Users\\User\\Contacts\\Downloads\\- עותק - עותק\\layered-architecture-demo\\project C#.net\\DalTest\\DalTest.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\Downloads\\פרוייקט מירה ורחלי\\layered-architecture-demo\\project C#.net\\DalTest\\obj\\",
+        "outputPath": "C:\\Users\\User\\Contacts\\Downloads\\- עותק - עותק\\layered-architecture-demo\\project C#.net\\DalTest\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -322,7 +322,7 @@
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "net6.0"
+          "net8.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
@@ -330,18 +330,18 @@
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net6.0": {
-            "framework": "net6.0",
-            "targetAlias": "net6.0",
+          "net8.0": {
+            "framework": "net8.0",
+            "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\User\\Downloads\\פרוייקט מירה ורחלי\\layered-architecture-demo\\project C#.net\\DalFacade\\DalFacade.csproj": {
-                "projectPath": "C:\\Users\\User\\Downloads\\פרוייקט מירה ורחלי\\layered-architecture-demo\\project C#.net\\DalFacade\\DalFacade.csproj"
+              "C:\\Users\\User\\Contacts\\Downloads\\- עותק - עותק\\layered-architecture-demo\\project C#.net\\DalFacade\\DalFacade.csproj": {
+                "projectPath": "C:\\Users\\User\\Contacts\\Downloads\\- עותק - עותק\\layered-architecture-demo\\project C#.net\\DalFacade\\DalFacade.csproj"
               },
-              "C:\\Users\\User\\Downloads\\פרוייקט מירה ורחלי\\layered-architecture-demo\\project C#.net\\DalList\\DalList.csproj": {
-                "projectPath": "C:\\Users\\User\\Downloads\\פרוייקט מירה ורחלי\\layered-architecture-demo\\project C#.net\\DalList\\DalList.csproj"
+              "C:\\Users\\User\\Contacts\\Downloads\\- עותק - עותק\\layered-architecture-demo\\project C#.net\\DalList\\DalList.csproj": {
+                "projectPath": "C:\\Users\\User\\Contacts\\Downloads\\- עותק - עותק\\layered-architecture-demo\\project C#.net\\DalList\\DalList.csproj"
               },
-              "C:\\Users\\User\\Downloads\\פרוייקט מירה ורחלי\\layered-architecture-demo\\project C#.net\\DalXml\\DalXml.csproj": {
-                "projectPath": "C:\\Users\\User\\Downloads\\פרוייקט מירה ורחלי\\layered-architecture-demo\\project C#.net\\DalXml\\DalXml.csproj"
+              "C:\\Users\\User\\Contacts\\Downloads\\- עותק - עותק\\layered-architecture-demo\\project C#.net\\DalXml\\DalXml.csproj": {
+                "projectPath": "C:\\Users\\User\\Contacts\\Downloads\\- עותק - עותק\\layered-architecture-demo\\project C#.net\\DalXml\\DalXml.csproj"
               }
             }
           }
@@ -359,9 +359,9 @@
         "SdkAnalysisLevel": "10.0.200"
       },
       "frameworks": {
-        "net6.0": {
-          "framework": "net6.0",
-          "targetAlias": "net6.0",
+        "net8.0": {
+          "framework": "net8.0",
+          "targetAlias": "net8.0",
           "imports": [
             "net461",
             "net462",
@@ -378,18 +378,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.203\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.203/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\User\\Downloads\\פרוייקט מירה ורחלי\\layered-architecture-demo\\project C#.net\\DalXml\\DalXml.csproj": {
+    "C:\\Users\\User\\Contacts\\Downloads\\- עותק - עותק\\layered-architecture-demo\\project C#.net\\DalXml\\DalXml.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\Downloads\\פרוייקט מירה ורחלי\\layered-architecture-demo\\project C#.net\\DalXml\\DalXml.csproj",
+        "projectUniqueName": "C:\\Users\\User\\Contacts\\Downloads\\- עותק - עותק\\layered-architecture-demo\\project C#.net\\DalXml\\DalXml.csproj",
         "projectName": "DalXml",
-        "projectPath": "C:\\Users\\User\\Downloads\\פרוייקט מירה ורחלי\\layered-architecture-demo\\project C#.net\\DalXml\\DalXml.csproj",
+        "projectPath": "C:\\Users\\User\\Contacts\\Downloads\\- עותק - עותק\\layered-architecture-demo\\project C#.net\\DalXml\\DalXml.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\Downloads\\פרוייקט מירה ורחלי\\layered-architecture-demo\\project C#.net\\DalXml\\obj\\",
+        "outputPath": "C:\\Users\\User\\Contacts\\Downloads\\- עותק - עותק\\layered-architecture-demo\\project C#.net\\DalXml\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -400,7 +400,7 @@
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "net6.0"
+          "net8.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
@@ -408,15 +408,15 @@
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net6.0": {
-            "framework": "net6.0",
-            "targetAlias": "net6.0",
+          "net8.0": {
+            "framework": "net8.0",
+            "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\User\\Downloads\\פרוייקט מירה ורחלי\\layered-architecture-demo\\project C#.net\\DalFacade\\DalFacade.csproj": {
-                "projectPath": "C:\\Users\\User\\Downloads\\פרוייקט מירה ורחלי\\layered-architecture-demo\\project C#.net\\DalFacade\\DalFacade.csproj"
+              "C:\\Users\\User\\Contacts\\Downloads\\- עותק - עותק\\layered-architecture-demo\\project C#.net\\DalFacade\\DalFacade.csproj": {
+                "projectPath": "C:\\Users\\User\\Contacts\\Downloads\\- עותק - עותק\\layered-architecture-demo\\project C#.net\\DalFacade\\DalFacade.csproj"
               },
-              "C:\\Users\\User\\Downloads\\פרוייקט מירה ורחלי\\layered-architecture-demo\\project C#.net\\DalList\\DalList.csproj": {
-                "projectPath": "C:\\Users\\User\\Downloads\\פרוייקט מירה ורחלי\\layered-architecture-demo\\project C#.net\\DalList\\DalList.csproj"
+              "C:\\Users\\User\\Contacts\\Downloads\\- עותק - עותק\\layered-architecture-demo\\project C#.net\\DalList\\DalList.csproj": {
+                "projectPath": "C:\\Users\\User\\Contacts\\Downloads\\- עותק - עותק\\layered-architecture-demo\\project C#.net\\DalList\\DalList.csproj"
               }
             }
           }
@@ -434,9 +434,9 @@
         "SdkAnalysisLevel": "10.0.200"
       },
       "frameworks": {
-        "net6.0": {
-          "framework": "net6.0",
-          "targetAlias": "net6.0",
+        "net8.0": {
+          "framework": "net8.0",
+          "targetAlias": "net8.0",
           "imports": [
             "net461",
             "net462",
@@ -453,18 +453,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.203\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.203/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\User\\Downloads\\פרוייקט מירה ורחלי\\layered-architecture-demo\\project C#.net\\Tools\\Tools.csproj": {
+    "C:\\Users\\User\\Contacts\\Downloads\\- עותק - עותק\\layered-architecture-demo\\project C#.net\\Tools\\Tools.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\Downloads\\פרוייקט מירה ורחלי\\layered-architecture-demo\\project C#.net\\Tools\\Tools.csproj",
+        "projectUniqueName": "C:\\Users\\User\\Contacts\\Downloads\\- עותק - עותק\\layered-architecture-demo\\project C#.net\\Tools\\Tools.csproj",
         "projectName": "Tools",
-        "projectPath": "C:\\Users\\User\\Downloads\\פרוייקט מירה ורחלי\\layered-architecture-demo\\project C#.net\\Tools\\Tools.csproj",
+        "projectPath": "C:\\Users\\User\\Contacts\\Downloads\\- עותק - עותק\\layered-architecture-demo\\project C#.net\\Tools\\Tools.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\Downloads\\פרוייקט מירה ורחלי\\layered-architecture-demo\\project C#.net\\Tools\\obj\\",
+        "outputPath": "C:\\Users\\User\\Contacts\\Downloads\\- עותק - עותק\\layered-architecture-demo\\project C#.net\\Tools\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -475,7 +475,7 @@
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "net6.0"
+          "net8.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
@@ -483,9 +483,9 @@
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net6.0": {
-            "framework": "net6.0",
-            "targetAlias": "net6.0",
+          "net8.0": {
+            "framework": "net8.0",
+            "targetAlias": "net8.0",
             "projectReferences": {}
           }
         },
@@ -502,9 +502,9 @@
         "SdkAnalysisLevel": "10.0.200"
       },
       "frameworks": {
-        "net6.0": {
-          "framework": "net6.0",
-          "targetAlias": "net6.0",
+        "net8.0": {
+          "framework": "net8.0",
+          "targetAlias": "net8.0",
           "imports": [
             "net461",
             "net462",
@@ -521,7 +521,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.203\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.203/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

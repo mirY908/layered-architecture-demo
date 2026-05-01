@@ -1,4 +1,42 @@
-﻿using Do;
+﻿//using Do;
+//using System;
+//using System.Collections.Generic;
+//using System.Linq;
+//using System.Text;
+//using System.Threading.Tasks;
+
+//namespace BO
+//{
+//    public class Product
+//    {
+//        public int Id;
+//        public string ProductName;
+//        public  Category category;
+//        public double Price;
+//        public int Amount;
+//        public List<SaleInProduct> SaleInProducts;
+//        public Product(int Id, string ProductName, Category Category, double Price, int Amount)
+//        {
+//            this.Id = Id;
+//            this.ProductName = ProductName;
+//            this.category = Category;
+//            this.Price = Price;
+//            this.Amount = Amount;
+//           // this.SaleInProducts = saleInProducts;
+//        }
+//        public Product()
+//        {
+
+//        }
+//        public override string ToString()
+//        {
+//            return $"ID: {Id}, Name: {ProductName}, Category: {category}, Price: {Price}, Amount: {Amount}";
+//        }
+//    }
+//}
+
+
+
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -9,12 +47,14 @@ namespace BO
 {
     public class Product
     {
-        public int Id;
-        public string ProductName;
-        public  Category category;
-        public double Price;
-        public int Amount;
-        public List<SaleInProduct> SaleInProducts;
+        // שימוש ב-Properties מאפשר ל-DataGridView לגשת לנתונים
+        public int Id { get; set; }
+        public string ProductName { get; set; }
+        public Category category { get; set; }
+        public double Price { get; set; }
+        public int Amount { get; set; }
+        public List<SaleInProduct> SaleInProducts { get; set; }
+
         public Product(int Id, string ProductName, Category Category, double Price, int Amount)
         {
             this.Id = Id;
@@ -22,12 +62,12 @@ namespace BO
             this.category = Category;
             this.Price = Price;
             this.Amount = Amount;
-           // this.SaleInProducts = saleInProducts;
         }
+
         public Product()
         {
-            
         }
+
         public override string ToString()
         {
             return $"ID: {Id}, Name: {ProductName}, Category: {category}, Price: {Price}, Amount: {Amount}";

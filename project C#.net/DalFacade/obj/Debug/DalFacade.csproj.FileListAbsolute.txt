@@ -184,3 +184,51 @@ M:\פרויקט גיט2\layered-architecture-demo\project C#.net\DalFacade\obj\D
 M:\פרויקט גיט2\layered-architecture-demo\project C#.net\DalFacade\obj\Debug\refint\DalFacade.dll
 M:\פרויקט גיט2\layered-architecture-demo\project C#.net\DalFacade\obj\Debug\DalFacade.pdb
 M:\פרויקט גיט2\layered-architecture-demo\project C#.net\DalFacade\obj\Debug\ref\DalFacade.dll
+C:\Users\p9743\Downloads\פרויקט מירה ורחלי\layered-architecture-demo\project C#.net\DalFacade\obj\Debug\DalFacade.dll
+C:\Users\p9743\Downloads\פרויקט מירה ורחלי\layered-architecture-demo\project C#.net\DalFacade\obj\Debug\DalFacade.pdb
+C:\Users\p9743\Downloads\פרויקט מירה ורחלי\layered-architecture-demo\project C#.net\bin\DalFacade.deps.json
+C:\Users\p9743\Downloads\פרויקט מירה ורחלי\layered-architecture-demo\project C#.net\bin\DalFacade.dll
+C:\Users\p9743\Downloads\פרויקט מירה ורחלי\layered-architecture-demo\project C#.net\bin\DalFacade.pdb
+C:\Users\p9743\Downloads\פרויקט מירה ורחלי\layered-architecture-demo\project C#.net\DalFacade\obj\Debug\DalFacade.csproj.AssemblyReference.cache
+C:\Users\p9743\Downloads\פרויקט מירה ורחלי\layered-architecture-demo\project C#.net\DalFacade\obj\Debug\DalFacade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\p9743\Downloads\פרויקט מירה ורחלי\layered-architecture-demo\project C#.net\DalFacade\obj\Debug\DalFacade.AssemblyInfoInputs.cache
+C:\Users\p9743\Downloads\פרויקט מירה ורחלי\layered-architecture-demo\project C#.net\DalFacade\obj\Debug\DalFacade.AssemblyInfo.cs
+C:\Users\p9743\Downloads\פרויקט מירה ורחלי\layered-architecture-demo\project C#.net\DalFacade\obj\Debug\DalFacade.csproj.CoreCompileInputs.cache
+C:\Users\p9743\Downloads\פרויקט מירה ורחלי\layered-architecture-demo\project C#.net\DalFacade\obj\Debug\DalFacade.sourcelink.json
+C:\Users\p9743\Downloads\פרויקט מירה ורחלי\layered-architecture-demo\project C#.net\DalFacade\obj\Debug\DalFacade.csproj.Up2Date
+C:\Users\p9743\Downloads\‏‏פרויקט מירה ורחלי - עותק\layered-architecture-demo\project C#.net\bin\DalFacade.deps.json
+C:\Users\p9743\Downloads\‏‏פרויקט מירה ורחלי - עותק\layered-architecture-demo\project C#.net\bin\DalFacade.dll
+C:\Users\p9743\Downloads\‏‏פרויקט מירה ורחלי - עותק\layered-architecture-demo\project C#.net\bin\DalFacade.pdb
+C:\Users\p9743\Downloads\‏‏פרויקט מירה ורחלי - עותק\layered-architecture-demo\project C#.net\DalFacade\obj\Debug\DalFacade.csproj.AssemblyReference.cache
+C:\Users\p9743\Downloads\‏‏פרויקט מירה ורחלי - עותק\layered-architecture-demo\project C#.net\DalFacade\obj\Debug\DalFacade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\p9743\Downloads\‏‏פרויקט מירה ורחלי - עותק\layered-architecture-demo\project C#.net\DalFacade\obj\Debug\DalFacade.AssemblyInfoInputs.cache
+C:\Users\p9743\Downloads\‏‏פרויקט מירה ורחלי - עותק\layered-architecture-demo\project C#.net\DalFacade\obj\Debug\DalFacade.AssemblyInfo.cs
+C:\Users\p9743\Downloads\‏‏פרויקט מירה ורחלי - עותק\layered-architecture-demo\project C#.net\DalFacade\obj\Debug\DalFacade.csproj.CoreCompileInputs.cache
+C:\Users\p9743\Downloads\‏‏פרויקט מירה ורחלי - עותק\layered-architecture-demo\project C#.net\DalFacade\obj\Debug\DalFacade.sourcelink.json
+C:\Users\p9743\Downloads\‏‏פרויקט מירה ורחלי - עותק\layered-architecture-demo\project C#.net\DalFacade\obj\Debug\DalFacade.csproj.Up2Date
+C:\Users\p9743\Downloads\‏‏פרויקט מירה ורחלי - עותק\layered-architecture-demo\project C#.net\DalFacade\obj\Debug\DalFacade.dll
+C:\Users\p9743\Downloads\‏‏פרויקט מירה ורחלי - עותק\layered-architecture-demo\project C#.net\DalFacade\obj\Debug\DalFacade.pdb
+C:\Users\p9743\Downloads\‏‏‏‏פרויקט מירה ורחלי - עותק - עותק\layered-architecture-demo\project C#.net\bin\DalFacade.deps.json
+C:\Users\p9743\Downloads\‏‏‏‏פרויקט מירה ורחלי - עותק - עותק\layered-architecture-demo\project C#.net\bin\DalFacade.dll
+C:\Users\p9743\Downloads\‏‏‏‏פרויקט מירה ורחלי - עותק - עותק\layered-architecture-demo\project C#.net\bin\DalFacade.pdb
+C:\Users\p9743\Downloads\‏‏‏‏פרויקט מירה ורחלי - עותק - עותק\layered-architecture-demo\project C#.net\DalFacade\obj\Debug\DalFacade.csproj.AssemblyReference.cache
+C:\Users\p9743\Downloads\‏‏‏‏פרויקט מירה ורחלי - עותק - עותק\layered-architecture-demo\project C#.net\DalFacade\obj\Debug\DalFacade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\p9743\Downloads\‏‏‏‏פרויקט מירה ורחלי - עותק - עותק\layered-architecture-demo\project C#.net\DalFacade\obj\Debug\DalFacade.AssemblyInfoInputs.cache
+C:\Users\p9743\Downloads\‏‏‏‏פרויקט מירה ורחלי - עותק - עותק\layered-architecture-demo\project C#.net\DalFacade\obj\Debug\DalFacade.AssemblyInfo.cs
+C:\Users\p9743\Downloads\‏‏‏‏פרויקט מירה ורחלי - עותק - עותק\layered-architecture-demo\project C#.net\DalFacade\obj\Debug\DalFacade.csproj.CoreCompileInputs.cache
+C:\Users\p9743\Downloads\‏‏‏‏פרויקט מירה ורחלי - עותק - עותק\layered-architecture-demo\project C#.net\DalFacade\obj\Debug\DalFacade.sourcelink.json
+C:\Users\p9743\Downloads\‏‏‏‏פרויקט מירה ורחלי - עותק - עותק\layered-architecture-demo\project C#.net\DalFacade\obj\Debug\DalFacade.csproj.Up2Date
+C:\Users\p9743\Downloads\‏‏‏‏פרויקט מירה ורחלי - עותק - עותק\layered-architecture-demo\project C#.net\DalFacade\obj\Debug\DalFacade.dll
+C:\Users\p9743\Downloads\‏‏‏‏פרויקט מירה ורחלי - עותק - עותק\layered-architecture-demo\project C#.net\DalFacade\obj\Debug\DalFacade.pdb
+C:\Users\User\Contacts\Downloads\- עותק - עותק\layered-architecture-demo\project C#.net\bin\DalFacade.deps.json
+C:\Users\User\Contacts\Downloads\- עותק - עותק\layered-architecture-demo\project C#.net\bin\DalFacade.dll
+C:\Users\User\Contacts\Downloads\- עותק - עותק\layered-architecture-demo\project C#.net\bin\DalFacade.pdb
+C:\Users\User\Contacts\Downloads\- עותק - עותק\layered-architecture-demo\project C#.net\DalFacade\obj\Debug\DalFacade.csproj.AssemblyReference.cache
+C:\Users\User\Contacts\Downloads\- עותק - עותק\layered-architecture-demo\project C#.net\DalFacade\obj\Debug\DalFacade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Contacts\Downloads\- עותק - עותק\layered-architecture-demo\project C#.net\DalFacade\obj\Debug\DalFacade.AssemblyInfoInputs.cache
+C:\Users\User\Contacts\Downloads\- עותק - עותק\layered-architecture-demo\project C#.net\DalFacade\obj\Debug\DalFacade.AssemblyInfo.cs
+C:\Users\User\Contacts\Downloads\- עותק - עותק\layered-architecture-demo\project C#.net\DalFacade\obj\Debug\DalFacade.csproj.CoreCompileInputs.cache
+C:\Users\User\Contacts\Downloads\- עותק - עותק\layered-architecture-demo\project C#.net\DalFacade\obj\Debug\DalFacade.sourcelink.json
+C:\Users\User\Contacts\Downloads\- עותק - עותק\layered-architecture-demo\project C#.net\DalFacade\obj\Debug\DalFacade.csproj.Up2Date
+C:\Users\User\Contacts\Downloads\- עותק - עותק\layered-architecture-demo\project C#.net\DalFacade\obj\Debug\DalFacade.dll
+C:\Users\User\Contacts\Downloads\- עותק - עותק\layered-architecture-demo\project C#.net\DalFacade\obj\Debug\DalFacade.pdb

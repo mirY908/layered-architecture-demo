@@ -16,9 +16,9 @@ namespace BlImplementation
 
         public int Create(BO.Product item)
         {
-            // 1. בדיקות תקינות נתונים (Logic Validation)
-            if (item.Id <= 0)
-                throw new BO.BlInvalidDataException("Product ID must be positive.");
+            //// 1. בדיקות תקינות נתונים (Logic Validation)
+            //if (item.Id <= 0)
+            //    throw new BO.BlInvalidDataException("Product ID must be positive.");
             if (string.IsNullOrWhiteSpace(item.ProductName))
                 throw new BO.BlInvalidDataException("Product name cannot be empty.");
             if (item.Price < 0)

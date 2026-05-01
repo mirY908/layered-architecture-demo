@@ -66,3 +66,20 @@ M:\פרויקט גיט2\layered-architecture-demo\project C#.net\DalTest\obj\Deb
 M:\פרויקט גיט2\layered-architecture-demo\project C#.net\DalTest\obj\Debug\DalTest.pdb
 M:\פרויקט גיט2\layered-architecture-demo\project C#.net\DalTest\obj\Debug\DalTest.genruntimeconfig.cache
 M:\פרויקט גיט2\layered-architecture-demo\project C#.net\DalTest\obj\Debug\ref\DalTest.dll
+C:\Users\p9743\Downloads\‏‏פרויקט מירה ורחלי - עותק\layered-architecture-demo\project C#.net\bin\DalTest.exe
+C:\Users\p9743\Downloads\‏‏פרויקט מירה ורחלי - עותק\layered-architecture-demo\project C#.net\bin\DalTest.deps.json
+C:\Users\p9743\Downloads\‏‏פרויקט מירה ורחלי - עותק\layered-architecture-demo\project C#.net\bin\DalTest.runtimeconfig.json
+C:\Users\p9743\Downloads\‏‏פרויקט מירה ורחלי - עותק\layered-architecture-demo\project C#.net\bin\DalTest.dll
+C:\Users\p9743\Downloads\‏‏פרויקט מירה ורחלי - עותק\layered-architecture-demo\project C#.net\bin\DalTest.pdb
+C:\Users\p9743\Downloads\‏‏פרויקט מירה ורחלי - עותק\layered-architecture-demo\project C#.net\DalTest\obj\Debug\DalTest.csproj.AssemblyReference.cache
+C:\Users\p9743\Downloads\‏‏פרויקט מירה ורחלי - עותק\layered-architecture-demo\project C#.net\DalTest\obj\Debug\DalTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\p9743\Downloads\‏‏פרויקט מירה ורחלי - עותק\layered-architecture-demo\project C#.net\DalTest\obj\Debug\DalTest.AssemblyInfoInputs.cache
+C:\Users\p9743\Downloads\‏‏פרויקט מירה ורחלי - עותק\layered-architecture-demo\project C#.net\DalTest\obj\Debug\DalTest.AssemblyInfo.cs
+C:\Users\p9743\Downloads\‏‏פרויקט מירה ורחלי - עותק\layered-architecture-demo\project C#.net\DalTest\obj\Debug\DalTest.csproj.CoreCompileInputs.cache
+C:\Users\p9743\Downloads\‏‏פרויקט מירה ורחלי - עותק\layered-architecture-demo\project C#.net\DalTest\obj\Debug\DalTest.sourcelink.json
+C:\Users\p9743\Downloads\‏‏פרויקט מירה ורחלי - עותק\layered-architecture-demo\project C#.net\DalTest\obj\Debug\DalTest.csproj.Up2Date
+C:\Users\p9743\Downloads\‏‏פרויקט מירה ורחלי - עותק\layered-architecture-demo\project C#.net\DalTest\obj\Debug\DalTest.dll
+C:\Users\p9743\Downloads\‏‏פרויקט מירה ורחלי - עותק\layered-architecture-demo\project C#.net\DalTest\obj\Debug\refint\DalTest.dll
+C:\Users\p9743\Downloads\‏‏פרויקט מירה ורחלי - עותק\layered-architecture-demo\project C#.net\DalTest\obj\Debug\DalTest.pdb
+C:\Users\p9743\Downloads\‏‏פרויקט מירה ורחלי - עותק\layered-architecture-demo\project C#.net\DalTest\obj\Debug\DalTest.genruntimeconfig.cache
+C:\Users\p9743\Downloads\‏‏פרויקט מירה ורחלי - עותק\layered-architecture-demo\project C#.net\DalTest\obj\Debug\ref\DalTest.dll

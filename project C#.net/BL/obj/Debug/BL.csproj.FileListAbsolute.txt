@@ -15,3 +15,51 @@ C:\Users\User\Downloads\פרוייקט מירה ורחלי\layered-architecture-
 C:\Users\User\Downloads\פרוייקט מירה ורחלי\layered-architecture-demo\project C#.net\BL\obj\Debug\BL.csproj.Up2Date
 C:\Users\User\Downloads\פרוייקט מירה ורחלי\layered-architecture-demo\project C#.net\BL\obj\Debug\BL.dll
 C:\Users\User\Downloads\פרוייקט מירה ורחלי\layered-architecture-demo\project C#.net\BL\obj\Debug\BL.pdb
+C:\Users\p9743\Downloads\פרויקט מירה ורחלי\layered-architecture-demo\project C#.net\BL\obj\Debug\BL.dll
+C:\Users\p9743\Downloads\פרויקט מירה ורחלי\layered-architecture-demo\project C#.net\BL\obj\Debug\BL.pdb
+C:\Users\p9743\Downloads\פרויקט מירה ורחלי\layered-architecture-demo\project C#.net\bin\BL.deps.json
+C:\Users\p9743\Downloads\פרויקט מירה ורחלי\layered-architecture-demo\project C#.net\bin\BL.dll
+C:\Users\p9743\Downloads\פרויקט מירה ורחלי\layered-architecture-demo\project C#.net\bin\BL.pdb
+C:\Users\p9743\Downloads\פרויקט מירה ורחלי\layered-architecture-demo\project C#.net\BL\obj\Debug\BL.csproj.AssemblyReference.cache
+C:\Users\p9743\Downloads\פרויקט מירה ורחלי\layered-architecture-demo\project C#.net\BL\obj\Debug\BL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\p9743\Downloads\פרויקט מירה ורחלי\layered-architecture-demo\project C#.net\BL\obj\Debug\BL.AssemblyInfoInputs.cache
+C:\Users\p9743\Downloads\פרויקט מירה ורחלי\layered-architecture-demo\project C#.net\BL\obj\Debug\BL.AssemblyInfo.cs
+C:\Users\p9743\Downloads\פרויקט מירה ורחלי\layered-architecture-demo\project C#.net\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+C:\Users\p9743\Downloads\פרויקט מירה ורחלי\layered-architecture-demo\project C#.net\BL\obj\Debug\BL.sourcelink.json
+C:\Users\p9743\Downloads\פרויקט מירה ורחלי\layered-architecture-demo\project C#.net\BL\obj\Debug\BL.csproj.Up2Date
+C:\Users\p9743\Downloads\‏‏פרויקט מירה ורחלי - עותק\layered-architecture-demo\project C#.net\bin\BL.deps.json
+C:\Users\p9743\Downloads\‏‏פרויקט מירה ורחלי - עותק\layered-architecture-demo\project C#.net\bin\BL.dll
+C:\Users\p9743\Downloads\‏‏פרויקט מירה ורחלי - עותק\layered-architecture-demo\project C#.net\bin\BL.pdb
+C:\Users\p9743\Downloads\‏‏פרויקט מירה ורחלי - עותק\layered-architecture-demo\project C#.net\BL\obj\Debug\BL.csproj.AssemblyReference.cache
+C:\Users\p9743\Downloads\‏‏פרויקט מירה ורחלי - עותק\layered-architecture-demo\project C#.net\BL\obj\Debug\BL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\p9743\Downloads\‏‏פרויקט מירה ורחלי - עותק\layered-architecture-demo\project C#.net\BL\obj\Debug\BL.AssemblyInfoInputs.cache
+C:\Users\p9743\Downloads\‏‏פרויקט מירה ורחלי - עותק\layered-architecture-demo\project C#.net\BL\obj\Debug\BL.AssemblyInfo.cs
+C:\Users\p9743\Downloads\‏‏פרויקט מירה ורחלי - עותק\layered-architecture-demo\project C#.net\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+C:\Users\p9743\Downloads\‏‏פרויקט מירה ורחלי - עותק\layered-architecture-demo\project C#.net\BL\obj\Debug\BL.sourcelink.json
+C:\Users\p9743\Downloads\‏‏פרויקט מירה ורחלי - עותק\layered-architecture-demo\project C#.net\BL\obj\Debug\BL.csproj.Up2Date
+C:\Users\p9743\Downloads\‏‏פרויקט מירה ורחלי - עותק\layered-architecture-demo\project C#.net\BL\obj\Debug\BL.dll
+C:\Users\p9743\Downloads\‏‏פרויקט מירה ורחלי - עותק\layered-architecture-demo\project C#.net\BL\obj\Debug\BL.pdb
+C:\Users\p9743\Downloads\‏‏‏‏פרויקט מירה ורחלי - עותק - עותק\layered-architecture-demo\project C#.net\bin\BL.deps.json
+C:\Users\p9743\Downloads\‏‏‏‏פרויקט מירה ורחלי - עותק - עותק\layered-architecture-demo\project C#.net\bin\BL.dll
+C:\Users\p9743\Downloads\‏‏‏‏פרויקט מירה ורחלי - עותק - עותק\layered-architecture-demo\project C#.net\bin\BL.pdb
+C:\Users\p9743\Downloads\‏‏‏‏פרויקט מירה ורחלי - עותק - עותק\layered-architecture-demo\project C#.net\BL\obj\Debug\BL.csproj.AssemblyReference.cache
+C:\Users\p9743\Downloads\‏‏‏‏פרויקט מירה ורחלי - עותק - עותק\layered-architecture-demo\project C#.net\BL\obj\Debug\BL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\p9743\Downloads\‏‏‏‏פרויקט מירה ורחלי - עותק - עותק\layered-architecture-demo\project C#.net\BL\obj\Debug\BL.AssemblyInfoInputs.cache
+C:\Users\p9743\Downloads\‏‏‏‏פרויקט מירה ורחלי - עותק - עותק\layered-architecture-demo\project C#.net\BL\obj\Debug\BL.AssemblyInfo.cs
+C:\Users\p9743\Downloads\‏‏‏‏פרויקט מירה ורחלי - עותק - עותק\layered-architecture-demo\project C#.net\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+C:\Users\p9743\Downloads\‏‏‏‏פרויקט מירה ורחלי - עותק - עותק\layered-architecture-demo\project C#.net\BL\obj\Debug\BL.sourcelink.json
+C:\Users\p9743\Downloads\‏‏‏‏פרויקט מירה ורחלי - עותק - עותק\layered-architecture-demo\project C#.net\BL\obj\Debug\BL.csproj.Up2Date
+C:\Users\p9743\Downloads\‏‏‏‏פרויקט מירה ורחלי - עותק - עותק\layered-architecture-demo\project C#.net\BL\obj\Debug\BL.dll
+C:\Users\p9743\Downloads\‏‏‏‏פרויקט מירה ורחלי - עותק - עותק\layered-architecture-demo\project C#.net\BL\obj\Debug\BL.pdb
+C:\Users\User\Contacts\Downloads\- עותק - עותק\layered-architecture-demo\project C#.net\bin\BL.deps.json
+C:\Users\User\Contacts\Downloads\- עותק - עותק\layered-architecture-demo\project C#.net\bin\BL.dll
+C:\Users\User\Contacts\Downloads\- עותק - עותק\layered-architecture-demo\project C#.net\bin\BL.pdb
+C:\Users\User\Contacts\Downloads\- עותק - עותק\layered-architecture-demo\project C#.net\BL\obj\Debug\BL.csproj.AssemblyReference.cache
+C:\Users\User\Contacts\Downloads\- עותק - עותק\layered-architecture-demo\project C#.net\BL\obj\Debug\BL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Contacts\Downloads\- עותק - עותק\layered-architecture-demo\project C#.net\BL\obj\Debug\BL.AssemblyInfoInputs.cache
+C:\Users\User\Contacts\Downloads\- עותק - עותק\layered-architecture-demo\project C#.net\BL\obj\Debug\BL.AssemblyInfo.cs
+C:\Users\User\Contacts\Downloads\- עותק - עותק\layered-architecture-demo\project C#.net\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+C:\Users\User\Contacts\Downloads\- עותק - עותק\layered-architecture-demo\project C#.net\BL\obj\Debug\BL.sourcelink.json
+C:\Users\User\Contacts\Downloads\- עותק - עותק\layered-architecture-demo\project C#.net\BL\obj\Debug\BL.csproj.Up2Date
+C:\Users\User\Contacts\Downloads\- עותק - עותק\layered-architecture-demo\project C#.net\BL\obj\Debug\BL.dll
+C:\Users\User\Contacts\Downloads\- עותק - עותק\layered-architecture-demo\project C#.net\BL\obj\Debug\BL.pdb

@@ -77,3 +77,59 @@ M:\פרויקט גיט2\layered-architecture-demo\project C#.net\DalList\obj\Deb
 M:\פרויקט גיט2\layered-architecture-demo\project C#.net\DalList\obj\Debug\refint\DalList.dll
 M:\פרויקט גיט2\layered-architecture-demo\project C#.net\DalList\obj\Debug\DalList.pdb
 M:\פרויקט גיט2\layered-architecture-demo\project C#.net\DalList\obj\Debug\ref\DalList.dll
+C:\Users\p9743\Downloads\פרויקט מירה ורחלי\layered-architecture-demo\project C#.net\DalList\obj\Debug\DalList.dll
+C:\Users\p9743\Downloads\פרויקט מירה ורחלי\layered-architecture-demo\project C#.net\DalList\obj\Debug\refint\DalList.dll
+C:\Users\p9743\Downloads\פרויקט מירה ורחלי\layered-architecture-demo\project C#.net\DalList\obj\Debug\DalList.pdb
+C:\Users\p9743\Downloads\פרויקט מירה ורחלי\layered-architecture-demo\project C#.net\bin\DalList.deps.json
+C:\Users\p9743\Downloads\פרויקט מירה ורחלי\layered-architecture-demo\project C#.net\bin\DalList.dll
+C:\Users\p9743\Downloads\פרויקט מירה ורחלי\layered-architecture-demo\project C#.net\bin\DalList.pdb
+C:\Users\p9743\Downloads\פרויקט מירה ורחלי\layered-architecture-demo\project C#.net\DalList\obj\Debug\DalList.csproj.AssemblyReference.cache
+C:\Users\p9743\Downloads\פרויקט מירה ורחלי\layered-architecture-demo\project C#.net\DalList\obj\Debug\DalList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\p9743\Downloads\פרויקט מירה ורחלי\layered-architecture-demo\project C#.net\DalList\obj\Debug\DalList.AssemblyInfoInputs.cache
+C:\Users\p9743\Downloads\פרויקט מירה ורחלי\layered-architecture-demo\project C#.net\DalList\obj\Debug\DalList.AssemblyInfo.cs
+C:\Users\p9743\Downloads\פרויקט מירה ורחלי\layered-architecture-demo\project C#.net\DalList\obj\Debug\DalList.csproj.CoreCompileInputs.cache
+C:\Users\p9743\Downloads\פרויקט מירה ורחלי\layered-architecture-demo\project C#.net\DalList\obj\Debug\DalList.sourcelink.json
+C:\Users\p9743\Downloads\פרויקט מירה ורחלי\layered-architecture-demo\project C#.net\DalList\obj\Debug\DalList.csproj.Up2Date
+C:\Users\p9743\Downloads\פרויקט מירה ורחלי\layered-architecture-demo\project C#.net\DalList\obj\Debug\ref\DalList.dll
+C:\Users\p9743\Downloads\‏‏פרויקט מירה ורחלי - עותק\layered-architecture-demo\project C#.net\bin\DalList.deps.json
+C:\Users\p9743\Downloads\‏‏פרויקט מירה ורחלי - עותק\layered-architecture-demo\project C#.net\bin\DalList.dll
+C:\Users\p9743\Downloads\‏‏פרויקט מירה ורחלי - עותק\layered-architecture-demo\project C#.net\bin\DalList.pdb
+C:\Users\p9743\Downloads\‏‏פרויקט מירה ורחלי - עותק\layered-architecture-demo\project C#.net\DalList\obj\Debug\DalList.csproj.AssemblyReference.cache
+C:\Users\p9743\Downloads\‏‏פרויקט מירה ורחלי - עותק\layered-architecture-demo\project C#.net\DalList\obj\Debug\DalList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\p9743\Downloads\‏‏פרויקט מירה ורחלי - עותק\layered-architecture-demo\project C#.net\DalList\obj\Debug\DalList.AssemblyInfoInputs.cache
+C:\Users\p9743\Downloads\‏‏פרויקט מירה ורחלי - עותק\layered-architecture-demo\project C#.net\DalList\obj\Debug\DalList.AssemblyInfo.cs
+C:\Users\p9743\Downloads\‏‏פרויקט מירה ורחלי - עותק\layered-architecture-demo\project C#.net\DalList\obj\Debug\DalList.csproj.CoreCompileInputs.cache
+C:\Users\p9743\Downloads\‏‏פרויקט מירה ורחלי - עותק\layered-architecture-demo\project C#.net\DalList\obj\Debug\DalList.sourcelink.json
+C:\Users\p9743\Downloads\‏‏פרויקט מירה ורחלי - עותק\layered-architecture-demo\project C#.net\DalList\obj\Debug\DalList.csproj.Up2Date
+C:\Users\p9743\Downloads\‏‏פרויקט מירה ורחלי - עותק\layered-architecture-demo\project C#.net\DalList\obj\Debug\DalList.dll
+C:\Users\p9743\Downloads\‏‏פרויקט מירה ורחלי - עותק\layered-architecture-demo\project C#.net\DalList\obj\Debug\refint\DalList.dll
+C:\Users\p9743\Downloads\‏‏פרויקט מירה ורחלי - עותק\layered-architecture-demo\project C#.net\DalList\obj\Debug\DalList.pdb
+C:\Users\p9743\Downloads\‏‏פרויקט מירה ורחלי - עותק\layered-architecture-demo\project C#.net\DalList\obj\Debug\ref\DalList.dll
+C:\Users\p9743\Downloads\‏‏‏‏פרויקט מירה ורחלי - עותק - עותק\layered-architecture-demo\project C#.net\bin\DalList.deps.json
+C:\Users\p9743\Downloads\‏‏‏‏פרויקט מירה ורחלי - עותק - עותק\layered-architecture-demo\project C#.net\bin\DalList.dll
+C:\Users\p9743\Downloads\‏‏‏‏פרויקט מירה ורחלי - עותק - עותק\layered-architecture-demo\project C#.net\bin\DalList.pdb
+C:\Users\p9743\Downloads\‏‏‏‏פרויקט מירה ורחלי - עותק - עותק\layered-architecture-demo\project C#.net\DalList\obj\Debug\DalList.csproj.AssemblyReference.cache
+C:\Users\p9743\Downloads\‏‏‏‏פרויקט מירה ורחלי - עותק - עותק\layered-architecture-demo\project C#.net\DalList\obj\Debug\DalList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\p9743\Downloads\‏‏‏‏פרויקט מירה ורחלי - עותק - עותק\layered-architecture-demo\project C#.net\DalList\obj\Debug\DalList.AssemblyInfoInputs.cache
+C:\Users\p9743\Downloads\‏‏‏‏פרויקט מירה ורחלי - עותק - עותק\layered-architecture-demo\project C#.net\DalList\obj\Debug\DalList.AssemblyInfo.cs
+C:\Users\p9743\Downloads\‏‏‏‏פרויקט מירה ורחלי - עותק - עותק\layered-architecture-demo\project C#.net\DalList\obj\Debug\DalList.csproj.CoreCompileInputs.cache
+C:\Users\p9743\Downloads\‏‏‏‏פרויקט מירה ורחלי - עותק - עותק\layered-architecture-demo\project C#.net\DalList\obj\Debug\DalList.sourcelink.json
+C:\Users\p9743\Downloads\‏‏‏‏פרויקט מירה ורחלי - עותק - עותק\layered-architecture-demo\project C#.net\DalList\obj\Debug\DalList.csproj.Up2Date
+C:\Users\p9743\Downloads\‏‏‏‏פרויקט מירה ורחלי - עותק - עותק\layered-architecture-demo\project C#.net\DalList\obj\Debug\DalList.dll
+C:\Users\p9743\Downloads\‏‏‏‏פרויקט מירה ורחלי - עותק - עותק\layered-architecture-demo\project C#.net\DalList\obj\Debug\refint\DalList.dll
+C:\Users\p9743\Downloads\‏‏‏‏פרויקט מירה ורחלי - עותק - עותק\layered-architecture-demo\project C#.net\DalList\obj\Debug\DalList.pdb
+C:\Users\p9743\Downloads\‏‏‏‏פרויקט מירה ורחלי - עותק - עותק\layered-architecture-demo\project C#.net\DalList\obj\Debug\ref\DalList.dll
+C:\Users\User\Contacts\Downloads\- עותק - עותק\layered-architecture-demo\project C#.net\bin\DalList.deps.json
+C:\Users\User\Contacts\Downloads\- עותק - עותק\layered-architecture-demo\project C#.net\bin\DalList.dll
+C:\Users\User\Contacts\Downloads\- עותק - עותק\layered-architecture-demo\project C#.net\bin\DalList.pdb
+C:\Users\User\Contacts\Downloads\- עותק - עותק\layered-architecture-demo\project C#.net\DalList\obj\Debug\DalList.csproj.AssemblyReference.cache
+C:\Users\User\Contacts\Downloads\- עותק - עותק\layered-architecture-demo\project C#.net\DalList\obj\Debug\DalList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Contacts\Downloads\- עותק - עותק\layered-architecture-demo\project C#.net\DalList\obj\Debug\DalList.AssemblyInfoInputs.cache
+C:\Users\User\Contacts\Downloads\- עותק - עותק\layered-architecture-demo\project C#.net\DalList\obj\Debug\DalList.AssemblyInfo.cs
+C:\Users\User\Contacts\Downloads\- עותק - עותק\layered-architecture-demo\project C#.net\DalList\obj\Debug\DalList.csproj.CoreCompileInputs.cache
+C:\Users\User\Contacts\Downloads\- עותק - עותק\layered-architecture-demo\project C#.net\DalList\obj\Debug\DalList.sourcelink.json
+C:\Users\User\Contacts\Downloads\- עותק - עותק\layered-architecture-demo\project C#.net\DalList\obj\Debug\DalList.csproj.Up2Date
+C:\Users\User\Contacts\Downloads\- עותק - עותק\layered-architecture-demo\project C#.net\DalList\obj\Debug\DalList.dll
+C:\Users\User\Contacts\Downloads\- עותק - עותק\layered-architecture-demo\project C#.net\DalList\obj\Debug\refint\DalList.dll
+C:\Users\User\Contacts\Downloads\- עותק - עותק\layered-architecture-demo\project C#.net\DalList\obj\Debug\DalList.pdb
+C:\Users\User\Contacts\Downloads\- עותק - עותק\layered-architecture-demo\project C#.net\DalList\obj\Debug\ref\DalList.dll

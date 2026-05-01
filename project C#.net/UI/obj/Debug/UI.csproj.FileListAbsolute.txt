@@ -1,0 +1,66 @@
+C:\Users\p9743\Downloads\‏‏פרויקט מירה ורחלי - עותק\layered-architecture-demo\project C#.net\UI\obj\Debug\UI.csproj.AssemblyReference.cache
+C:\Users\p9743\Downloads\‏‏פרויקט מירה ורחלי - עותק\layered-architecture-demo\project C#.net\UI\obj\Debug\UI.CustomerForm.resources
+C:\Users\p9743\Downloads\‏‏פרויקט מירה ורחלי - עותק\layered-architecture-demo\project C#.net\UI\obj\Debug\UI.Form1.resources
+C:\Users\p9743\Downloads\‏‏פרויקט מירה ורחלי - עותק\layered-architecture-demo\project C#.net\UI\obj\Debug\UI.ManagerForm.resources
+C:\Users\p9743\Downloads\‏‏פרויקט מירה ורחלי - עותק\layered-architecture-demo\project C#.net\UI\obj\Debug\UI.ProductForm.resources
+C:\Users\p9743\Downloads\‏‏פרויקט מירה ורחלי - עותק\layered-architecture-demo\project C#.net\UI\obj\Debug\UI.csproj.GenerateResource.cache
+C:\Users\p9743\Downloads\‏‏פרויקט מירה ורחלי - עותק\layered-architecture-demo\project C#.net\UI\obj\Debug\UI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\p9743\Downloads\‏‏פרויקט מירה ורחלי - עותק\layered-architecture-demo\project C#.net\UI\obj\Debug\UI.AssemblyInfoInputs.cache
+C:\Users\p9743\Downloads\‏‏פרויקט מירה ורחלי - עותק\layered-architecture-demo\project C#.net\UI\obj\Debug\UI.AssemblyInfo.cs
+C:\Users\p9743\Downloads\‏‏פרויקט מירה ורחלי - עותק\layered-architecture-demo\project C#.net\UI\obj\Debug\UI.csproj.CoreCompileInputs.cache
+C:\Users\p9743\Downloads\‏‏פרויקט מירה ורחלי - עותק\layered-architecture-demo\project C#.net\UI\obj\Debug\UI.sourcelink.json
+C:\Users\p9743\Downloads\‏‏פרויקט מירה ורחלי - עותק\layered-architecture-demo\project C#.net\bin\UI.exe
+C:\Users\p9743\Downloads\‏‏פרויקט מירה ורחלי - עותק\layered-architecture-demo\project C#.net\bin\UI.deps.json
+C:\Users\p9743\Downloads\‏‏פרויקט מירה ורחלי - עותק\layered-architecture-demo\project C#.net\bin\UI.runtimeconfig.json
+C:\Users\p9743\Downloads\‏‏פרויקט מירה ורחלי - עותק\layered-architecture-demo\project C#.net\bin\UI.dll
+C:\Users\p9743\Downloads\‏‏פרויקט מירה ורחלי - עותק\layered-architecture-demo\project C#.net\bin\UI.pdb
+C:\Users\p9743\Downloads\‏‏פרויקט מירה ורחלי - עותק\layered-architecture-demo\project C#.net\UI\obj\Debug\UI.csproj.Up2Date
+C:\Users\p9743\Downloads\‏‏פרויקט מירה ורחלי - עותק\layered-architecture-demo\project C#.net\UI\obj\Debug\UI.dll
+C:\Users\p9743\Downloads\‏‏פרויקט מירה ורחלי - עותק\layered-architecture-demo\project C#.net\UI\obj\Debug\refint\UI.dll
+C:\Users\p9743\Downloads\‏‏פרויקט מירה ורחלי - עותק\layered-architecture-demo\project C#.net\UI\obj\Debug\UI.pdb
+C:\Users\p9743\Downloads\‏‏פרויקט מירה ורחלי - עותק\layered-architecture-demo\project C#.net\UI\obj\Debug\UI.genruntimeconfig.cache
+C:\Users\p9743\Downloads\‏‏פרויקט מירה ורחלי - עותק\layered-architecture-demo\project C#.net\UI\obj\Debug\ref\UI.dll
+C:\Users\p9743\Downloads\‏‏‏‏פרויקט מירה ורחלי - עותק - עותק\layered-architecture-demo\project C#.net\bin\UI.exe
+C:\Users\p9743\Downloads\‏‏‏‏פרויקט מירה ורחלי - עותק - עותק\layered-architecture-demo\project C#.net\bin\UI.deps.json
+C:\Users\p9743\Downloads\‏‏‏‏פרויקט מירה ורחלי - עותק - עותק\layered-architecture-demo\project C#.net\bin\UI.runtimeconfig.json
+C:\Users\p9743\Downloads\‏‏‏‏פרויקט מירה ורחלי - עותק - עותק\layered-architecture-demo\project C#.net\bin\UI.dll
+C:\Users\p9743\Downloads\‏‏‏‏פרויקט מירה ורחלי - עותק - עותק\layered-architecture-demo\project C#.net\bin\UI.pdb
+C:\Users\p9743\Downloads\‏‏‏‏פרויקט מירה ורחלי - עותק - עותק\layered-architecture-demo\project C#.net\UI\obj\Debug\UI.csproj.AssemblyReference.cache
+C:\Users\p9743\Downloads\‏‏‏‏פרויקט מירה ורחלי - עותק - עותק\layered-architecture-demo\project C#.net\UI\obj\Debug\UI.CustomerForm.resources
+C:\Users\p9743\Downloads\‏‏‏‏פרויקט מירה ורחלי - עותק - עותק\layered-architecture-demo\project C#.net\UI\obj\Debug\UI.Form1.resources
+C:\Users\p9743\Downloads\‏‏‏‏פרויקט מירה ורחלי - עותק - עותק\layered-architecture-demo\project C#.net\UI\obj\Debug\UI.ManagerForm.resources
+C:\Users\p9743\Downloads\‏‏‏‏פרויקט מירה ורחלי - עותק - עותק\layered-architecture-demo\project C#.net\UI\obj\Debug\UI.ProductForm.resources
+C:\Users\p9743\Downloads\‏‏‏‏פרויקט מירה ורחלי - עותק - עותק\layered-architecture-demo\project C#.net\UI\obj\Debug\UI.csproj.GenerateResource.cache
+C:\Users\p9743\Downloads\‏‏‏‏פרויקט מירה ורחלי - עותק - עותק\layered-architecture-demo\project C#.net\UI\obj\Debug\UI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\p9743\Downloads\‏‏‏‏פרויקט מירה ורחלי - עותק - עותק\layered-architecture-demo\project C#.net\UI\obj\Debug\UI.AssemblyInfoInputs.cache
+C:\Users\p9743\Downloads\‏‏‏‏פרויקט מירה ורחלי - עותק - עותק\layered-architecture-demo\project C#.net\UI\obj\Debug\UI.AssemblyInfo.cs
+C:\Users\p9743\Downloads\‏‏‏‏פרויקט מירה ורחלי - עותק - עותק\layered-architecture-demo\project C#.net\UI\obj\Debug\UI.csproj.CoreCompileInputs.cache
+C:\Users\p9743\Downloads\‏‏‏‏פרויקט מירה ורחלי - עותק - עותק\layered-architecture-demo\project C#.net\UI\obj\Debug\UI.sourcelink.json
+C:\Users\p9743\Downloads\‏‏‏‏פרויקט מירה ורחלי - עותק - עותק\layered-architecture-demo\project C#.net\UI\obj\Debug\UI.csproj.Up2Date
+C:\Users\p9743\Downloads\‏‏‏‏פרויקט מירה ורחלי - עותק - עותק\layered-architecture-demo\project C#.net\UI\obj\Debug\UI.dll
+C:\Users\p9743\Downloads\‏‏‏‏פרויקט מירה ורחלי - עותק - עותק\layered-architecture-demo\project C#.net\UI\obj\Debug\refint\UI.dll
+C:\Users\p9743\Downloads\‏‏‏‏פרויקט מירה ורחלי - עותק - עותק\layered-architecture-demo\project C#.net\UI\obj\Debug\UI.pdb
+C:\Users\p9743\Downloads\‏‏‏‏פרויקט מירה ורחלי - עותק - עותק\layered-architecture-demo\project C#.net\UI\obj\Debug\UI.genruntimeconfig.cache
+C:\Users\p9743\Downloads\‏‏‏‏פרויקט מירה ורחלי - עותק - עותק\layered-architecture-demo\project C#.net\UI\obj\Debug\ref\UI.dll
+C:\Users\User\Contacts\Downloads\- עותק - עותק\layered-architecture-demo\project C#.net\bin\UI.exe
+C:\Users\User\Contacts\Downloads\- עותק - עותק\layered-architecture-demo\project C#.net\bin\UI.deps.json
+C:\Users\User\Contacts\Downloads\- עותק - עותק\layered-architecture-demo\project C#.net\bin\UI.runtimeconfig.json
+C:\Users\User\Contacts\Downloads\- עותק - עותק\layered-architecture-demo\project C#.net\bin\UI.dll
+C:\Users\User\Contacts\Downloads\- עותק - עותק\layered-architecture-demo\project C#.net\bin\UI.pdb
+C:\Users\User\Contacts\Downloads\- עותק - עותק\layered-architecture-demo\project C#.net\UI\obj\Debug\UI.csproj.AssemblyReference.cache
+C:\Users\User\Contacts\Downloads\- עותק - עותק\layered-architecture-demo\project C#.net\UI\obj\Debug\UI.CustomerForm.resources
+C:\Users\User\Contacts\Downloads\- עותק - עותק\layered-architecture-demo\project C#.net\UI\obj\Debug\UI.Form1.resources
+C:\Users\User\Contacts\Downloads\- עותק - עותק\layered-architecture-demo\project C#.net\UI\obj\Debug\UI.ManagerForm.resources
+C:\Users\User\Contacts\Downloads\- עותק - עותק\layered-architecture-demo\project C#.net\UI\obj\Debug\UI.ProductForm.resources
+C:\Users\User\Contacts\Downloads\- עותק - עותק\layered-architecture-demo\project C#.net\UI\obj\Debug\UI.csproj.GenerateResource.cache
+C:\Users\User\Contacts\Downloads\- עותק - עותק\layered-architecture-demo\project C#.net\UI\obj\Debug\UI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Contacts\Downloads\- עותק - עותק\layered-architecture-demo\project C#.net\UI\obj\Debug\UI.AssemblyInfoInputs.cache
+C:\Users\User\Contacts\Downloads\- עותק - עותק\layered-architecture-demo\project C#.net\UI\obj\Debug\UI.AssemblyInfo.cs
+C:\Users\User\Contacts\Downloads\- עותק - עותק\layered-architecture-demo\project C#.net\UI\obj\Debug\UI.csproj.CoreCompileInputs.cache
+C:\Users\User\Contacts\Downloads\- עותק - עותק\layered-architecture-demo\project C#.net\UI\obj\Debug\UI.sourcelink.json
+C:\Users\User\Contacts\Downloads\- עותק - עותק\layered-architecture-demo\project C#.net\UI\obj\Debug\UI.csproj.Up2Date
+C:\Users\User\Contacts\Downloads\- עותק - עותק\layered-architecture-demo\project C#.net\UI\obj\Debug\UI.dll
+C:\Users\User\Contacts\Downloads\- עותק - עותק\layered-architecture-demo\project C#.net\UI\obj\Debug\refint\UI.dll
+C:\Users\User\Contacts\Downloads\- עותק - עותק\layered-architecture-demo\project C#.net\UI\obj\Debug\UI.pdb
+C:\Users\User\Contacts\Downloads\- עותק - עותק\layered-architecture-demo\project C#.net\UI\obj\Debug\UI.genruntimeconfig.cache
+C:\Users\User\Contacts\Downloads\- עותק - עותק\layered-architecture-demo\project C#.net\UI\obj\Debug\ref\UI.dll

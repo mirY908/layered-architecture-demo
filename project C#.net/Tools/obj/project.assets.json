@@ -1,11 +1,11 @@
 {
   "version": 3,
   "targets": {
-    "net6.0": {}
+    "net8.0": {}
   },
   "libraries": {},
   "projectFileDependencyGroups": {
-    "net6.0": []
+    "net8.0": []
   },
   "packageFolders": {
     "C:\\Users\\User\\.nuget\\packages\\": {},
@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\Downloads\\פרוייקט מירה ורחלי\\layered-architecture-demo\\project C#.net\\Tools\\Tools.csproj",
+      "projectUniqueName": "C:\\Users\\User\\Contacts\\Downloads\\- עותק - עותק\\layered-architecture-demo\\project C#.net\\Tools\\Tools.csproj",
       "projectName": "Tools",
-      "projectPath": "C:\\Users\\User\\Downloads\\פרוייקט מירה ורחלי\\layered-architecture-demo\\project C#.net\\Tools\\Tools.csproj",
+      "projectPath": "C:\\Users\\User\\Contacts\\Downloads\\- עותק - עותק\\layered-architecture-demo\\project C#.net\\Tools\\Tools.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\Downloads\\פרוייקט מירה ורחלי\\layered-architecture-demo\\project C#.net\\Tools\\obj\\",
+      "outputPath": "C:\\Users\\User\\Contacts\\Downloads\\- עותק - עותק\\layered-architecture-demo\\project C#.net\\Tools\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -29,7 +29,7 @@
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
-        "net6.0"
+        "net8.0"
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
@@ -37,9 +37,9 @@
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
-        "net6.0": {
-          "framework": "net6.0",
-          "targetAlias": "net6.0",
+        "net8.0": {
+          "framework": "net8.0",
+          "targetAlias": "net8.0",
           "projectReferences": {}
         }
       },
@@ -56,9 +56,9 @@
       "SdkAnalysisLevel": "10.0.200"
     },
     "frameworks": {
-      "net6.0": {
-        "framework": "net6.0",
-        "targetAlias": "net6.0",
+      "net8.0": {
+        "framework": "net8.0",
+        "targetAlias": "net8.0",
         "imports": [
           "net461",
           "net462",
@@ -75,7 +75,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.203\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.203/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
