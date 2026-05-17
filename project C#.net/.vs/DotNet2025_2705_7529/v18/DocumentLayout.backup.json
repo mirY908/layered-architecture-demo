@@ -3,16 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\User\\Contacts\\Downloads\\- \u05E2\u05D5\u05EA\u05E7 - \u05E2\u05D5\u05EA\u05E7\\layered-architecture-demo\\project C#.net\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{09E0E438-1436-4655-B87E-8AEFAAD9D1CF}|BL\\BL.csproj|c:\\users\\user\\contacts\\downloads\\- \u05E2\u05D5\u05EA\u05E7 - \u05E2\u05D5\u05EA\u05E7\\layered-architecture-demo\\project c#.net\\bl\\bllmplementation\\productimplementation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{09E0E438-1436-4655-B87E-8AEFAAD9D1CF}|BL\\BL.csproj|solutionrelative:bl\\bllmplementation\\productimplementation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{955C08E1-C3A9-467D-8032-5A6ED731D831}|UI\\UI.csproj|c:\\users\\user\\contacts\\downloads\\- \u05E2\u05D5\u05EA\u05E7 - \u05E2\u05D5\u05EA\u05E7\\layered-architecture-demo\\project c#.net\\ui\\cartwindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{955C08E1-C3A9-467D-8032-5A6ED731D831}|UI\\UI.csproj|solutionrelative:ui\\cartwindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{09E0E438-1436-4655-B87E-8AEFAAD9D1CF}|BL\\BL.csproj|c:\\users\\user\\contacts\\downloads\\- \u05E2\u05D5\u05EA\u05E7 - \u05E2\u05D5\u05EA\u05E7\\layered-architecture-demo\\project c#.net\\bl\\bo\\product .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{09E0E438-1436-4655-B87E-8AEFAAD9D1CF}|BL\\BL.csproj|solutionrelative:bl\\bo\\product .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{14908114-FF0C-403B-A6A7-97D0C354FCA9}|DalList\\DalList.csproj|c:\\users\\user\\contacts\\downloads\\- \u05E2\u05D5\u05EA\u05E7 - \u05E2\u05D5\u05EA\u05E7\\layered-architecture-demo\\project c#.net\\dallist\\productimplementation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{14908114-FF0C-403B-A6A7-97D0C354FCA9}|DalList\\DalList.csproj|solutionrelative:dallist\\productimplementation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{955C08E1-C3A9-467D-8032-5A6ED731D831}|UI\\UI.csproj|c:\\users\\user\\contacts\\downloads\\- \u05E2\u05D5\u05EA\u05E7 - \u05E2\u05D5\u05EA\u05E7\\layered-architecture-demo\\project c#.net\\ui\\cartwindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{955C08E1-C3A9-467D-8032-5A6ED731D831}|UI\\UI.csproj|solutionrelative:ui\\cartwindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{955C08E1-C3A9-467D-8032-5A6ED731D831}|UI\\UI.csproj|c:\\users\\user\\contacts\\downloads\\- \u05E2\u05D5\u05EA\u05E7 - \u05E2\u05D5\u05EA\u05E7\\layered-architecture-demo\\project c#.net\\ui\\productform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -23,12 +19,108 @@
       "RelativeMoniker": "D:0:0:{955C08E1-C3A9-467D-8032-5A6ED731D831}|UI\\UI.csproj|solutionrelative:ui\\productform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{955C08E1-C3A9-467D-8032-5A6ED731D831}|UI\\UI.csproj|c:\\users\\user\\contacts\\downloads\\- \u05E2\u05D5\u05EA\u05E7 - \u05E2\u05D5\u05EA\u05E7\\layered-architecture-demo\\project c#.net\\ui\\managerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{955C08E1-C3A9-467D-8032-5A6ED731D831}|UI\\UI.csproj|solutionrelative:ui\\managerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{EACD81D3-6643-416A-8380-A2696E9569CC}|DalFacade\\DalFacade.csproj|c:\\users\\user\\contacts\\downloads\\- \u05E2\u05D5\u05EA\u05E7 - \u05E2\u05D5\u05EA\u05E7\\layered-architecture-demo\\project c#.net\\dalfacade\\do\\enums.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EACD81D3-6643-416A-8380-A2696E9569CC}|DalFacade\\DalFacade.csproj|solutionrelative:dalfacade\\do\\enums.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09E0E438-1436-4655-B87E-8AEFAAD9D1CF}|BL\\BL.csproj|c:\\users\\user\\contacts\\downloads\\- \u05E2\u05D5\u05EA\u05E7 - \u05E2\u05D5\u05EA\u05E7\\layered-architecture-demo\\project c#.net\\bl\\bo\\enums.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09E0E438-1436-4655-B87E-8AEFAAD9D1CF}|BL\\BL.csproj|solutionrelative:bl\\bo\\enums.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14908114-FF0C-403B-A6A7-97D0C354FCA9}|DalList\\DalList.csproj|c:\\users\\user\\contacts\\downloads\\- \u05E2\u05D5\u05EA\u05E7 - \u05E2\u05D5\u05EA\u05E7\\layered-architecture-demo\\project c#.net\\dallist\\datasource.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14908114-FF0C-403B-A6A7-97D0C354FCA9}|DalList\\DalList.csproj|solutionrelative:dallist\\datasource.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CDE06217-E84E-45E3-B19D-001E2900ED8B}|DalXml\\DalXml.csproj|c:\\users\\user\\contacts\\downloads\\- \u05E2\u05D5\u05EA\u05E7 - \u05E2\u05D5\u05EA\u05E7\\layered-architecture-demo\\project c#.net\\dalxml\\productimplementation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CDE06217-E84E-45E3-B19D-001E2900ED8B}|DalXml\\DalXml.csproj|solutionrelative:dalxml\\productimplementation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09E0E438-1436-4655-B87E-8AEFAAD9D1CF}|BL\\BL.csproj|c:\\users\\user\\contacts\\downloads\\- \u05E2\u05D5\u05EA\u05E7 - \u05E2\u05D5\u05EA\u05E7\\layered-architecture-demo\\project c#.net\\bl\\blapi\\iorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09E0E438-1436-4655-B87E-8AEFAAD9D1CF}|BL\\BL.csproj|solutionrelative:bl\\blapi\\iorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09E0E438-1436-4655-B87E-8AEFAAD9D1CF}|BL\\BL.csproj|c:\\users\\user\\contacts\\downloads\\- \u05E2\u05D5\u05EA\u05E7 - \u05E2\u05D5\u05EA\u05E7\\layered-architecture-demo\\project c#.net\\bl\\bllmplementation\\orderimplementation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09E0E438-1436-4655-B87E-8AEFAAD9D1CF}|BL\\BL.csproj|solutionrelative:bl\\bllmplementation\\orderimplementation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09E0E438-1436-4655-B87E-8AEFAAD9D1CF}|BL\\BL.csproj|c:\\users\\user\\contacts\\downloads\\- \u05E2\u05D5\u05EA\u05E7 - \u05E2\u05D5\u05EA\u05E7\\layered-architecture-demo\\project c#.net\\bl\\bo\\productinorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09E0E438-1436-4655-B87E-8AEFAAD9D1CF}|BL\\BL.csproj|solutionrelative:bl\\bo\\productinorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09E0E438-1436-4655-B87E-8AEFAAD9D1CF}|BL\\BL.csproj|c:\\users\\user\\contacts\\downloads\\- \u05E2\u05D5\u05EA\u05E7 - \u05E2\u05D5\u05EA\u05E7\\layered-architecture-demo\\project c#.net\\bl\\bo\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09E0E438-1436-4655-B87E-8AEFAAD9D1CF}|BL\\BL.csproj|solutionrelative:bl\\bo\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{955C08E1-C3A9-467D-8032-5A6ED731D831}|UI\\UI.csproj|c:\\users\\user\\contacts\\downloads\\- \u05E2\u05D5\u05EA\u05E7 - \u05E2\u05D5\u05EA\u05E7\\layered-architecture-demo\\project c#.net\\ui\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{955C08E1-C3A9-467D-8032-5A6ED731D831}|UI\\UI.csproj|solutionrelative:ui\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{955C08E1-C3A9-467D-8032-5A6ED731D831}|UI\\UI.csproj|C:\\Users\\User\\Contacts\\Downloads\\- \u05E2\u05D5\u05EA\u05E7 - \u05E2\u05D5\u05EA\u05E7\\layered-architecture-demo\\project C#.net\\ui\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{955C08E1-C3A9-467D-8032-5A6ED731D831}|UI\\UI.csproj|solutionrelative:ui\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDE06217-E84E-45E3-B19D-001E2900ED8B}|DalXml\\DalXml.csproj|c:\\users\\user\\contacts\\downloads\\- \u05E2\u05D5\u05EA\u05E7 - \u05E2\u05D5\u05EA\u05E7\\layered-architecture-demo\\project c#.net\\dalxml\\saleimplementation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDE06217-E84E-45E3-B19D-001E2900ED8B}|DalXml\\DalXml.csproj|solutionrelative:dalxml\\saleimplementation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14908114-FF0C-403B-A6A7-97D0C354FCA9}|DalList\\DalList.csproj|c:\\users\\user\\contacts\\downloads\\- \u05E2\u05D5\u05EA\u05E7 - \u05E2\u05D5\u05EA\u05E7\\layered-architecture-demo\\project c#.net\\dallist\\saleimplementation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14908114-FF0C-403B-A6A7-97D0C354FCA9}|DalList\\DalList.csproj|solutionrelative:dallist\\saleimplementation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09E0E438-1436-4655-B87E-8AEFAAD9D1CF}|BL\\BL.csproj|c:\\users\\user\\contacts\\downloads\\- \u05E2\u05D5\u05EA\u05E7 - \u05E2\u05D5\u05EA\u05E7\\layered-architecture-demo\\project c#.net\\bl\\bllmplementation\\saleimplementation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09E0E438-1436-4655-B87E-8AEFAAD9D1CF}|BL\\BL.csproj|solutionrelative:bl\\bllmplementation\\saleimplementation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09E0E438-1436-4655-B87E-8AEFAAD9D1CF}|BL\\BL.csproj|c:\\users\\user\\contacts\\downloads\\- \u05E2\u05D5\u05EA\u05E7 - \u05E2\u05D5\u05EA\u05E7\\layered-architecture-demo\\project c#.net\\bl\\bo\\sale .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09E0E438-1436-4655-B87E-8AEFAAD9D1CF}|BL\\BL.csproj|solutionrelative:bl\\bo\\sale .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09E0E438-1436-4655-B87E-8AEFAAD9D1CF}|BL\\BL.csproj|c:\\users\\user\\contacts\\downloads\\- \u05E2\u05D5\u05EA\u05E7 - \u05E2\u05D5\u05EA\u05E7\\layered-architecture-demo\\project c#.net\\bl\\blapi\\isale .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09E0E438-1436-4655-B87E-8AEFAAD9D1CF}|BL\\BL.csproj|solutionrelative:bl\\blapi\\isale .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{955C08E1-C3A9-467D-8032-5A6ED731D831}|UI\\UI.csproj|c:\\users\\user\\contacts\\downloads\\- \u05E2\u05D5\u05EA\u05E7 - \u05E2\u05D5\u05EA\u05E7\\layered-architecture-demo\\project c#.net\\ui\\saleform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{955C08E1-C3A9-467D-8032-5A6ED731D831}|UI\\UI.csproj|solutionrelative:ui\\saleform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{955C08E1-C3A9-467D-8032-5A6ED731D831}|UI\\UI.csproj|C:\\Users\\User\\Contacts\\Downloads\\- \u05E2\u05D5\u05EA\u05E7 - \u05E2\u05D5\u05EA\u05E7\\layered-architecture-demo\\project C#.net\\ui\\saleform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{955C08E1-C3A9-467D-8032-5A6ED731D831}|UI\\UI.csproj|solutionrelative:ui\\saleform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{955C08E1-C3A9-467D-8032-5A6ED731D831}|UI\\UI.csproj|c:\\users\\user\\contacts\\downloads\\- \u05E2\u05D5\u05EA\u05E7 - \u05E2\u05D5\u05EA\u05E7\\layered-architecture-demo\\project c#.net\\ui\\saleform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{955C08E1-C3A9-467D-8032-5A6ED731D831}|UI\\UI.csproj|solutionrelative:ui\\saleform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09E0E438-1436-4655-B87E-8AEFAAD9D1CF}|BL\\BL.csproj|c:\\users\\user\\contacts\\downloads\\- \u05E2\u05D5\u05EA\u05E7 - \u05E2\u05D5\u05EA\u05E7\\layered-architecture-demo\\project c#.net\\bl\\bo\\saleinproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09E0E438-1436-4655-B87E-8AEFAAD9D1CF}|BL\\BL.csproj|solutionrelative:bl\\bo\\saleinproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{955C08E1-C3A9-467D-8032-5A6ED731D831}|UI\\UI.csproj|C:\\Users\\User\\Contacts\\Downloads\\- \u05E2\u05D5\u05EA\u05E7 - \u05E2\u05D5\u05EA\u05E7\\layered-architecture-demo\\project C#.net\\ui\\managerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{955C08E1-C3A9-467D-8032-5A6ED731D831}|UI\\UI.csproj|solutionrelative:ui\\managerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{955C08E1-C3A9-467D-8032-5A6ED731D831}|UI\\UI.csproj|C:\\Users\\User\\Contacts\\Downloads\\- \u05E2\u05D5\u05EA\u05E7 - \u05E2\u05D5\u05EA\u05E7\\layered-architecture-demo\\project C#.net\\ui\\customerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{955C08E1-C3A9-467D-8032-5A6ED731D831}|UI\\UI.csproj|solutionrelative:ui\\customerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{955C08E1-C3A9-467D-8032-5A6ED731D831}|UI\\UI.csproj|c:\\users\\user\\contacts\\downloads\\- \u05E2\u05D5\u05EA\u05E7 - \u05E2\u05D5\u05EA\u05E7\\layered-architecture-demo\\project c#.net\\ui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{955C08E1-C3A9-467D-8032-5A6ED731D831}|UI\\UI.csproj|solutionrelative:ui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{955C08E1-C3A9-467D-8032-5A6ED731D831}|UI\\UI.csproj|c:\\users\\user\\contacts\\downloads\\- \u05E2\u05D5\u05EA\u05E7 - \u05E2\u05D5\u05EA\u05E7\\layered-architecture-demo\\project c#.net\\ui\\managerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{955C08E1-C3A9-467D-8032-5A6ED731D831}|UI\\UI.csproj|solutionrelative:ui\\managerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09E0E438-1436-4655-B87E-8AEFAAD9D1CF}|BL\\BL.csproj|c:\\users\\user\\contacts\\downloads\\- \u05E2\u05D5\u05EA\u05E7 - \u05E2\u05D5\u05EA\u05E7\\layered-architecture-demo\\project c#.net\\bl\\bllmplementation\\productimplementation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09E0E438-1436-4655-B87E-8AEFAAD9D1CF}|BL\\BL.csproj|solutionrelative:bl\\bllmplementation\\productimplementation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09E0E438-1436-4655-B87E-8AEFAAD9D1CF}|BL\\BL.csproj|c:\\users\\user\\contacts\\downloads\\- \u05E2\u05D5\u05EA\u05E7 - \u05E2\u05D5\u05EA\u05E7\\layered-architecture-demo\\project c#.net\\bl\\bo\\product .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09E0E438-1436-4655-B87E-8AEFAAD9D1CF}|BL\\BL.csproj|solutionrelative:bl\\bo\\product .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14908114-FF0C-403B-A6A7-97D0C354FCA9}|DalList\\DalList.csproj|c:\\users\\user\\contacts\\downloads\\- \u05E2\u05D5\u05EA\u05E7 - \u05E2\u05D5\u05EA\u05E7\\layered-architecture-demo\\project c#.net\\dallist\\productimplementation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14908114-FF0C-403B-A6A7-97D0C354FCA9}|DalList\\DalList.csproj|solutionrelative:dallist\\productimplementation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{EACD81D3-6643-416A-8380-A2696E9569CC}|DalFacade\\DalFacade.csproj|c:\\users\\user\\contacts\\downloads\\- \u05E2\u05D5\u05EA\u05E7 - \u05E2\u05D5\u05EA\u05E7\\layered-architecture-demo\\project c#.net\\dalfacade\\do\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -57,10 +149,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{CDE06217-E84E-45E3-B19D-001E2900ED8B}|DalXml\\DalXml.csproj|c:\\users\\user\\contacts\\downloads\\- \u05E2\u05D5\u05EA\u05E7 - \u05E2\u05D5\u05EA\u05E7\\layered-architecture-demo\\project c#.net\\dalxml\\custemerimplementation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CDE06217-E84E-45E3-B19D-001E2900ED8B}|DalXml\\DalXml.csproj|solutionrelative:dalxml\\custemerimplementation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CDE06217-E84E-45E3-B19D-001E2900ED8B}|DalXml\\DalXml.csproj|c:\\users\\user\\contacts\\downloads\\- \u05E2\u05D5\u05EA\u05E7 - \u05E2\u05D5\u05EA\u05E7\\layered-architecture-demo\\project c#.net\\dalxml\\saleimplementation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CDE06217-E84E-45E3-B19D-001E2900ED8B}|DalXml\\DalXml.csproj|solutionrelative:dalxml\\saleimplementation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CDE06217-E84E-45E3-B19D-001E2900ED8B}|DalXml\\DalXml.csproj|c:\\users\\user\\contacts\\downloads\\- \u05E2\u05D5\u05EA\u05E7 - \u05E2\u05D5\u05EA\u05E7\\layered-architecture-demo\\project c#.net\\dalxml\\dalxml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -163,20 +251,8 @@
       "RelativeMoniker": "D:0:0:{3E0E3EEC-B9D3-4049-8E60-E9F553755619}|DalTest\\DalTest.csproj|solutionrelative:daltest\\initialization.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{09E0E438-1436-4655-B87E-8AEFAAD9D1CF}|BL\\BL.csproj|c:\\users\\user\\contacts\\downloads\\- \u05E2\u05D5\u05EA\u05E7 - \u05E2\u05D5\u05EA\u05E7\\layered-architecture-demo\\project c#.net\\bl\\bllmplementation\\orderimplementation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{09E0E438-1436-4655-B87E-8AEFAAD9D1CF}|BL\\BL.csproj|solutionrelative:bl\\bllmplementation\\orderimplementation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{EACD81D3-6643-416A-8380-A2696E9569CC}|DalFacade\\DalFacade.csproj|c:\\users\\user\\contacts\\downloads\\- \u05E2\u05D5\u05EA\u05E7 - \u05E2\u05D5\u05EA\u05E7\\layered-architecture-demo\\project c#.net\\dalfacade\\do\\sale.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EACD81D3-6643-416A-8380-A2696E9569CC}|DalFacade\\DalFacade.csproj|solutionrelative:dalfacade\\do\\sale.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{14908114-FF0C-403B-A6A7-97D0C354FCA9}|DalList\\DalList.csproj|c:\\users\\user\\contacts\\downloads\\- \u05E2\u05D5\u05EA\u05E7 - \u05E2\u05D5\u05EA\u05E7\\layered-architecture-demo\\project c#.net\\dallist\\saleimplementation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{14908114-FF0C-403B-A6A7-97D0C354FCA9}|DalList\\DalList.csproj|solutionrelative:dallist\\saleimplementation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{09E0E438-1436-4655-B87E-8AEFAAD9D1CF}|BL\\BL.csproj|c:\\users\\user\\contacts\\downloads\\- \u05E2\u05D5\u05EA\u05E7 - \u05E2\u05D5\u05EA\u05E7\\layered-architecture-demo\\project c#.net\\bl\\bo\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{09E0E438-1436-4655-B87E-8AEFAAD9D1CF}|BL\\BL.csproj|solutionrelative:bl\\bo\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{EACD81D3-6643-416A-8380-A2696E9569CC}|DalFacade\\DalFacade.csproj|c:\\users\\user\\contacts\\downloads\\- \u05E2\u05D5\u05EA\u05E7 - \u05E2\u05D5\u05EA\u05E7\\layered-architecture-demo\\project c#.net\\dalfacade\\dalapi\\icrud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -185,10 +261,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{EACD81D3-6643-416A-8380-A2696E9569CC}|DalFacade\\DalFacade.csproj|c:\\users\\user\\contacts\\downloads\\- \u05E2\u05D5\u05EA\u05E7 - \u05E2\u05D5\u05EA\u05E7\\layered-architecture-demo\\project c#.net\\dalfacade\\dalapi\\isale.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EACD81D3-6643-416A-8380-A2696E9569CC}|DalFacade\\DalFacade.csproj|solutionrelative:dalfacade\\dalapi\\isale.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{09E0E438-1436-4655-B87E-8AEFAAD9D1CF}|BL\\BL.csproj|c:\\users\\user\\contacts\\downloads\\- \u05E2\u05D5\u05EA\u05E7 - \u05E2\u05D5\u05EA\u05E7\\layered-architecture-demo\\project c#.net\\bl\\bo\\sale .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{09E0E438-1436-4655-B87E-8AEFAAD9D1CF}|BL\\BL.csproj|solutionrelative:bl\\bo\\sale .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{09E0E438-1436-4655-B87E-8AEFAAD9D1CF}|BL\\BL.csproj|c:\\users\\user\\contacts\\downloads\\- \u05E2\u05D5\u05EA\u05E7 - \u05E2\u05D5\u05EA\u05E7\\layered-architecture-demo\\project c#.net\\bl\\bo\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -211,10 +283,6 @@
       "RelativeMoniker": "D:0:0:{C07A2D22-6F7C-4755-BDFD-EC7C25BF4DC1}|xml{C07A2D22-6F7C-4755-BDFD-EC7C25BF4DC1}|solutionrelative:xml\\sales.xml||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{14908114-FF0C-403B-A6A7-97D0C354FCA9}|DalList\\DalList.csproj|c:\\users\\user\\contacts\\downloads\\- \u05E2\u05D5\u05EA\u05E7 - \u05E2\u05D5\u05EA\u05E7\\layered-architecture-demo\\project c#.net\\dallist\\datasource.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{14908114-FF0C-403B-A6A7-97D0C354FCA9}|DalList\\DalList.csproj|solutionrelative:dallist\\datasource.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{14908114-FF0C-403B-A6A7-97D0C354FCA9}|DalList\\DalList.csproj|c:\\users\\user\\contacts\\downloads\\- \u05E2\u05D5\u05EA\u05E7 - \u05E2\u05D5\u05EA\u05E7\\layered-architecture-demo\\project c#.net\\dallist\\dallist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{14908114-FF0C-403B-A6A7-97D0C354FCA9}|DalList\\DalList.csproj|solutionrelative:dallist\\dallist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -231,32 +299,12 @@
       "RelativeMoniker": "D:0:0:{EACD81D3-6643-416A-8380-A2696E9569CC}|DalFacade\\DalFacade.csproj|solutionrelative:dalfacade\\do\\exceptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{09E0E438-1436-4655-B87E-8AEFAAD9D1CF}|BL\\BL.csproj|c:\\users\\user\\contacts\\downloads\\- \u05E2\u05D5\u05EA\u05E7 - \u05E2\u05D5\u05EA\u05E7\\layered-architecture-demo\\project c#.net\\bl\\bllmplementation\\saleimplementation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{09E0E438-1436-4655-B87E-8AEFAAD9D1CF}|BL\\BL.csproj|solutionrelative:bl\\bllmplementation\\saleimplementation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{09E0E438-1436-4655-B87E-8AEFAAD9D1CF}|BL\\BL.csproj|c:\\users\\user\\contacts\\downloads\\- \u05E2\u05D5\u05EA\u05E7 - \u05E2\u05D5\u05EA\u05E7\\layered-architecture-demo\\project c#.net\\bl\\blapi\\iorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{09E0E438-1436-4655-B87E-8AEFAAD9D1CF}|BL\\BL.csproj|solutionrelative:bl\\blapi\\iorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{09E0E438-1436-4655-B87E-8AEFAAD9D1CF}|BL\\BL.csproj|c:\\users\\user\\contacts\\downloads\\- \u05E2\u05D5\u05EA\u05E7 - \u05E2\u05D5\u05EA\u05E7\\layered-architecture-demo\\project c#.net\\bl\\bo\\saleinproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{09E0E438-1436-4655-B87E-8AEFAAD9D1CF}|BL\\BL.csproj|solutionrelative:bl\\bo\\saleinproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{EACD81D3-6643-416A-8380-A2696E9569CC}|DalFacade\\DalFacade.csproj|c:\\users\\user\\contacts\\downloads\\- \u05E2\u05D5\u05EA\u05E7 - \u05E2\u05D5\u05EA\u05E7\\layered-architecture-demo\\project c#.net\\dalfacade\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EACD81D3-6643-416A-8380-A2696E9569CC}|DalFacade\\DalFacade.csproj|solutionrelative:dalfacade\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{09E0E438-1436-4655-B87E-8AEFAAD9D1CF}|BL\\BL.csproj|c:\\users\\user\\contacts\\downloads\\- \u05E2\u05D5\u05EA\u05E7 - \u05E2\u05D5\u05EA\u05E7\\layered-architecture-demo\\project c#.net\\bl\\blapi\\isale .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{09E0E438-1436-4655-B87E-8AEFAAD9D1CF}|BL\\BL.csproj|solutionrelative:bl\\blapi\\isale .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{09E0E438-1436-4655-B87E-8AEFAAD9D1CF}|BL\\BL.csproj|c:\\users\\user\\contacts\\downloads\\- \u05E2\u05D5\u05EA\u05E7 - \u05E2\u05D5\u05EA\u05E7\\layered-architecture-demo\\project c#.net\\bl\\blapi\\icustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{09E0E438-1436-4655-B87E-8AEFAAD9D1CF}|BL\\BL.csproj|solutionrelative:bl\\blapi\\icustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{09E0E438-1436-4655-B87E-8AEFAAD9D1CF}|BL\\BL.csproj|c:\\users\\user\\contacts\\downloads\\- \u05E2\u05D5\u05EA\u05E7 - \u05E2\u05D5\u05EA\u05E7\\layered-architecture-demo\\project c#.net\\bl\\bo\\productinorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{09E0E438-1436-4655-B87E-8AEFAAD9D1CF}|BL\\BL.csproj|solutionrelative:bl\\bo\\productinorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{09E0E438-1436-4655-B87E-8AEFAAD9D1CF}|BL\\BL.csproj|c:\\users\\user\\contacts\\downloads\\- \u05E2\u05D5\u05EA\u05E7 - \u05E2\u05D5\u05EA\u05E7\\layered-architecture-demo\\project c#.net\\bl\\blapi\\ibl .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -274,10 +322,6 @@
       "RelativeMoniker": "D:0:0:{EACD81D3-6643-416A-8380-A2696E9569CC}|DalFacade\\DalFacade.csproj|solutionrelative:dalfacade\\dalapi\\iproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EACD81D3-6643-416A-8380-A2696E9569CC}|DalFacade\\DalFacade.csproj|c:\\users\\user\\contacts\\downloads\\- \u05E2\u05D5\u05EA\u05E7 - \u05E2\u05D5\u05EA\u05E7\\layered-architecture-demo\\project c#.net\\dalfacade\\do\\enums.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EACD81D3-6643-416A-8380-A2696E9569CC}|DalFacade\\DalFacade.csproj|solutionrelative:dalfacade\\do\\enums.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{7E8A3D4C-F543-4FDA-9BE3-2F4122B97AAF}|Tools\\Tools.csproj|c:\\users\\user\\contacts\\downloads\\- \u05E2\u05D5\u05EA\u05E7 - \u05E2\u05D5\u05EA\u05E7\\layered-architecture-demo\\project c#.net\\tools\\logmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7E8A3D4C-F543-4FDA-9BE3-2F4122B97AAF}|Tools\\Tools.csproj|solutionrelative:tools\\logmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -289,17 +333,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "ProductForm.cs",
               "DocumentMoniker": "C:\\Users\\User\\Contacts\\Downloads\\- \u05E2\u05D5\u05EA\u05E7 - \u05E2\u05D5\u05EA\u05E7\\layered-architecture-demo\\project C#.net\\UI\\ProductForm.cs",
               "RelativeDocumentMoniker": "UI\\ProductForm.cs",
               "ToolTip": "C:\\Users\\User\\Contacts\\Downloads\\- \u05E2\u05D5\u05EA\u05E7 - \u05E2\u05D5\u05EA\u05E7\\layered-architecture-demo\\project C#.net\\UI\\ProductForm.cs",
               "RelativeToolTip": "UI\\ProductForm.cs",
-              "ViewState": "AgIAADUBAAAAAAAAAAAUwDwBAAAlAAAAAAAAAA==",
+              "ViewState": "AgIAAGEBAAAAAAAAAAAuwL0BAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-29T17:55:56.004Z",
               "IsPinned": true,
@@ -307,619 +351,66 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Product .cs",
-              "DocumentMoniker": "C:\\Users\\User\\Contacts\\Downloads\\- \u05E2\u05D5\u05EA\u05E7 - \u05E2\u05D5\u05EA\u05E7\\layered-architecture-demo\\project C#.net\\BL\\BO\\Product .cs",
-              "RelativeDocumentMoniker": "BL\\BO\\Product .cs",
-              "ToolTip": "C:\\Users\\User\\Contacts\\Downloads\\- \u05E2\u05D5\u05EA\u05E7 - \u05E2\u05D5\u05EA\u05E7\\layered-architecture-demo\\project C#.net\\BL\\BO\\Product .cs",
-              "RelativeToolTip": "BL\\BO\\Product .cs",
-              "ViewState": "AgIAADMAAAAAAAAAAAA1wC8AAAARAAAAAAAAAA==",
+              "DocumentIndex": 5,
+              "Title": "Enums.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Contacts\\Downloads\\- \u05E2\u05D5\u05EA\u05E7 - \u05E2\u05D5\u05EA\u05E7\\layered-architecture-demo\\project C#.net\\BL\\BO\\Enums.cs",
+              "RelativeDocumentMoniker": "BL\\BO\\Enums.cs",
+              "ToolTip": "C:\\Users\\User\\Contacts\\Downloads\\- \u05E2\u05D5\u05EA\u05E7 - \u05E2\u05D5\u05EA\u05E7\\layered-architecture-demo\\project C#.net\\BL\\BO\\Enums.cs",
+              "RelativeToolTip": "BL\\BO\\Enums.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-25T20:40:43.825Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ProductImplementation.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Contacts\\Downloads\\- \u05E2\u05D5\u05EA\u05E7 - \u05E2\u05D5\u05EA\u05E7\\layered-architecture-demo\\project C#.net\\DalList\\ProductImplementation.cs",
-              "RelativeDocumentMoniker": "DalList\\ProductImplementation.cs",
-              "ToolTip": "C:\\Users\\User\\Contacts\\Downloads\\- \u05E2\u05D5\u05EA\u05E7 - \u05E2\u05D5\u05EA\u05E7\\layered-architecture-demo\\project C#.net\\DalList\\ProductImplementation.cs",
-              "RelativeToolTip": "DalList\\ProductImplementation.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAjAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-24T00:47:46.016Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-02T19:34:09.6Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "ProductImplementation.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Contacts\\Downloads\\- \u05E2\u05D5\u05EA\u05E7 - \u05E2\u05D5\u05EA\u05E7\\layered-architecture-demo\\project C#.net\\BL\\Bllmplementation\\ProductImplementation.cs",
-              "RelativeDocumentMoniker": "BL\\Bllmplementation\\ProductImplementation.cs",
-              "ToolTip": "C:\\Users\\User\\Contacts\\Downloads\\- \u05E2\u05D5\u05EA\u05E7 - \u05E2\u05D5\u05EA\u05E7\\layered-architecture-demo\\project C#.net\\BL\\Bllmplementation\\ProductImplementation.cs*",
-              "RelativeToolTip": "BL\\Bllmplementation\\ProductImplementation.cs*",
-              "ViewState": "AgIAAA0AAAAAAAAAAADwvxQAAABWAAAAAAAAAA==",
+              "Title": "CartWindow.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\User\\Contacts\\Downloads\\- \u05E2\u05D5\u05EA\u05E7 - \u05E2\u05D5\u05EA\u05E7\\layered-architecture-demo\\project C#.net\\UI\\CartWindow.cs",
+              "RelativeDocumentMoniker": "UI\\CartWindow.cs",
+              "ToolTip": "C:\\Users\\User\\Contacts\\Downloads\\- \u05E2\u05D5\u05EA\u05E7 - \u05E2\u05D5\u05EA\u05E7\\layered-architecture-demo\\project C#.net\\UI\\CartWindow.cs [Design]",
+              "RelativeToolTip": "UI\\CartWindow.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-25T20:42:00.417Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-02T19:51:00.655Z",
+              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
+              "Title": "CartWindow.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Contacts\\Downloads\\- \u05E2\u05D5\u05EA\u05E7 - \u05E2\u05D5\u05EA\u05E7\\layered-architecture-demo\\project C#.net\\UI\\CartWindow.cs",
+              "RelativeDocumentMoniker": "UI\\CartWindow.cs",
+              "ToolTip": "C:\\Users\\User\\Contacts\\Downloads\\- \u05E2\u05D5\u05EA\u05E7 - \u05E2\u05D5\u05EA\u05E7\\layered-architecture-demo\\project C#.net\\UI\\CartWindow.cs",
+              "RelativeToolTip": "UI\\CartWindow.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAmwDAAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-02T20:03:22.533Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "ProductForm.cs [Design]",
               "DocumentMoniker": "C:\\Users\\User\\Contacts\\Downloads\\- \u05E2\u05D5\u05EA\u05E7 - \u05E2\u05D5\u05EA\u05E7\\layered-architecture-demo\\project C#.net\\UI\\ProductForm.cs",
               "RelativeDocumentMoniker": "UI\\ProductForm.cs",
               "ToolTip": "C:\\Users\\User\\Contacts\\Downloads\\- \u05E2\u05D5\u05EA\u05E7 - \u05E2\u05D5\u05EA\u05E7\\layered-architecture-demo\\project C#.net\\UI\\ProductForm.cs [Design]",
               "RelativeToolTip": "UI\\ProductForm.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-29T17:53:05.827Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2026-04-29T17:53:05.827Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Product.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Contacts\\Downloads\\- \u05E2\u05D5\u05EA\u05E7 - \u05E2\u05D5\u05EA\u05E7\\layered-architecture-demo\\project C#.net\\DalFacade\\Do\\Product.cs",
-              "RelativeDocumentMoniker": "DalFacade\\Do\\Product.cs",
-              "ToolTip": "C:\\Users\\User\\Contacts\\Downloads\\- \u05E2\u05D5\u05EA\u05E7 - \u05E2\u05D5\u05EA\u05E7\\layered-architecture-demo\\project C#.net\\DalFacade\\Do\\Product.cs",
-              "RelativeToolTip": "DalFacade\\Do\\Product.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAgwAoAAABGAAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "Enums.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Contacts\\Downloads\\- \u05E2\u05D5\u05EA\u05E7 - \u05E2\u05D5\u05EA\u05E7\\layered-architecture-demo\\project C#.net\\DalFacade\\Do\\Enums.cs",
+              "RelativeDocumentMoniker": "DalFacade\\Do\\Enums.cs",
+              "ToolTip": "C:\\Users\\User\\Contacts\\Downloads\\- \u05E2\u05D5\u05EA\u05E7 - \u05E2\u05D5\u05EA\u05E7\\layered-architecture-demo\\project C#.net\\DalFacade\\Do\\Enums.cs",
+              "RelativeToolTip": "DalFacade\\Do\\Enums.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-24T00:47:45.992Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "ManagerForm.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\User\\Contacts\\Downloads\\- \u05E2\u05D5\u05EA\u05E7 - \u05E2\u05D5\u05EA\u05E7\\layered-architecture-demo\\project C#.net\\UI\\ManagerForm.cs",
-              "RelativeDocumentMoniker": "UI\\ManagerForm.cs",
-              "ToolTip": "C:\\Users\\User\\Contacts\\Downloads\\- \u05E2\u05D5\u05EA\u05E7 - \u05E2\u05D5\u05EA\u05E7\\layered-architecture-demo\\project C#.net\\UI\\ManagerForm.cs [Design]",
-              "RelativeToolTip": "UI\\ManagerForm.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-30T23:37:45.943Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Factory.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Contacts\\Downloads\\- \u05E2\u05D5\u05EA\u05E7 - \u05E2\u05D5\u05EA\u05E7\\layered-architecture-demo\\project C#.net\\BL\\BlApi\\Factory.cs",
-              "RelativeDocumentMoniker": "BL\\BlApi\\Factory.cs",
-              "ToolTip": "C:\\Users\\User\\Contacts\\Downloads\\- \u05E2\u05D5\u05EA\u05E7 - \u05E2\u05D5\u05EA\u05E7\\layered-architecture-demo\\project C#.net\\BL\\BlApi\\Factory.cs",
-              "RelativeToolTip": "BL\\BlApi\\Factory.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-24T00:49:01.509Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-24T00:47:46.031Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "ProductImplementation.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Contacts\\Downloads\\- \u05E2\u05D5\u05EA\u05E7 - \u05E2\u05D5\u05EA\u05E7\\layered-architecture-demo\\project C#.net\\DalXml\\ProductImplementation.cs",
-              "RelativeDocumentMoniker": "DalXml\\ProductImplementation.cs",
-              "ToolTip": "C:\\Users\\User\\Contacts\\Downloads\\- \u05E2\u05D5\u05EA\u05E7 - \u05E2\u05D5\u05EA\u05E7\\layered-architecture-demo\\project C#.net\\DalXml\\ProductImplementation.cs",
-              "RelativeToolTip": "DalXml\\ProductImplementation.cs",
-              "ViewState": "AgIAACQBAAAAAAAAAAAgwCUBAAA8AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-24T00:47:45.933Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "CustemerImplementation.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Contacts\\Downloads\\- \u05E2\u05D5\u05EA\u05E7 - \u05E2\u05D5\u05EA\u05E7\\layered-architecture-demo\\project C#.net\\DalList\\CustemerImplementation.cs",
-              "RelativeDocumentMoniker": "DalList\\CustemerImplementation.cs",
-              "ToolTip": "C:\\Users\\User\\Contacts\\Downloads\\- \u05E2\u05D5\u05EA\u05E7 - \u05E2\u05D5\u05EA\u05E7\\layered-architecture-demo\\project C#.net\\DalList\\CustemerImplementation.cs",
-              "RelativeToolTip": "DalList\\CustemerImplementation.cs",
-              "ViewState": "AgIAAEAAAAAAAAAAAAAuwDUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-24T00:47:45.968Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "BI.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Contacts\\Downloads\\- \u05E2\u05D5\u05EA\u05E7 - \u05E2\u05D5\u05EA\u05E7\\layered-architecture-demo\\project C#.net\\BL\\Bllmplementation\\BI.cs",
-              "RelativeDocumentMoniker": "BL\\Bllmplementation\\BI.cs",
-              "ToolTip": "C:\\Users\\User\\Contacts\\Downloads\\- \u05E2\u05D5\u05EA\u05E7 - \u05E2\u05D5\u05EA\u05E7\\layered-architecture-demo\\project C#.net\\BL\\Bllmplementation\\BI.cs",
-              "RelativeToolTip": "BL\\Bllmplementation\\BI.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-24T00:49:21.766Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "custemers.xml",
-              "DocumentMoniker": "C:\\Users\\User\\Contacts\\Downloads\\- \u05E2\u05D5\u05EA\u05E7 - \u05E2\u05D5\u05EA\u05E7\\layered-architecture-demo\\project C#.net\\xml\\custemers.xml",
-              "RelativeDocumentMoniker": "xml\\custemers.xml",
-              "ToolTip": "C:\\Users\\User\\Contacts\\Downloads\\- \u05E2\u05D5\u05EA\u05E7 - \u05E2\u05D5\u05EA\u05E7\\layered-architecture-demo\\project C#.net\\xml\\custemers.xml",
-              "RelativeToolTip": "xml\\custemers.xml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAQAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
-              "WhenOpened": "2026-04-24T00:47:46.11Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "UI.csproj",
-              "DocumentMoniker": "C:\\Users\\User\\Contacts\\Downloads\\- \u05E2\u05D5\u05EA\u05E7 - \u05E2\u05D5\u05EA\u05E7\\layered-architecture-demo\\project C#.net\\UI\\UI.csproj",
-              "RelativeDocumentMoniker": "UI\\UI.csproj",
-              "ToolTip": "C:\\Users\\User\\Contacts\\Downloads\\- \u05E2\u05D5\u05EA\u05E7 - \u05E2\u05D5\u05EA\u05E7\\layered-architecture-demo\\project C#.net\\UI\\UI.csproj",
-              "RelativeToolTip": "UI\\UI.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-04-30T11:21:11.257Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "CustemerImplementation.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Contacts\\Downloads\\- \u05E2\u05D5\u05EA\u05E7 - \u05E2\u05D5\u05EA\u05E7\\layered-architecture-demo\\project C#.net\\DalXml\\CustemerImplementation.cs",
-              "RelativeDocumentMoniker": "DalXml\\CustemerImplementation.cs",
-              "ToolTip": "C:\\Users\\User\\Contacts\\Downloads\\- \u05E2\u05D5\u05EA\u05E7 - \u05E2\u05D5\u05EA\u05E7\\layered-architecture-demo\\project C#.net\\DalXml\\CustemerImplementation.cs",
-              "RelativeToolTip": "DalXml\\CustemerImplementation.cs",
-              "ViewState": "AgIAAKMAAAAAAAAAAAAAwOUAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-24T00:47:45.908Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "SaleImplementation.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Contacts\\Downloads\\- \u05E2\u05D5\u05EA\u05E7 - \u05E2\u05D5\u05EA\u05E7\\layered-architecture-demo\\project C#.net\\DalXml\\SaleImplementation.cs",
-              "RelativeDocumentMoniker": "DalXml\\SaleImplementation.cs",
-              "ToolTip": "C:\\Users\\User\\Contacts\\Downloads\\- \u05E2\u05D5\u05EA\u05E7 - \u05E2\u05D5\u05EA\u05E7\\layered-architecture-demo\\project C#.net\\DalXml\\SaleImplementation.cs",
-              "RelativeToolTip": "DalXml\\SaleImplementation.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-24T00:47:45.953Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "DalXml.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Contacts\\Downloads\\- \u05E2\u05D5\u05EA\u05E7 - \u05E2\u05D5\u05EA\u05E7\\layered-architecture-demo\\project C#.net\\DalXml\\DalXml.cs",
-              "RelativeDocumentMoniker": "DalXml\\DalXml.cs",
-              "ToolTip": "C:\\Users\\User\\Contacts\\Downloads\\- \u05E2\u05D5\u05EA\u05E7 - \u05E2\u05D5\u05EA\u05E7\\layered-architecture-demo\\project C#.net\\DalXml\\DalXml.cs",
-              "RelativeToolTip": "DalXml\\DalXml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA/AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-24T00:47:45.961Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "Config.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Contacts\\Downloads\\- \u05E2\u05D5\u05EA\u05E7 - \u05E2\u05D5\u05EA\u05E7\\layered-architecture-demo\\project C#.net\\DalFacade\\DalApi\\Config.cs",
-              "RelativeDocumentMoniker": "DalFacade\\DalApi\\Config.cs",
-              "ToolTip": "C:\\Users\\User\\Contacts\\Downloads\\- \u05E2\u05D5\u05EA\u05E7 - \u05E2\u05D5\u05EA\u05E7\\layered-architecture-demo\\project C#.net\\DalFacade\\DalApi\\Config.cs",
-              "RelativeToolTip": "DalFacade\\DalApi\\Config.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-29T15:32:13.23Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "Config.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Contacts\\Downloads\\- \u05E2\u05D5\u05EA\u05E7 - \u05E2\u05D5\u05EA\u05E7\\layered-architecture-demo\\project C#.net\\DalXml\\Config.cs",
-              "RelativeDocumentMoniker": "DalXml\\Config.cs",
-              "ToolTip": "C:\\Users\\User\\Contacts\\Downloads\\- \u05E2\u05D5\u05EA\u05E7 - \u05E2\u05D5\u05EA\u05E7\\layered-architecture-demo\\project C#.net\\DalXml\\Config.cs",
-              "RelativeToolTip": "DalXml\\Config.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-24T00:47:46.001Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "Tools.csproj",
-              "DocumentMoniker": "C:\\Users\\User\\Contacts\\Downloads\\- \u05E2\u05D5\u05EA\u05E7 - \u05E2\u05D5\u05EA\u05E7\\layered-architecture-demo\\project C#.net\\Tools\\Tools.csproj",
-              "RelativeDocumentMoniker": "Tools\\Tools.csproj",
-              "ToolTip": "C:\\Users\\User\\Contacts\\Downloads\\- \u05E2\u05D5\u05EA\u05E7 - \u05E2\u05D5\u05EA\u05E7\\layered-architecture-demo\\project C#.net\\Tools\\Tools.csproj",
-              "RelativeToolTip": "Tools\\Tools.csproj",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAUwB4AAAAKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-04-24T00:47:45.813Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "DalXml.csproj",
-              "DocumentMoniker": "C:\\Users\\User\\Contacts\\Downloads\\- \u05E2\u05D5\u05EA\u05E7 - \u05E2\u05D5\u05EA\u05E7\\layered-architecture-demo\\project C#.net\\DalXml\\DalXml.csproj",
-              "RelativeDocumentMoniker": "DalXml\\DalXml.csproj",
-              "ToolTip": "C:\\Users\\User\\Contacts\\Downloads\\- \u05E2\u05D5\u05EA\u05E7 - \u05E2\u05D5\u05EA\u05E7\\layered-architecture-demo\\project C#.net\\DalXml\\DalXml.csproj",
-              "RelativeToolTip": "DalXml\\DalXml.csproj",
-              "ViewState": "AgIAAE0AAAAAAAAAAAAUwGgAAAAKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-04-24T00:47:45.387Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "DalTest.csproj",
-              "DocumentMoniker": "C:\\Users\\User\\Contacts\\Downloads\\- \u05E2\u05D5\u05EA\u05E7 - \u05E2\u05D5\u05EA\u05E7\\layered-architecture-demo\\project C#.net\\DalTest\\DalTest.csproj",
-              "RelativeDocumentMoniker": "DalTest\\DalTest.csproj",
-              "ToolTip": "C:\\Users\\User\\Contacts\\Downloads\\- \u05E2\u05D5\u05EA\u05E7 - \u05E2\u05D5\u05EA\u05E7\\layered-architecture-demo\\project C#.net\\DalTest\\DalTest.csproj",
-              "RelativeToolTip": "DalTest\\DalTest.csproj",
-              "ViewState": "AgIAABEAAAAAAAAAAAAUwCwAAAAKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-04-24T00:47:45.592Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "DalList.csproj",
-              "DocumentMoniker": "C:\\Users\\User\\Contacts\\Downloads\\- \u05E2\u05D5\u05EA\u05E7 - \u05E2\u05D5\u05EA\u05E7\\layered-architecture-demo\\project C#.net\\DalList\\DalList.csproj",
-              "RelativeDocumentMoniker": "DalList\\DalList.csproj",
-              "ToolTip": "C:\\Users\\User\\Contacts\\Downloads\\- \u05E2\u05D5\u05EA\u05E7 - \u05E2\u05D5\u05EA\u05E7\\layered-architecture-demo\\project C#.net\\DalList\\DalList.csproj",
-              "RelativeToolTip": "DalList\\DalList.csproj",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAUwCoAAAAKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-04-24T00:47:45.571Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "DalFacade.csproj",
-              "DocumentMoniker": "C:\\Users\\User\\Contacts\\Downloads\\- \u05E2\u05D5\u05EA\u05E7 - \u05E2\u05D5\u05EA\u05E7\\layered-architecture-demo\\project C#.net\\DalFacade\\DalFacade.csproj",
-              "RelativeDocumentMoniker": "DalFacade\\DalFacade.csproj",
-              "ToolTip": "C:\\Users\\User\\Contacts\\Downloads\\- \u05E2\u05D5\u05EA\u05E7 - \u05E2\u05D5\u05EA\u05E7\\layered-architecture-demo\\project C#.net\\DalFacade\\DalFacade.csproj",
-              "RelativeToolTip": "DalFacade\\DalFacade.csproj",
-              "ViewState": "AgIAABAAAAAAAAAAAAAUwCsAAAAKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-04-24T00:47:45.867Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "BlTest.csproj",
-              "DocumentMoniker": "C:\\Users\\User\\Contacts\\Downloads\\- \u05E2\u05D5\u05EA\u05E7 - \u05E2\u05D5\u05EA\u05E7\\layered-architecture-demo\\project C#.net\\BlTest\\BlTest.csproj",
-              "RelativeDocumentMoniker": "BlTest\\BlTest.csproj",
-              "ToolTip": "C:\\Users\\User\\Contacts\\Downloads\\- \u05E2\u05D5\u05EA\u05E7 - \u05E2\u05D5\u05EA\u05E7\\layered-architecture-demo\\project C#.net\\BlTest\\BlTest.csproj",
-              "RelativeToolTip": "BlTest\\BlTest.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAUwDIAAAAKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-04-24T00:47:45.828Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "BL.csproj",
-              "DocumentMoniker": "C:\\Users\\User\\Contacts\\Downloads\\- \u05E2\u05D5\u05EA\u05E7 - \u05E2\u05D5\u05EA\u05E7\\layered-architecture-demo\\project C#.net\\BL\\BL.csproj",
-              "RelativeDocumentMoniker": "BL\\BL.csproj",
-              "ToolTip": "C:\\Users\\User\\Contacts\\Downloads\\- \u05E2\u05D5\u05EA\u05E7 - \u05E2\u05D5\u05EA\u05E7\\layered-architecture-demo\\project C#.net\\BL\\BL.csproj",
-              "RelativeToolTip": "BL\\BL.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAUwCwAAAAKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-04-24T00:47:45.85Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "UI",
-              "DocumentMoniker": "C:\\Users\\User\\Contacts\\Downloads\\- \u05E2\u05D5\u05EA\u05E7 - \u05E2\u05D5\u05EA\u05E7\\layered-architecture-demo\\project C#.net\\UI\\UI.csproj",
-              "RelativeDocumentMoniker": "UI\\UI.csproj",
-              "ToolTip": "C:\\Users\\User\\Contacts\\Downloads\\- \u05E2\u05D5\u05EA\u05E7 - \u05E2\u05D5\u05EA\u05E7\\layered-architecture-demo\\project C#.net\\UI\\UI.csproj",
-              "RelativeToolTip": "UI\\UI.csproj",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-04-30T11:38:13.562Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 26,
-              "Title": "Tools",
-              "DocumentMoniker": "C:\\Users\\User\\Contacts\\Downloads\\- \u05E2\u05D5\u05EA\u05E7 - \u05E2\u05D5\u05EA\u05E7\\layered-architecture-demo\\project C#.net\\Tools\\Tools.csproj",
-              "RelativeDocumentMoniker": "Tools\\Tools.csproj",
-              "ToolTip": "C:\\Users\\User\\Contacts\\Downloads\\- \u05E2\u05D5\u05EA\u05E7 - \u05E2\u05D5\u05EA\u05E7\\layered-architecture-demo\\project C#.net\\Tools\\Tools.csproj",
-              "RelativeToolTip": "Tools\\Tools.csproj",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-04-30T11:38:05.999Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 27,
-              "Title": "DalXml",
-              "DocumentMoniker": "C:\\Users\\User\\Contacts\\Downloads\\- \u05E2\u05D5\u05EA\u05E7 - \u05E2\u05D5\u05EA\u05E7\\layered-architecture-demo\\project C#.net\\DalXml\\DalXml.csproj",
-              "RelativeDocumentMoniker": "DalXml\\DalXml.csproj",
-              "ToolTip": "C:\\Users\\User\\Contacts\\Downloads\\- \u05E2\u05D5\u05EA\u05E7 - \u05E2\u05D5\u05EA\u05E7\\layered-architecture-demo\\project C#.net\\DalXml\\DalXml.csproj",
-              "RelativeToolTip": "DalXml\\DalXml.csproj",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-04-30T11:37:58.01Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 28,
-              "Title": "DalTest",
-              "DocumentMoniker": "C:\\Users\\User\\Contacts\\Downloads\\- \u05E2\u05D5\u05EA\u05E7 - \u05E2\u05D5\u05EA\u05E7\\layered-architecture-demo\\project C#.net\\DalTest\\DalTest.csproj",
-              "RelativeDocumentMoniker": "DalTest\\DalTest.csproj",
-              "ToolTip": "C:\\Users\\User\\Contacts\\Downloads\\- \u05E2\u05D5\u05EA\u05E7 - \u05E2\u05D5\u05EA\u05E7\\layered-architecture-demo\\project C#.net\\DalTest\\DalTest.csproj",
-              "RelativeToolTip": "DalTest\\DalTest.csproj",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-04-30T11:37:48.423Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 31,
-              "Title": "BlTest",
-              "DocumentMoniker": "C:\\Users\\User\\Contacts\\Downloads\\- \u05E2\u05D5\u05EA\u05E7 - \u05E2\u05D5\u05EA\u05E7\\layered-architecture-demo\\project C#.net\\BlTest\\BlTest.csproj",
-              "RelativeDocumentMoniker": "BlTest\\BlTest.csproj",
-              "ToolTip": "C:\\Users\\User\\Contacts\\Downloads\\- \u05E2\u05D5\u05EA\u05E7 - \u05E2\u05D5\u05EA\u05E7\\layered-architecture-demo\\project C#.net\\BlTest\\BlTest.csproj",
-              "RelativeToolTip": "BlTest\\BlTest.csproj",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-04-30T11:36:35.131Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 32,
-              "Title": "BL",
-              "DocumentMoniker": "C:\\Users\\User\\Contacts\\Downloads\\- \u05E2\u05D5\u05EA\u05E7 - \u05E2\u05D5\u05EA\u05E7\\layered-architecture-demo\\project C#.net\\BL\\BL.csproj",
-              "RelativeDocumentMoniker": "BL\\BL.csproj",
-              "ToolTip": "C:\\Users\\User\\Contacts\\Downloads\\- \u05E2\u05D5\u05EA\u05E7 - \u05E2\u05D5\u05EA\u05E7\\layered-architecture-demo\\project C#.net\\BL\\BL.csproj",
-              "RelativeToolTip": "BL\\BL.csproj",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-04-30T11:33:47.083Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 30,
-              "Title": "DalFacade",
-              "DocumentMoniker": "C:\\Users\\User\\Contacts\\Downloads\\- \u05E2\u05D5\u05EA\u05E7 - \u05E2\u05D5\u05EA\u05E7\\layered-architecture-demo\\project C#.net\\DalFacade\\DalFacade.csproj",
-              "RelativeDocumentMoniker": "DalFacade\\DalFacade.csproj",
-              "ToolTip": "C:\\Users\\User\\Contacts\\Downloads\\- \u05E2\u05D5\u05EA\u05E7 - \u05E2\u05D5\u05EA\u05E7\\layered-architecture-demo\\project C#.net\\DalFacade\\DalFacade.csproj",
-              "RelativeToolTip": "DalFacade\\DalFacade.csproj",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-04-24T00:47:46.215Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 29,
-              "Title": "DalList",
-              "DocumentMoniker": "C:\\Users\\User\\Contacts\\Downloads\\- \u05E2\u05D5\u05EA\u05E7 - \u05E2\u05D5\u05EA\u05E7\\layered-architecture-demo\\project C#.net\\DalList\\DalList.csproj",
-              "RelativeDocumentMoniker": "DalList\\DalList.csproj",
-              "ToolTip": "C:\\Users\\User\\Contacts\\Downloads\\- \u05E2\u05D5\u05EA\u05E7 - \u05E2\u05D5\u05EA\u05E7\\layered-architecture-demo\\project C#.net\\DalList\\DalList.csproj",
-              "RelativeToolTip": "DalList\\DalList.csproj",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-04-24T00:47:46.229Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 33,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Contacts\\Downloads\\- \u05E2\u05D5\u05EA\u05E7 - \u05E2\u05D5\u05EA\u05E7\\layered-architecture-demo\\project C#.net\\DalTest\\Program.cs",
-              "RelativeDocumentMoniker": "DalTest\\Program.cs",
-              "ToolTip": "C:\\Users\\User\\Contacts\\Downloads\\- \u05E2\u05D5\u05EA\u05E7 - \u05E2\u05D5\u05EA\u05E7\\layered-architecture-demo\\project C#.net\\DalTest\\Program.cs",
-              "RelativeToolTip": "DalTest\\Program.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-24T00:47:45.918Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 34,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Contacts\\Downloads\\- \u05E2\u05D5\u05EA\u05E7 - \u05E2\u05D5\u05EA\u05E7\\layered-architecture-demo\\project C#.net\\BlTest\\Program.cs",
-              "RelativeDocumentMoniker": "BlTest\\Program.cs",
-              "ToolTip": "C:\\Users\\User\\Contacts\\Downloads\\- \u05E2\u05D5\u05EA\u05E7 - \u05E2\u05D5\u05EA\u05E7\\layered-architecture-demo\\project C#.net\\BlTest\\Program.cs",
-              "RelativeToolTip": "BlTest\\Program.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAEwAwAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-25T21:27:42.811Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 35,
-              "Title": "Factory.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Contacts\\Downloads\\- \u05E2\u05D5\u05EA\u05E7 - \u05E2\u05D5\u05EA\u05E7\\layered-architecture-demo\\project C#.net\\DalFacade\\DalApi\\Factory.cs",
-              "RelativeDocumentMoniker": "DalFacade\\DalApi\\Factory.cs",
-              "ToolTip": "C:\\Users\\User\\Contacts\\Downloads\\- \u05E2\u05D5\u05EA\u05E7 - \u05E2\u05D5\u05EA\u05E7\\layered-architecture-demo\\project C#.net\\DalFacade\\DalApi\\Factory.cs",
-              "RelativeToolTip": "DalFacade\\DalApi\\Factory.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-29T18:17:51.19Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 36,
-              "Title": "Custemer.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Contacts\\Downloads\\- \u05E2\u05D5\u05EA\u05E7 - \u05E2\u05D5\u05EA\u05E7\\layered-architecture-demo\\project C#.net\\DalFacade\\Do\\Custemer.cs",
-              "RelativeDocumentMoniker": "DalFacade\\Do\\Custemer.cs",
-              "ToolTip": "C:\\Users\\User\\Contacts\\Downloads\\- \u05E2\u05D5\u05EA\u05E7 - \u05E2\u05D5\u05EA\u05E7\\layered-architecture-demo\\project C#.net\\DalFacade\\Do\\Custemer.cs",
-              "RelativeToolTip": "DalFacade\\Do\\Custemer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAApAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-24T00:47:46.044Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 37,
-              "Title": "ICustomer.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Contacts\\Downloads\\- \u05E2\u05D5\u05EA\u05E7 - \u05E2\u05D5\u05EA\u05E7\\layered-architecture-demo\\project C#.net\\DalFacade\\DalApi\\ICustomer.cs",
-              "RelativeDocumentMoniker": "DalFacade\\DalApi\\ICustomer.cs",
-              "ToolTip": "C:\\Users\\User\\Contacts\\Downloads\\- \u05E2\u05D5\u05EA\u05E7 - \u05E2\u05D5\u05EA\u05E7\\layered-architecture-demo\\project C#.net\\DalFacade\\DalApi\\ICustomer.cs",
-              "RelativeToolTip": "DalFacade\\DalApi\\ICustomer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-24T00:47:45.611Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 38,
-              "Title": "CustemerImplementation.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Contacts\\Downloads\\- \u05E2\u05D5\u05EA\u05E7 - \u05E2\u05D5\u05EA\u05E7\\layered-architecture-demo\\project C#.net\\BL\\Bllmplementation\\CustemerImplementation.cs",
-              "RelativeDocumentMoniker": "BL\\Bllmplementation\\CustemerImplementation.cs",
-              "ToolTip": "C:\\Users\\User\\Contacts\\Downloads\\- \u05E2\u05D5\u05EA\u05E7 - \u05E2\u05D5\u05EA\u05E7\\layered-architecture-demo\\project C#.net\\BL\\Bllmplementation\\CustemerImplementation.cs",
-              "RelativeToolTip": "BL\\Bllmplementation\\CustemerImplementation.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-25T20:37:04.682Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 39,
-              "Title": "Initialization.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Contacts\\Downloads\\- \u05E2\u05D5\u05EA\u05E7 - \u05E2\u05D5\u05EA\u05E7\\layered-architecture-demo\\project C#.net\\DalTest\\Initialization.cs",
-              "RelativeDocumentMoniker": "DalTest\\Initialization.cs",
-              "ToolTip": "C:\\Users\\User\\Contacts\\Downloads\\- \u05E2\u05D5\u05EA\u05E7 - \u05E2\u05D5\u05EA\u05E7\\layered-architecture-demo\\project C#.net\\DalTest\\Initialization.cs",
-              "RelativeToolTip": "DalTest\\Initialization.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAEwBAAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-25T22:47:50.115Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 40,
-              "Title": "OrderImplementation.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Contacts\\Downloads\\- \u05E2\u05D5\u05EA\u05E7 - \u05E2\u05D5\u05EA\u05E7\\layered-architecture-demo\\project C#.net\\BL\\Bllmplementation\\OrderImplementation.cs",
-              "RelativeDocumentMoniker": "BL\\Bllmplementation\\OrderImplementation.cs",
-              "ToolTip": "C:\\Users\\User\\Contacts\\Downloads\\- \u05E2\u05D5\u05EA\u05E7 - \u05E2\u05D5\u05EA\u05E7\\layered-architecture-demo\\project C#.net\\BL\\Bllmplementation\\OrderImplementation.cs",
-              "RelativeToolTip": "BL\\Bllmplementation\\OrderImplementation.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAAJ8AAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-24T00:49:12.511Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 41,
-              "Title": "Sale.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Contacts\\Downloads\\- \u05E2\u05D5\u05EA\u05E7 - \u05E2\u05D5\u05EA\u05E7\\layered-architecture-demo\\project C#.net\\DalFacade\\Do\\Sale.cs",
-              "RelativeDocumentMoniker": "DalFacade\\Do\\Sale.cs",
-              "ToolTip": "C:\\Users\\User\\Contacts\\Downloads\\- \u05E2\u05D5\u05EA\u05E7 - \u05E2\u05D5\u05EA\u05E7\\layered-architecture-demo\\project C#.net\\DalFacade\\Do\\Sale.cs",
-              "RelativeToolTip": "DalFacade\\Do\\Sale.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAALAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-24T00:47:45.982Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 51,
-              "Title": "sales.xml",
-              "DocumentMoniker": "C:\\Users\\User\\Contacts\\Downloads\\- \u05E2\u05D5\u05EA\u05E7 - \u05E2\u05D5\u05EA\u05E7\\layered-architecture-demo\\project C#.net\\xml\\sales.xml",
-              "RelativeDocumentMoniker": "xml\\sales.xml",
-              "ToolTip": "C:\\Users\\User\\Contacts\\Downloads\\- \u05E2\u05D5\u05EA\u05E7 - \u05E2\u05D5\u05EA\u05E7\\layered-architecture-demo\\project C#.net\\xml\\sales.xml",
-              "RelativeToolTip": "xml\\sales.xml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
-              "WhenOpened": "2026-04-24T00:47:46.097Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 46,
-              "Title": "Sale .cs",
-              "DocumentMoniker": "C:\\Users\\User\\Contacts\\Downloads\\- \u05E2\u05D5\u05EA\u05E7 - \u05E2\u05D5\u05EA\u05E7\\layered-architecture-demo\\project C#.net\\BL\\BO\\Sale .cs",
-              "RelativeDocumentMoniker": "BL\\BO\\Sale .cs",
-              "ToolTip": "C:\\Users\\User\\Contacts\\Downloads\\- \u05E2\u05D5\u05EA\u05E7 - \u05E2\u05D5\u05EA\u05E7\\layered-architecture-demo\\project C#.net\\BL\\BO\\Sale .cs",
-              "RelativeToolTip": "BL\\BO\\Sale .cs",
-              "ViewState": "AgIAACMAAAAAAAAAAAAAAAcAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-25T20:42:45.389Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 45,
-              "Title": "ISale.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Contacts\\Downloads\\- \u05E2\u05D5\u05EA\u05E7 - \u05E2\u05D5\u05EA\u05E7\\layered-architecture-demo\\project C#.net\\DalFacade\\DalApi\\ISale.cs",
-              "RelativeDocumentMoniker": "DalFacade\\DalApi\\ISale.cs",
-              "ToolTip": "C:\\Users\\User\\Contacts\\Downloads\\- \u05E2\u05D5\u05EA\u05E7 - \u05E2\u05D5\u05EA\u05E7\\layered-architecture-demo\\project C#.net\\DalFacade\\DalApi\\ISale.cs",
-              "RelativeToolTip": "DalFacade\\DalApi\\ISale.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-24T00:47:45.898Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 44,
-              "Title": "ICrud.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Contacts\\Downloads\\- \u05E2\u05D5\u05EA\u05E7 - \u05E2\u05D5\u05EA\u05E7\\layered-architecture-demo\\project C#.net\\DalFacade\\DalApi\\ICrud.cs",
-              "RelativeDocumentMoniker": "DalFacade\\DalApi\\ICrud.cs",
-              "ToolTip": "C:\\Users\\User\\Contacts\\Downloads\\- \u05E2\u05D5\u05EA\u05E7 - \u05E2\u05D5\u05EA\u05E7\\layered-architecture-demo\\project C#.net\\DalFacade\\DalApi\\ICrud.cs",
-              "RelativeToolTip": "DalFacade\\DalApi\\ICrud.cs",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAIwA8AAAAcAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-24T00:47:45.944Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 43,
-              "Title": "Order.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Contacts\\Downloads\\- \u05E2\u05D5\u05EA\u05E7 - \u05E2\u05D5\u05EA\u05E7\\layered-architecture-demo\\project C#.net\\BL\\BO\\Order.cs",
-              "RelativeDocumentMoniker": "BL\\BO\\Order.cs",
-              "ToolTip": "C:\\Users\\User\\Contacts\\Downloads\\- \u05E2\u05D5\u05EA\u05E7 - \u05E2\u05D5\u05EA\u05E7\\layered-architecture-demo\\project C#.net\\BL\\BO\\Order.cs",
-              "RelativeToolTip": "BL\\BO\\Order.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABMAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-25T18:59:50.27Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 42,
-              "Title": "SaleImplementation.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Contacts\\Downloads\\- \u05E2\u05D5\u05EA\u05E7 - \u05E2\u05D5\u05EA\u05E7\\layered-architecture-demo\\project C#.net\\DalList\\SaleImplementation.cs",
-              "RelativeDocumentMoniker": "DalList\\SaleImplementation.cs",
-              "ToolTip": "C:\\Users\\User\\Contacts\\Downloads\\- \u05E2\u05D5\u05EA\u05E7 - \u05E2\u05D5\u05EA\u05E7\\layered-architecture-demo\\project C#.net\\DalList\\SaleImplementation.cs",
-              "RelativeToolTip": "DalList\\SaleImplementation.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADIAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-24T00:47:46.059Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 47,
-              "Title": "Customer.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Contacts\\Downloads\\- \u05E2\u05D5\u05EA\u05E7 - \u05E2\u05D5\u05EA\u05E7\\layered-architecture-demo\\project C#.net\\BL\\BO\\Customer.cs",
-              "RelativeDocumentMoniker": "BL\\BO\\Customer.cs",
-              "ToolTip": "C:\\Users\\User\\Contacts\\Downloads\\- \u05E2\u05D5\u05EA\u05E7 - \u05E2\u05D5\u05EA\u05E7\\layered-architecture-demo\\project C#.net\\BL\\BO\\Customer.cs",
-              "RelativeToolTip": "BL\\BO\\Customer.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAAwCEAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-29T15:52:25.794Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 49,
-              "Title": "data-config.xml",
-              "DocumentMoniker": "C:\\Users\\User\\Contacts\\Downloads\\- \u05E2\u05D5\u05EA\u05E7 - \u05E2\u05D5\u05EA\u05E7\\layered-architecture-demo\\project C#.net\\xml\\data-config.xml",
-              "RelativeDocumentMoniker": "xml\\data-config.xml",
-              "ToolTip": "C:\\Users\\User\\Contacts\\Downloads\\- \u05E2\u05D5\u05EA\u05E7 - \u05E2\u05D5\u05EA\u05E7\\layered-architecture-demo\\project C#.net\\xml\\data-config.xml",
-              "RelativeToolTip": "xml\\data-config.xml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
-              "WhenOpened": "2026-04-24T00:47:46.071Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 50,
-              "Title": "products.xml",
-              "DocumentMoniker": "C:\\Users\\User\\Contacts\\Downloads\\- \u05E2\u05D5\u05EA\u05E7 - \u05E2\u05D5\u05EA\u05E7\\layered-architecture-demo\\project C#.net\\xml\\products.xml",
-              "RelativeDocumentMoniker": "xml\\products.xml",
-              "ToolTip": "C:\\Users\\User\\Contacts\\Downloads\\- \u05E2\u05D5\u05EA\u05E7 - \u05E2\u05D5\u05EA\u05E7\\layered-architecture-demo\\project C#.net\\xml\\products.xml",
-              "RelativeToolTip": "xml\\products.xml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
-              "WhenOpened": "2026-04-24T00:47:46.084Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 48,
-              "Title": "dal-config.xml",
-              "DocumentMoniker": "C:\\Users\\User\\Contacts\\Downloads\\- \u05E2\u05D5\u05EA\u05E7 - \u05E2\u05D5\u05EA\u05E7\\layered-architecture-demo\\project C#.net\\xml\\dal-config.xml",
-              "RelativeDocumentMoniker": "xml\\dal-config.xml",
-              "ToolTip": "C:\\Users\\User\\Contacts\\Downloads\\- \u05E2\u05D5\u05EA\u05E7 - \u05E2\u05D5\u05EA\u05E7\\layered-architecture-demo\\project C#.net\\xml\\dal-config.xml",
-              "RelativeToolTip": "xml\\dal-config.xml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
-              "WhenOpened": "2026-04-24T00:47:45.926Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 52,
               "Title": "DataSource.cs",
               "DocumentMoniker": "C:\\Users\\User\\Contacts\\Downloads\\- \u05E2\u05D5\u05EA\u05E7 - \u05E2\u05D5\u05EA\u05E7\\layered-architecture-demo\\project C#.net\\DalList\\DataSource.cs",
               "RelativeDocumentMoniker": "DalList\\DataSource.cs",
@@ -931,79 +422,186 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 53,
-              "Title": "DalList.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Contacts\\Downloads\\- \u05E2\u05D5\u05EA\u05E7 - \u05E2\u05D5\u05EA\u05E7\\layered-architecture-demo\\project C#.net\\DalList\\DalList.cs",
-              "RelativeDocumentMoniker": "DalList\\DalList.cs",
-              "ToolTip": "C:\\Users\\User\\Contacts\\Downloads\\- \u05E2\u05D5\u05EA\u05E7 - \u05E2\u05D5\u05EA\u05E7\\layered-architecture-demo\\project C#.net\\DalList\\DalList.cs",
-              "RelativeToolTip": "DalList\\DalList.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABDAAAAAAAAAA==",
+              "DocumentIndex": 7,
+              "Title": "ProductImplementation.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Contacts\\Downloads\\- \u05E2\u05D5\u05EA\u05E7 - \u05E2\u05D5\u05EA\u05E7\\layered-architecture-demo\\project C#.net\\DalXml\\ProductImplementation.cs",
+              "RelativeDocumentMoniker": "DalXml\\ProductImplementation.cs",
+              "ToolTip": "C:\\Users\\User\\Contacts\\Downloads\\- \u05E2\u05D5\u05EA\u05E7 - \u05E2\u05D5\u05EA\u05E7\\layered-architecture-demo\\project C#.net\\DalXml\\ProductImplementation.cs",
+              "RelativeToolTip": "DalXml\\ProductImplementation.cs",
+              "ViewState": "AgIAACQBAAAAAAAAAAAgwCUBAAA8AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-24T00:47:45.975Z"
+              "WhenOpened": "2026-04-24T00:47:45.933Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 54,
-              "Title": "Class1.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Contacts\\Downloads\\- \u05E2\u05D5\u05EA\u05E7 - \u05E2\u05D5\u05EA\u05E7\\layered-architecture-demo\\project C#.net\\DalXml\\Class1.cs",
-              "RelativeDocumentMoniker": "DalXml\\Class1.cs",
-              "ToolTip": "C:\\Users\\User\\Contacts\\Downloads\\- \u05E2\u05D5\u05EA\u05E7 - \u05E2\u05D5\u05EA\u05E7\\layered-architecture-demo\\project C#.net\\DalXml\\Class1.cs",
-              "RelativeToolTip": "DalXml\\Class1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-24T00:47:46.15Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 55,
-              "Title": "Exceptions.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Contacts\\Downloads\\- \u05E2\u05D5\u05EA\u05E7 - \u05E2\u05D5\u05EA\u05E7\\layered-architecture-demo\\project C#.net\\BL\\BO\\Exceptions.cs",
-              "RelativeDocumentMoniker": "BL\\BO\\Exceptions.cs",
-              "ToolTip": "C:\\Users\\User\\Contacts\\Downloads\\- \u05E2\u05D5\u05EA\u05E7 - \u05E2\u05D5\u05EA\u05E7\\layered-architecture-demo\\project C#.net\\BL\\BO\\Exceptions.cs",
-              "RelativeToolTip": "BL\\BO\\Exceptions.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-25T20:56:23.151Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 56,
-              "Title": "Exceptions.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Contacts\\Downloads\\- \u05E2\u05D5\u05EA\u05E7 - \u05E2\u05D5\u05EA\u05E7\\layered-architecture-demo\\project C#.net\\DalFacade\\Do\\Exceptions.cs",
-              "RelativeDocumentMoniker": "DalFacade\\Do\\Exceptions.cs",
-              "ToolTip": "C:\\Users\\User\\Contacts\\Downloads\\- \u05E2\u05D5\u05EA\u05E7 - \u05E2\u05D5\u05EA\u05E7\\layered-architecture-demo\\project C#.net\\DalFacade\\Do\\Exceptions.cs",
-              "RelativeToolTip": "DalFacade\\Do\\Exceptions.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-24T00:47:46.124Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 57,
-              "Title": "SaleImplementation.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Contacts\\Downloads\\- \u05E2\u05D5\u05EA\u05E7 - \u05E2\u05D5\u05EA\u05E7\\layered-architecture-demo\\project C#.net\\BL\\Bllmplementation\\SaleImplementation.cs",
-              "RelativeDocumentMoniker": "BL\\Bllmplementation\\SaleImplementation.cs",
-              "ToolTip": "C:\\Users\\User\\Contacts\\Downloads\\- \u05E2\u05D5\u05EA\u05E7 - \u05E2\u05D5\u05EA\u05E7\\layered-architecture-demo\\project C#.net\\BL\\Bllmplementation\\SaleImplementation.cs",
-              "RelativeToolTip": "BL\\Bllmplementation\\SaleImplementation.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAI0AAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-24T00:49:14.616Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 58,
+              "DocumentIndex": 8,
               "Title": "IOrder.cs",
               "DocumentMoniker": "C:\\Users\\User\\Contacts\\Downloads\\- \u05E2\u05D5\u05EA\u05E7 - \u05E2\u05D5\u05EA\u05E7\\layered-architecture-demo\\project C#.net\\BL\\BlApi\\IOrder.cs",
               "RelativeDocumentMoniker": "BL\\BlApi\\IOrder.cs",
               "ToolTip": "C:\\Users\\User\\Contacts\\Downloads\\- \u05E2\u05D5\u05EA\u05E7 - \u05E2\u05D5\u05EA\u05E7\\layered-architecture-demo\\project C#.net\\BL\\BlApi\\IOrder.cs",
               "RelativeToolTip": "BL\\BlApi\\IOrder.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-24T00:47:45.891Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 59,
+              "DocumentIndex": 9,
+              "Title": "OrderImplementation.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Contacts\\Downloads\\- \u05E2\u05D5\u05EA\u05E7 - \u05E2\u05D5\u05EA\u05E7\\layered-architecture-demo\\project C#.net\\BL\\Bllmplementation\\OrderImplementation.cs",
+              "RelativeDocumentMoniker": "BL\\Bllmplementation\\OrderImplementation.cs",
+              "ToolTip": "C:\\Users\\User\\Contacts\\Downloads\\- \u05E2\u05D5\u05EA\u05E7 - \u05E2\u05D5\u05EA\u05E7\\layered-architecture-demo\\project C#.net\\BL\\Bllmplementation\\OrderImplementation.cs",
+              "RelativeToolTip": "BL\\Bllmplementation\\OrderImplementation.cs",
+              "ViewState": "AgIAAI4AAAAAAAAAAAAIwKIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-24T00:49:12.511Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ProductInOrder.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Contacts\\Downloads\\- \u05E2\u05D5\u05EA\u05E7 - \u05E2\u05D5\u05EA\u05E7\\layered-architecture-demo\\project C#.net\\BL\\BO\\ProductInOrder.cs",
+              "RelativeDocumentMoniker": "BL\\BO\\ProductInOrder.cs",
+              "ToolTip": "C:\\Users\\User\\Contacts\\Downloads\\- \u05E2\u05D5\u05EA\u05E7 - \u05E2\u05D5\u05EA\u05E7\\layered-architecture-demo\\project C#.net\\BL\\BO\\ProductInOrder.cs",
+              "RelativeToolTip": "BL\\BO\\ProductInOrder.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAA5wBAAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-25T19:20:33.772Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Contacts\\Downloads\\- \u05E2\u05D5\u05EA\u05E7 - \u05E2\u05D5\u05EA\u05E7\\layered-architecture-demo\\project C#.net\\BL\\BO\\Order.cs",
+              "RelativeDocumentMoniker": "BL\\BO\\Order.cs",
+              "ToolTip": "C:\\Users\\User\\Contacts\\Downloads\\- \u05E2\u05D5\u05EA\u05E7 - \u05E2\u05D5\u05EA\u05E7\\layered-architecture-demo\\project C#.net\\BL\\BO\\Order.cs",
+              "RelativeToolTip": "BL\\BO\\Order.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABQAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-25T18:59:50.27Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\User\\Contacts\\Downloads\\- \u05E2\u05D5\u05EA\u05E7 - \u05E2\u05D5\u05EA\u05E7\\layered-architecture-demo\\project C#.net\\UI\\Form1.cs",
+              "RelativeDocumentMoniker": "UI\\Form1.cs",
+              "ToolTip": "C:\\Users\\User\\Contacts\\Downloads\\- \u05E2\u05D5\u05EA\u05E7 - \u05E2\u05D5\u05EA\u05E7\\layered-architecture-demo\\project C#.net\\UI\\Form1.cs [Design]",
+              "RelativeToolTip": "UI\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-02T17:42:20.865Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Contacts\\Downloads\\- \u05E2\u05D5\u05EA\u05E7 - \u05E2\u05D5\u05EA\u05E7\\layered-architecture-demo\\project C#.net\\UI\\Form1.cs",
+              "RelativeDocumentMoniker": "UI\\Form1.cs",
+              "ToolTip": "C:\\Users\\User\\Contacts\\Downloads\\- \u05E2\u05D5\u05EA\u05E7 - \u05E2\u05D5\u05EA\u05E7\\layered-architecture-demo\\project C#.net\\UI\\Form1.cs",
+              "RelativeToolTip": "UI\\Form1.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAcwB0AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-02T17:42:37.072Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "SaleImplementation.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Contacts\\Downloads\\- \u05E2\u05D5\u05EA\u05E7 - \u05E2\u05D5\u05EA\u05E7\\layered-architecture-demo\\project C#.net\\DalXml\\SaleImplementation.cs",
+              "RelativeDocumentMoniker": "DalXml\\SaleImplementation.cs",
+              "ToolTip": "C:\\Users\\User\\Contacts\\Downloads\\- \u05E2\u05D5\u05EA\u05E7 - \u05E2\u05D5\u05EA\u05E7\\layered-architecture-demo\\project C#.net\\DalXml\\SaleImplementation.cs",
+              "RelativeToolTip": "DalXml\\SaleImplementation.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAwwJEAAAB/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-24T00:47:45.953Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "SaleImplementation.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Contacts\\Downloads\\- \u05E2\u05D5\u05EA\u05E7 - \u05E2\u05D5\u05EA\u05E7\\layered-architecture-demo\\project C#.net\\DalList\\SaleImplementation.cs",
+              "RelativeDocumentMoniker": "DalList\\SaleImplementation.cs",
+              "ToolTip": "C:\\Users\\User\\Contacts\\Downloads\\- \u05E2\u05D5\u05EA\u05E7 - \u05E2\u05D5\u05EA\u05E7\\layered-architecture-demo\\project C#.net\\DalList\\SaleImplementation.cs",
+              "RelativeToolTip": "DalList\\SaleImplementation.cs",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAIwFIAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-24T00:47:46.059Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "SaleImplementation.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Contacts\\Downloads\\- \u05E2\u05D5\u05EA\u05E7 - \u05E2\u05D5\u05EA\u05E7\\layered-architecture-demo\\project C#.net\\BL\\Bllmplementation\\SaleImplementation.cs",
+              "RelativeDocumentMoniker": "BL\\Bllmplementation\\SaleImplementation.cs",
+              "ToolTip": "C:\\Users\\User\\Contacts\\Downloads\\- \u05E2\u05D5\u05EA\u05E7 - \u05E2\u05D5\u05EA\u05E7\\layered-architecture-demo\\project C#.net\\BL\\Bllmplementation\\SaleImplementation.cs",
+              "RelativeToolTip": "BL\\Bllmplementation\\SaleImplementation.cs",
+              "ViewState": "AgIAAGQAAAAAAAAAAAAkwFQAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-24T00:49:14.616Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Sale .cs",
+              "DocumentMoniker": "C:\\Users\\User\\Contacts\\Downloads\\- \u05E2\u05D5\u05EA\u05E7 - \u05E2\u05D5\u05EA\u05E7\\layered-architecture-demo\\project C#.net\\BL\\BO\\Sale .cs",
+              "RelativeDocumentMoniker": "BL\\BO\\Sale .cs",
+              "ToolTip": "C:\\Users\\User\\Contacts\\Downloads\\- \u05E2\u05D5\u05EA\u05E7 - \u05E2\u05D5\u05EA\u05E7\\layered-architecture-demo\\project C#.net\\BL\\BO\\Sale .cs",
+              "RelativeToolTip": "BL\\BO\\Sale .cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAA9wA0AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-25T20:42:45.389Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ISale .cs",
+              "DocumentMoniker": "C:\\Users\\User\\Contacts\\Downloads\\- \u05E2\u05D5\u05EA\u05E7 - \u05E2\u05D5\u05EA\u05E7\\layered-architecture-demo\\project C#.net\\BL\\BlApi\\ISale .cs",
+              "RelativeDocumentMoniker": "BL\\BlApi\\ISale .cs",
+              "ToolTip": "C:\\Users\\User\\Contacts\\Downloads\\- \u05E2\u05D5\u05EA\u05E7 - \u05E2\u05D5\u05EA\u05E7\\layered-architecture-demo\\project C#.net\\BL\\BlApi\\ISale .cs",
+              "RelativeToolTip": "BL\\BlApi\\ISale .cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAwwAkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-24T00:47:45.883Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "SaleForm.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Contacts\\Downloads\\- \u05E2\u05D5\u05EA\u05E7 - \u05E2\u05D5\u05EA\u05E7\\layered-architecture-demo\\project C#.net\\UI\\SaleForm.cs",
+              "RelativeDocumentMoniker": "UI\\SaleForm.cs",
+              "ToolTip": "C:\\Users\\User\\Contacts\\Downloads\\- \u05E2\u05D5\u05EA\u05E7 - \u05E2\u05D5\u05EA\u05E7\\layered-architecture-demo\\project C#.net\\UI\\SaleForm.cs",
+              "RelativeToolTip": "UI\\SaleForm.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAA6wCsAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-02T17:42:03.927Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "SaleForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\User\\Contacts\\Downloads\\- \u05E2\u05D5\u05EA\u05E7 - \u05E2\u05D5\u05EA\u05E7\\layered-architecture-demo\\project C#.net\\UI\\SaleForm.cs",
+              "RelativeDocumentMoniker": "UI\\SaleForm.cs",
+              "ToolTip": "C:\\Users\\User\\Contacts\\Downloads\\- \u05E2\u05D5\u05EA\u05E7 - \u05E2\u05D5\u05EA\u05E7\\layered-architecture-demo\\project C#.net\\UI\\SaleForm.cs [Design]",
+              "RelativeToolTip": "UI\\SaleForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-02T19:33:03.209Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "SaleForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Contacts\\Downloads\\- \u05E2\u05D5\u05EA\u05E7 - \u05E2\u05D5\u05EA\u05E7\\layered-architecture-demo\\project C#.net\\UI\\SaleForm.Designer.cs",
+              "RelativeDocumentMoniker": "UI\\SaleForm.Designer.cs",
+              "ToolTip": "C:\\Users\\User\\Contacts\\Downloads\\- \u05E2\u05D5\u05EA\u05E7 - \u05E2\u05D5\u05EA\u05E7\\layered-architecture-demo\\project C#.net\\UI\\SaleForm.Designer.cs",
+              "RelativeToolTip": "UI\\SaleForm.Designer.cs",
+              "ViewState": "AgIAAJ0AAAAAAAAAAAAEwKAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-02T17:59:00.412Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
               "Title": "SaleInProduct.cs",
               "DocumentMoniker": "C:\\Users\\User\\Contacts\\Downloads\\- \u05E2\u05D5\u05EA\u05E7 - \u05E2\u05D5\u05EA\u05E7\\layered-architecture-demo\\project C#.net\\BL\\BO\\SaleInProduct.cs",
               "RelativeDocumentMoniker": "BL\\BO\\SaleInProduct.cs",
@@ -1015,7 +613,609 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ManagerForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\User\\Contacts\\Downloads\\- \u05E2\u05D5\u05EA\u05E7 - \u05E2\u05D5\u05EA\u05E7\\layered-architecture-demo\\project C#.net\\UI\\ManagerForm.cs",
+              "RelativeDocumentMoniker": "UI\\ManagerForm.cs",
+              "ToolTip": "C:\\Users\\User\\Contacts\\Downloads\\- \u05E2\u05D5\u05EA\u05E7 - \u05E2\u05D5\u05EA\u05E7\\layered-architecture-demo\\project C#.net\\UI\\ManagerForm.cs [Design]",
+              "RelativeToolTip": "UI\\ManagerForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-30T23:37:45.943Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "CustomerForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\User\\Contacts\\Downloads\\- \u05E2\u05D5\u05EA\u05E7 - \u05E2\u05D5\u05EA\u05E7\\layered-architecture-demo\\project C#.net\\UI\\CustomerForm.cs",
+              "RelativeDocumentMoniker": "UI\\CustomerForm.cs",
+              "ToolTip": "C:\\Users\\User\\Contacts\\Downloads\\- \u05E2\u05D5\u05EA\u05E7 - \u05E2\u05D5\u05EA\u05E7\\layered-architecture-demo\\project C#.net\\UI\\CustomerForm.cs [Design]",
+              "RelativeToolTip": "UI\\CustomerForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-02T17:45:40.301Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Contacts\\Downloads\\- \u05E2\u05D5\u05EA\u05E7 - \u05E2\u05D5\u05EA\u05E7\\layered-architecture-demo\\project C#.net\\UI\\Program.cs",
+              "RelativeDocumentMoniker": "UI\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\Contacts\\Downloads\\- \u05E2\u05D5\u05EA\u05E7 - \u05E2\u05D5\u05EA\u05E7\\layered-architecture-demo\\project C#.net\\UI\\Program.cs",
+              "RelativeToolTip": "UI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-02T18:16:51.831Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ManagerForm.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Contacts\\Downloads\\- \u05E2\u05D5\u05EA\u05E7 - \u05E2\u05D5\u05EA\u05E7\\layered-architecture-demo\\project C#.net\\UI\\ManagerForm.cs",
+              "RelativeDocumentMoniker": "UI\\ManagerForm.cs",
+              "ToolTip": "C:\\Users\\User\\Contacts\\Downloads\\- \u05E2\u05D5\u05EA\u05E7 - \u05E2\u05D5\u05EA\u05E7\\layered-architecture-demo\\project C#.net\\UI\\ManagerForm.cs",
+              "RelativeToolTip": "UI\\ManagerForm.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAA4wC0AAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-02T17:43:10.142Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Product .cs",
+              "DocumentMoniker": "C:\\Users\\User\\Contacts\\Downloads\\- \u05E2\u05D5\u05EA\u05E7 - \u05E2\u05D5\u05EA\u05E7\\layered-architecture-demo\\project C#.net\\BL\\BO\\Product .cs",
+              "RelativeDocumentMoniker": "BL\\BO\\Product .cs",
+              "ToolTip": "C:\\Users\\User\\Contacts\\Downloads\\- \u05E2\u05D5\u05EA\u05E7 - \u05E2\u05D5\u05EA\u05E7\\layered-architecture-demo\\project C#.net\\BL\\BO\\Product .cs",
+              "RelativeToolTip": "BL\\BO\\Product .cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAA1wC8AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-25T20:40:43.825Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "ProductImplementation.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Contacts\\Downloads\\- \u05E2\u05D5\u05EA\u05E7 - \u05E2\u05D5\u05EA\u05E7\\layered-architecture-demo\\project C#.net\\DalList\\ProductImplementation.cs",
+              "RelativeDocumentMoniker": "DalList\\ProductImplementation.cs",
+              "ToolTip": "C:\\Users\\User\\Contacts\\Downloads\\- \u05E2\u05D5\u05EA\u05E7 - \u05E2\u05D5\u05EA\u05E7\\layered-architecture-demo\\project C#.net\\DalList\\ProductImplementation.cs",
+              "RelativeToolTip": "DalList\\ProductImplementation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-24T00:47:46.016Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "ProductImplementation.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Contacts\\Downloads\\- \u05E2\u05D5\u05EA\u05E7 - \u05E2\u05D5\u05EA\u05E7\\layered-architecture-demo\\project C#.net\\BL\\Bllmplementation\\ProductImplementation.cs",
+              "RelativeDocumentMoniker": "BL\\Bllmplementation\\ProductImplementation.cs",
+              "ToolTip": "C:\\Users\\User\\Contacts\\Downloads\\- \u05E2\u05D5\u05EA\u05E7 - \u05E2\u05D5\u05EA\u05E7\\layered-architecture-demo\\project C#.net\\BL\\Bllmplementation\\ProductImplementation.cs",
+              "RelativeToolTip": "BL\\Bllmplementation\\ProductImplementation.cs",
+              "ViewState": "AgIAAHMAAAAAAAAAAAA8wBQAAABWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-25T20:42:00.417Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Contacts\\Downloads\\- \u05E2\u05D5\u05EA\u05E7 - \u05E2\u05D5\u05EA\u05E7\\layered-architecture-demo\\project C#.net\\DalFacade\\Do\\Product.cs",
+              "RelativeDocumentMoniker": "DalFacade\\Do\\Product.cs",
+              "ToolTip": "C:\\Users\\User\\Contacts\\Downloads\\- \u05E2\u05D5\u05EA\u05E7 - \u05E2\u05D5\u05EA\u05E7\\layered-architecture-demo\\project C#.net\\DalFacade\\Do\\Product.cs",
+              "RelativeToolTip": "DalFacade\\Do\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAgwAoAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-24T00:47:45.992Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Factory.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Contacts\\Downloads\\- \u05E2\u05D5\u05EA\u05E7 - \u05E2\u05D5\u05EA\u05E7\\layered-architecture-demo\\project C#.net\\BL\\BlApi\\Factory.cs",
+              "RelativeDocumentMoniker": "BL\\BlApi\\Factory.cs",
+              "ToolTip": "C:\\Users\\User\\Contacts\\Downloads\\- \u05E2\u05D5\u05EA\u05E7 - \u05E2\u05D5\u05EA\u05E7\\layered-architecture-demo\\project C#.net\\BL\\BlApi\\Factory.cs",
+              "RelativeToolTip": "BL\\BlApi\\Factory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-24T00:49:01.509Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "CustemerImplementation.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Contacts\\Downloads\\- \u05E2\u05D5\u05EA\u05E7 - \u05E2\u05D5\u05EA\u05E7\\layered-architecture-demo\\project C#.net\\DalList\\CustemerImplementation.cs",
+              "RelativeDocumentMoniker": "DalList\\CustemerImplementation.cs",
+              "ToolTip": "C:\\Users\\User\\Contacts\\Downloads\\- \u05E2\u05D5\u05EA\u05E7 - \u05E2\u05D5\u05EA\u05E7\\layered-architecture-demo\\project C#.net\\DalList\\CustemerImplementation.cs",
+              "RelativeToolTip": "DalList\\CustemerImplementation.cs",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAuwDUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-24T00:47:45.968Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "BI.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Contacts\\Downloads\\- \u05E2\u05D5\u05EA\u05E7 - \u05E2\u05D5\u05EA\u05E7\\layered-architecture-demo\\project C#.net\\BL\\Bllmplementation\\BI.cs",
+              "RelativeDocumentMoniker": "BL\\Bllmplementation\\BI.cs",
+              "ToolTip": "C:\\Users\\User\\Contacts\\Downloads\\- \u05E2\u05D5\u05EA\u05E7 - \u05E2\u05D5\u05EA\u05E7\\layered-architecture-demo\\project C#.net\\BL\\Bllmplementation\\BI.cs",
+              "RelativeToolTip": "BL\\Bllmplementation\\BI.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-24T00:49:21.766Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "custemers.xml",
+              "DocumentMoniker": "C:\\Users\\User\\Contacts\\Downloads\\- \u05E2\u05D5\u05EA\u05E7 - \u05E2\u05D5\u05EA\u05E7\\layered-architecture-demo\\project C#.net\\xml\\custemers.xml",
+              "RelativeDocumentMoniker": "xml\\custemers.xml",
+              "ToolTip": "C:\\Users\\User\\Contacts\\Downloads\\- \u05E2\u05D5\u05EA\u05E7 - \u05E2\u05D5\u05EA\u05E7\\layered-architecture-demo\\project C#.net\\xml\\custemers.xml",
+              "RelativeToolTip": "xml\\custemers.xml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2026-04-24T00:47:46.11Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "UI.csproj",
+              "DocumentMoniker": "C:\\Users\\User\\Contacts\\Downloads\\- \u05E2\u05D5\u05EA\u05E7 - \u05E2\u05D5\u05EA\u05E7\\layered-architecture-demo\\project C#.net\\UI\\UI.csproj",
+              "RelativeDocumentMoniker": "UI\\UI.csproj",
+              "ToolTip": "C:\\Users\\User\\Contacts\\Downloads\\- \u05E2\u05D5\u05EA\u05E7 - \u05E2\u05D5\u05EA\u05E7\\layered-architecture-demo\\project C#.net\\UI\\UI.csproj",
+              "RelativeToolTip": "UI\\UI.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-04-30T11:21:11.257Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "CustemerImplementation.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Contacts\\Downloads\\- \u05E2\u05D5\u05EA\u05E7 - \u05E2\u05D5\u05EA\u05E7\\layered-architecture-demo\\project C#.net\\DalXml\\CustemerImplementation.cs",
+              "RelativeDocumentMoniker": "DalXml\\CustemerImplementation.cs",
+              "ToolTip": "C:\\Users\\User\\Contacts\\Downloads\\- \u05E2\u05D5\u05EA\u05E7 - \u05E2\u05D5\u05EA\u05E7\\layered-architecture-demo\\project C#.net\\DalXml\\CustemerImplementation.cs",
+              "RelativeToolTip": "DalXml\\CustemerImplementation.cs",
+              "ViewState": "AgIAAKMAAAAAAAAAAAAAwOUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-24T00:47:45.908Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "DalXml.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Contacts\\Downloads\\- \u05E2\u05D5\u05EA\u05E7 - \u05E2\u05D5\u05EA\u05E7\\layered-architecture-demo\\project C#.net\\DalXml\\DalXml.cs",
+              "RelativeDocumentMoniker": "DalXml\\DalXml.cs",
+              "ToolTip": "C:\\Users\\User\\Contacts\\Downloads\\- \u05E2\u05D5\u05EA\u05E7 - \u05E2\u05D5\u05EA\u05E7\\layered-architecture-demo\\project C#.net\\DalXml\\DalXml.cs",
+              "RelativeToolTip": "DalXml\\DalXml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-24T00:47:45.961Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Config.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Contacts\\Downloads\\- \u05E2\u05D5\u05EA\u05E7 - \u05E2\u05D5\u05EA\u05E7\\layered-architecture-demo\\project C#.net\\DalFacade\\DalApi\\Config.cs",
+              "RelativeDocumentMoniker": "DalFacade\\DalApi\\Config.cs",
+              "ToolTip": "C:\\Users\\User\\Contacts\\Downloads\\- \u05E2\u05D5\u05EA\u05E7 - \u05E2\u05D5\u05EA\u05E7\\layered-architecture-demo\\project C#.net\\DalFacade\\DalApi\\Config.cs",
+              "RelativeToolTip": "DalFacade\\DalApi\\Config.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-29T15:32:13.23Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "Config.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Contacts\\Downloads\\- \u05E2\u05D5\u05EA\u05E7 - \u05E2\u05D5\u05EA\u05E7\\layered-architecture-demo\\project C#.net\\DalXml\\Config.cs",
+              "RelativeDocumentMoniker": "DalXml\\Config.cs",
+              "ToolTip": "C:\\Users\\User\\Contacts\\Downloads\\- \u05E2\u05D5\u05EA\u05E7 - \u05E2\u05D5\u05EA\u05E7\\layered-architecture-demo\\project C#.net\\DalXml\\Config.cs",
+              "RelativeToolTip": "DalXml\\Config.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-24T00:47:46.001Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "Tools.csproj",
+              "DocumentMoniker": "C:\\Users\\User\\Contacts\\Downloads\\- \u05E2\u05D5\u05EA\u05E7 - \u05E2\u05D5\u05EA\u05E7\\layered-architecture-demo\\project C#.net\\Tools\\Tools.csproj",
+              "RelativeDocumentMoniker": "Tools\\Tools.csproj",
+              "ToolTip": "C:\\Users\\User\\Contacts\\Downloads\\- \u05E2\u05D5\u05EA\u05E7 - \u05E2\u05D5\u05EA\u05E7\\layered-architecture-demo\\project C#.net\\Tools\\Tools.csproj",
+              "RelativeToolTip": "Tools\\Tools.csproj",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAUwB4AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-04-24T00:47:45.813Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "DalXml.csproj",
+              "DocumentMoniker": "C:\\Users\\User\\Contacts\\Downloads\\- \u05E2\u05D5\u05EA\u05E7 - \u05E2\u05D5\u05EA\u05E7\\layered-architecture-demo\\project C#.net\\DalXml\\DalXml.csproj",
+              "RelativeDocumentMoniker": "DalXml\\DalXml.csproj",
+              "ToolTip": "C:\\Users\\User\\Contacts\\Downloads\\- \u05E2\u05D5\u05EA\u05E7 - \u05E2\u05D5\u05EA\u05E7\\layered-architecture-demo\\project C#.net\\DalXml\\DalXml.csproj",
+              "RelativeToolTip": "DalXml\\DalXml.csproj",
+              "ViewState": "AgIAAE0AAAAAAAAAAAAUwGgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-04-24T00:47:45.387Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "DalTest.csproj",
+              "DocumentMoniker": "C:\\Users\\User\\Contacts\\Downloads\\- \u05E2\u05D5\u05EA\u05E7 - \u05E2\u05D5\u05EA\u05E7\\layered-architecture-demo\\project C#.net\\DalTest\\DalTest.csproj",
+              "RelativeDocumentMoniker": "DalTest\\DalTest.csproj",
+              "ToolTip": "C:\\Users\\User\\Contacts\\Downloads\\- \u05E2\u05D5\u05EA\u05E7 - \u05E2\u05D5\u05EA\u05E7\\layered-architecture-demo\\project C#.net\\DalTest\\DalTest.csproj",
+              "RelativeToolTip": "DalTest\\DalTest.csproj",
+              "ViewState": "AgIAABEAAAAAAAAAAAAUwCwAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-04-24T00:47:45.592Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "DalList.csproj",
+              "DocumentMoniker": "C:\\Users\\User\\Contacts\\Downloads\\- \u05E2\u05D5\u05EA\u05E7 - \u05E2\u05D5\u05EA\u05E7\\layered-architecture-demo\\project C#.net\\DalList\\DalList.csproj",
+              "RelativeDocumentMoniker": "DalList\\DalList.csproj",
+              "ToolTip": "C:\\Users\\User\\Contacts\\Downloads\\- \u05E2\u05D5\u05EA\u05E7 - \u05E2\u05D5\u05EA\u05E7\\layered-architecture-demo\\project C#.net\\DalList\\DalList.csproj",
+              "RelativeToolTip": "DalList\\DalList.csproj",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAUwCoAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-04-24T00:47:45.571Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "DalFacade.csproj",
+              "DocumentMoniker": "C:\\Users\\User\\Contacts\\Downloads\\- \u05E2\u05D5\u05EA\u05E7 - \u05E2\u05D5\u05EA\u05E7\\layered-architecture-demo\\project C#.net\\DalFacade\\DalFacade.csproj",
+              "RelativeDocumentMoniker": "DalFacade\\DalFacade.csproj",
+              "ToolTip": "C:\\Users\\User\\Contacts\\Downloads\\- \u05E2\u05D5\u05EA\u05E7 - \u05E2\u05D5\u05EA\u05E7\\layered-architecture-demo\\project C#.net\\DalFacade\\DalFacade.csproj",
+              "RelativeToolTip": "DalFacade\\DalFacade.csproj",
+              "ViewState": "AgIAABAAAAAAAAAAAAAUwCsAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-04-24T00:47:45.867Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "BlTest.csproj",
+              "DocumentMoniker": "C:\\Users\\User\\Contacts\\Downloads\\- \u05E2\u05D5\u05EA\u05E7 - \u05E2\u05D5\u05EA\u05E7\\layered-architecture-demo\\project C#.net\\BlTest\\BlTest.csproj",
+              "RelativeDocumentMoniker": "BlTest\\BlTest.csproj",
+              "ToolTip": "C:\\Users\\User\\Contacts\\Downloads\\- \u05E2\u05D5\u05EA\u05E7 - \u05E2\u05D5\u05EA\u05E7\\layered-architecture-demo\\project C#.net\\BlTest\\BlTest.csproj",
+              "RelativeToolTip": "BlTest\\BlTest.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAUwDIAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-04-24T00:47:45.828Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "BL.csproj",
+              "DocumentMoniker": "C:\\Users\\User\\Contacts\\Downloads\\- \u05E2\u05D5\u05EA\u05E7 - \u05E2\u05D5\u05EA\u05E7\\layered-architecture-demo\\project C#.net\\BL\\BL.csproj",
+              "RelativeDocumentMoniker": "BL\\BL.csproj",
+              "ToolTip": "C:\\Users\\User\\Contacts\\Downloads\\- \u05E2\u05D5\u05EA\u05E7 - \u05E2\u05D5\u05EA\u05E7\\layered-architecture-demo\\project C#.net\\BL\\BL.csproj",
+              "RelativeToolTip": "BL\\BL.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAUwCwAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-04-24T00:47:45.85Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "UI",
+              "DocumentMoniker": "C:\\Users\\User\\Contacts\\Downloads\\- \u05E2\u05D5\u05EA\u05E7 - \u05E2\u05D5\u05EA\u05E7\\layered-architecture-demo\\project C#.net\\UI\\UI.csproj",
+              "RelativeDocumentMoniker": "UI\\UI.csproj",
+              "ToolTip": "C:\\Users\\User\\Contacts\\Downloads\\- \u05E2\u05D5\u05EA\u05E7 - \u05E2\u05D5\u05EA\u05E7\\layered-architecture-demo\\project C#.net\\UI\\UI.csproj",
+              "RelativeToolTip": "UI\\UI.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-04-30T11:38:13.562Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "Tools",
+              "DocumentMoniker": "C:\\Users\\User\\Contacts\\Downloads\\- \u05E2\u05D5\u05EA\u05E7 - \u05E2\u05D5\u05EA\u05E7\\layered-architecture-demo\\project C#.net\\Tools\\Tools.csproj",
+              "RelativeDocumentMoniker": "Tools\\Tools.csproj",
+              "ToolTip": "C:\\Users\\User\\Contacts\\Downloads\\- \u05E2\u05D5\u05EA\u05E7 - \u05E2\u05D5\u05EA\u05E7\\layered-architecture-demo\\project C#.net\\Tools\\Tools.csproj",
+              "RelativeToolTip": "Tools\\Tools.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-04-30T11:38:05.999Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "DalXml",
+              "DocumentMoniker": "C:\\Users\\User\\Contacts\\Downloads\\- \u05E2\u05D5\u05EA\u05E7 - \u05E2\u05D5\u05EA\u05E7\\layered-architecture-demo\\project C#.net\\DalXml\\DalXml.csproj",
+              "RelativeDocumentMoniker": "DalXml\\DalXml.csproj",
+              "ToolTip": "C:\\Users\\User\\Contacts\\Downloads\\- \u05E2\u05D5\u05EA\u05E7 - \u05E2\u05D5\u05EA\u05E7\\layered-architecture-demo\\project C#.net\\DalXml\\DalXml.csproj",
+              "RelativeToolTip": "DalXml\\DalXml.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-04-30T11:37:58.01Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "DalTest",
+              "DocumentMoniker": "C:\\Users\\User\\Contacts\\Downloads\\- \u05E2\u05D5\u05EA\u05E7 - \u05E2\u05D5\u05EA\u05E7\\layered-architecture-demo\\project C#.net\\DalTest\\DalTest.csproj",
+              "RelativeDocumentMoniker": "DalTest\\DalTest.csproj",
+              "ToolTip": "C:\\Users\\User\\Contacts\\Downloads\\- \u05E2\u05D5\u05EA\u05E7 - \u05E2\u05D5\u05EA\u05E7\\layered-architecture-demo\\project C#.net\\DalTest\\DalTest.csproj",
+              "RelativeToolTip": "DalTest\\DalTest.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-04-30T11:37:48.423Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "BlTest",
+              "DocumentMoniker": "C:\\Users\\User\\Contacts\\Downloads\\- \u05E2\u05D5\u05EA\u05E7 - \u05E2\u05D5\u05EA\u05E7\\layered-architecture-demo\\project C#.net\\BlTest\\BlTest.csproj",
+              "RelativeDocumentMoniker": "BlTest\\BlTest.csproj",
+              "ToolTip": "C:\\Users\\User\\Contacts\\Downloads\\- \u05E2\u05D5\u05EA\u05E7 - \u05E2\u05D5\u05EA\u05E7\\layered-architecture-demo\\project C#.net\\BlTest\\BlTest.csproj",
+              "RelativeToolTip": "BlTest\\BlTest.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-04-30T11:36:35.131Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "BL",
+              "DocumentMoniker": "C:\\Users\\User\\Contacts\\Downloads\\- \u05E2\u05D5\u05EA\u05E7 - \u05E2\u05D5\u05EA\u05E7\\layered-architecture-demo\\project C#.net\\BL\\BL.csproj",
+              "RelativeDocumentMoniker": "BL\\BL.csproj",
+              "ToolTip": "C:\\Users\\User\\Contacts\\Downloads\\- \u05E2\u05D5\u05EA\u05E7 - \u05E2\u05D5\u05EA\u05E7\\layered-architecture-demo\\project C#.net\\BL\\BL.csproj",
+              "RelativeToolTip": "BL\\BL.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-04-30T11:33:47.083Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "DalFacade",
+              "DocumentMoniker": "C:\\Users\\User\\Contacts\\Downloads\\- \u05E2\u05D5\u05EA\u05E7 - \u05E2\u05D5\u05EA\u05E7\\layered-architecture-demo\\project C#.net\\DalFacade\\DalFacade.csproj",
+              "RelativeDocumentMoniker": "DalFacade\\DalFacade.csproj",
+              "ToolTip": "C:\\Users\\User\\Contacts\\Downloads\\- \u05E2\u05D5\u05EA\u05E7 - \u05E2\u05D5\u05EA\u05E7\\layered-architecture-demo\\project C#.net\\DalFacade\\DalFacade.csproj",
+              "RelativeToolTip": "DalFacade\\DalFacade.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-04-24T00:47:46.215Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "DalList",
+              "DocumentMoniker": "C:\\Users\\User\\Contacts\\Downloads\\- \u05E2\u05D5\u05EA\u05E7 - \u05E2\u05D5\u05EA\u05E7\\layered-architecture-demo\\project C#.net\\DalList\\DalList.csproj",
+              "RelativeDocumentMoniker": "DalList\\DalList.csproj",
+              "ToolTip": "C:\\Users\\User\\Contacts\\Downloads\\- \u05E2\u05D5\u05EA\u05E7 - \u05E2\u05D5\u05EA\u05E7\\layered-architecture-demo\\project C#.net\\DalList\\DalList.csproj",
+              "RelativeToolTip": "DalList\\DalList.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-04-24T00:47:46.229Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Contacts\\Downloads\\- \u05E2\u05D5\u05EA\u05E7 - \u05E2\u05D5\u05EA\u05E7\\layered-architecture-demo\\project C#.net\\DalTest\\Program.cs",
+              "RelativeDocumentMoniker": "DalTest\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\Contacts\\Downloads\\- \u05E2\u05D5\u05EA\u05E7 - \u05E2\u05D5\u05EA\u05E7\\layered-architecture-demo\\project C#.net\\DalTest\\Program.cs",
+              "RelativeToolTip": "DalTest\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-24T00:47:45.918Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Contacts\\Downloads\\- \u05E2\u05D5\u05EA\u05E7 - \u05E2\u05D5\u05EA\u05E7\\layered-architecture-demo\\project C#.net\\BlTest\\Program.cs",
+              "RelativeDocumentMoniker": "BlTest\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\Contacts\\Downloads\\- \u05E2\u05D5\u05EA\u05E7 - \u05E2\u05D5\u05EA\u05E7\\layered-architecture-demo\\project C#.net\\BlTest\\Program.cs",
+              "RelativeToolTip": "BlTest\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAEwAwAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-25T21:27:42.811Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "Factory.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Contacts\\Downloads\\- \u05E2\u05D5\u05EA\u05E7 - \u05E2\u05D5\u05EA\u05E7\\layered-architecture-demo\\project C#.net\\DalFacade\\DalApi\\Factory.cs",
+              "RelativeDocumentMoniker": "DalFacade\\DalApi\\Factory.cs",
+              "ToolTip": "C:\\Users\\User\\Contacts\\Downloads\\- \u05E2\u05D5\u05EA\u05E7 - \u05E2\u05D5\u05EA\u05E7\\layered-architecture-demo\\project C#.net\\DalFacade\\DalApi\\Factory.cs",
+              "RelativeToolTip": "DalFacade\\DalApi\\Factory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-29T18:17:51.19Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "Custemer.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Contacts\\Downloads\\- \u05E2\u05D5\u05EA\u05E7 - \u05E2\u05D5\u05EA\u05E7\\layered-architecture-demo\\project C#.net\\DalFacade\\Do\\Custemer.cs",
+              "RelativeDocumentMoniker": "DalFacade\\Do\\Custemer.cs",
+              "ToolTip": "C:\\Users\\User\\Contacts\\Downloads\\- \u05E2\u05D5\u05EA\u05E7 - \u05E2\u05D5\u05EA\u05E7\\layered-architecture-demo\\project C#.net\\DalFacade\\Do\\Custemer.cs",
+              "RelativeToolTip": "DalFacade\\Do\\Custemer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-24T00:47:46.044Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "ICustomer.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Contacts\\Downloads\\- \u05E2\u05D5\u05EA\u05E7 - \u05E2\u05D5\u05EA\u05E7\\layered-architecture-demo\\project C#.net\\DalFacade\\DalApi\\ICustomer.cs",
+              "RelativeDocumentMoniker": "DalFacade\\DalApi\\ICustomer.cs",
+              "ToolTip": "C:\\Users\\User\\Contacts\\Downloads\\- \u05E2\u05D5\u05EA\u05E7 - \u05E2\u05D5\u05EA\u05E7\\layered-architecture-demo\\project C#.net\\DalFacade\\DalApi\\ICustomer.cs",
+              "RelativeToolTip": "DalFacade\\DalApi\\ICustomer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-24T00:47:45.611Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 60,
+              "Title": "CustemerImplementation.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Contacts\\Downloads\\- \u05E2\u05D5\u05EA\u05E7 - \u05E2\u05D5\u05EA\u05E7\\layered-architecture-demo\\project C#.net\\BL\\Bllmplementation\\CustemerImplementation.cs",
+              "RelativeDocumentMoniker": "BL\\Bllmplementation\\CustemerImplementation.cs",
+              "ToolTip": "C:\\Users\\User\\Contacts\\Downloads\\- \u05E2\u05D5\u05EA\u05E7 - \u05E2\u05D5\u05EA\u05E7\\layered-architecture-demo\\project C#.net\\BL\\Bllmplementation\\CustemerImplementation.cs",
+              "RelativeToolTip": "BL\\Bllmplementation\\CustemerImplementation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-25T20:37:04.682Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "Initialization.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Contacts\\Downloads\\- \u05E2\u05D5\u05EA\u05E7 - \u05E2\u05D5\u05EA\u05E7\\layered-architecture-demo\\project C#.net\\DalTest\\Initialization.cs",
+              "RelativeDocumentMoniker": "DalTest\\Initialization.cs",
+              "ToolTip": "C:\\Users\\User\\Contacts\\Downloads\\- \u05E2\u05D5\u05EA\u05E7 - \u05E2\u05D5\u05EA\u05E7\\layered-architecture-demo\\project C#.net\\DalTest\\Initialization.cs",
+              "RelativeToolTip": "DalTest\\Initialization.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAEwBAAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-25T22:47:50.115Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "Sale.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Contacts\\Downloads\\- \u05E2\u05D5\u05EA\u05E7 - \u05E2\u05D5\u05EA\u05E7\\layered-architecture-demo\\project C#.net\\DalFacade\\Do\\Sale.cs",
+              "RelativeDocumentMoniker": "DalFacade\\Do\\Sale.cs",
+              "ToolTip": "C:\\Users\\User\\Contacts\\Downloads\\- \u05E2\u05D5\u05EA\u05E7 - \u05E2\u05D5\u05EA\u05E7\\layered-architecture-demo\\project C#.net\\DalFacade\\Do\\Sale.cs",
+              "RelativeToolTip": "DalFacade\\Do\\Sale.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-24T00:47:45.982Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "sales.xml",
+              "DocumentMoniker": "C:\\Users\\User\\Contacts\\Downloads\\- \u05E2\u05D5\u05EA\u05E7 - \u05E2\u05D5\u05EA\u05E7\\layered-architecture-demo\\project C#.net\\xml\\sales.xml",
+              "RelativeDocumentMoniker": "xml\\sales.xml",
+              "ToolTip": "C:\\Users\\User\\Contacts\\Downloads\\- \u05E2\u05D5\u05EA\u05E7 - \u05E2\u05D5\u05EA\u05E7\\layered-architecture-demo\\project C#.net\\xml\\sales.xml",
+              "RelativeToolTip": "xml\\sales.xml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2026-04-24T00:47:46.097Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "ISale.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Contacts\\Downloads\\- \u05E2\u05D5\u05EA\u05E7 - \u05E2\u05D5\u05EA\u05E7\\layered-architecture-demo\\project C#.net\\DalFacade\\DalApi\\ISale.cs",
+              "RelativeDocumentMoniker": "DalFacade\\DalApi\\ISale.cs",
+              "ToolTip": "C:\\Users\\User\\Contacts\\Downloads\\- \u05E2\u05D5\u05EA\u05E7 - \u05E2\u05D5\u05EA\u05E7\\layered-architecture-demo\\project C#.net\\DalFacade\\DalApi\\ISale.cs",
+              "RelativeToolTip": "DalFacade\\DalApi\\ISale.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-24T00:47:45.898Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "ICrud.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Contacts\\Downloads\\- \u05E2\u05D5\u05EA\u05E7 - \u05E2\u05D5\u05EA\u05E7\\layered-architecture-demo\\project C#.net\\DalFacade\\DalApi\\ICrud.cs",
+              "RelativeDocumentMoniker": "DalFacade\\DalApi\\ICrud.cs",
+              "ToolTip": "C:\\Users\\User\\Contacts\\Downloads\\- \u05E2\u05D5\u05EA\u05E7 - \u05E2\u05D5\u05EA\u05E7\\layered-architecture-demo\\project C#.net\\DalFacade\\DalApi\\ICrud.cs",
+              "RelativeToolTip": "DalFacade\\DalApi\\ICrud.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAIwA8AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-24T00:47:45.944Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Contacts\\Downloads\\- \u05E2\u05D5\u05EA\u05E7 - \u05E2\u05D5\u05EA\u05E7\\layered-architecture-demo\\project C#.net\\BL\\BO\\Customer.cs",
+              "RelativeDocumentMoniker": "BL\\BO\\Customer.cs",
+              "ToolTip": "C:\\Users\\User\\Contacts\\Downloads\\- \u05E2\u05D5\u05EA\u05E7 - \u05E2\u05D5\u05EA\u05E7\\layered-architecture-demo\\project C#.net\\BL\\BO\\Customer.cs",
+              "RelativeToolTip": "BL\\BO\\Customer.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAAwCEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-29T15:52:25.794Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "data-config.xml",
+              "DocumentMoniker": "C:\\Users\\User\\Contacts\\Downloads\\- \u05E2\u05D5\u05EA\u05E7 - \u05E2\u05D5\u05EA\u05E7\\layered-architecture-demo\\project C#.net\\xml\\data-config.xml",
+              "RelativeDocumentMoniker": "xml\\data-config.xml",
+              "ToolTip": "C:\\Users\\User\\Contacts\\Downloads\\- \u05E2\u05D5\u05EA\u05E7 - \u05E2\u05D5\u05EA\u05E7\\layered-architecture-demo\\project C#.net\\xml\\data-config.xml",
+              "RelativeToolTip": "xml\\data-config.xml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2026-04-24T00:47:46.071Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "products.xml",
+              "DocumentMoniker": "C:\\Users\\User\\Contacts\\Downloads\\- \u05E2\u05D5\u05EA\u05E7 - \u05E2\u05D5\u05EA\u05E7\\layered-architecture-demo\\project C#.net\\xml\\products.xml",
+              "RelativeDocumentMoniker": "xml\\products.xml",
+              "ToolTip": "C:\\Users\\User\\Contacts\\Downloads\\- \u05E2\u05D5\u05EA\u05E7 - \u05E2\u05D5\u05EA\u05E7\\layered-architecture-demo\\project C#.net\\xml\\products.xml",
+              "RelativeToolTip": "xml\\products.xml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2026-04-24T00:47:46.084Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "dal-config.xml",
+              "DocumentMoniker": "C:\\Users\\User\\Contacts\\Downloads\\- \u05E2\u05D5\u05EA\u05E7 - \u05E2\u05D5\u05EA\u05E7\\layered-architecture-demo\\project C#.net\\xml\\dal-config.xml",
+              "RelativeDocumentMoniker": "xml\\dal-config.xml",
+              "ToolTip": "C:\\Users\\User\\Contacts\\Downloads\\- \u05E2\u05D5\u05EA\u05E7 - \u05E2\u05D5\u05EA\u05E7\\layered-architecture-demo\\project C#.net\\xml\\dal-config.xml",
+              "RelativeToolTip": "xml\\dal-config.xml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2026-04-24T00:47:45.926Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "DalList.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Contacts\\Downloads\\- \u05E2\u05D5\u05EA\u05E7 - \u05E2\u05D5\u05EA\u05E7\\layered-architecture-demo\\project C#.net\\DalList\\DalList.cs",
+              "RelativeDocumentMoniker": "DalList\\DalList.cs",
+              "ToolTip": "C:\\Users\\User\\Contacts\\Downloads\\- \u05E2\u05D5\u05EA\u05E7 - \u05E2\u05D5\u05EA\u05E7\\layered-architecture-demo\\project C#.net\\DalList\\DalList.cs",
+              "RelativeToolTip": "DalList\\DalList.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-24T00:47:45.975Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Contacts\\Downloads\\- \u05E2\u05D5\u05EA\u05E7 - \u05E2\u05D5\u05EA\u05E7\\layered-architecture-demo\\project C#.net\\DalXml\\Class1.cs",
+              "RelativeDocumentMoniker": "DalXml\\Class1.cs",
+              "ToolTip": "C:\\Users\\User\\Contacts\\Downloads\\- \u05E2\u05D5\u05EA\u05E7 - \u05E2\u05D5\u05EA\u05E7\\layered-architecture-demo\\project C#.net\\DalXml\\Class1.cs",
+              "RelativeToolTip": "DalXml\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-24T00:47:46.15Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "Exceptions.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Contacts\\Downloads\\- \u05E2\u05D5\u05EA\u05E7 - \u05E2\u05D5\u05EA\u05E7\\layered-architecture-demo\\project C#.net\\BL\\BO\\Exceptions.cs",
+              "RelativeDocumentMoniker": "BL\\BO\\Exceptions.cs",
+              "ToolTip": "C:\\Users\\User\\Contacts\\Downloads\\- \u05E2\u05D5\u05EA\u05E7 - \u05E2\u05D5\u05EA\u05E7\\layered-architecture-demo\\project C#.net\\BL\\BO\\Exceptions.cs",
+              "RelativeToolTip": "BL\\BO\\Exceptions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-25T20:56:23.151Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 73,
+              "Title": "Exceptions.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Contacts\\Downloads\\- \u05E2\u05D5\u05EA\u05E7 - \u05E2\u05D5\u05EA\u05E7\\layered-architecture-demo\\project C#.net\\DalFacade\\Do\\Exceptions.cs",
+              "RelativeDocumentMoniker": "DalFacade\\Do\\Exceptions.cs",
+              "ToolTip": "C:\\Users\\User\\Contacts\\Downloads\\- \u05E2\u05D5\u05EA\u05E7 - \u05E2\u05D5\u05EA\u05E7\\layered-architecture-demo\\project C#.net\\DalFacade\\Do\\Exceptions.cs",
+              "RelativeToolTip": "DalFacade\\Do\\Exceptions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-24T00:47:46.124Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 74,
               "Title": "Class1.cs",
               "DocumentMoniker": "C:\\Users\\User\\Contacts\\Downloads\\- \u05E2\u05D5\u05EA\u05E7 - \u05E2\u05D5\u05EA\u05E7\\layered-architecture-demo\\project C#.net\\DalFacade\\Class1.cs",
               "RelativeDocumentMoniker": "DalFacade\\Class1.cs",
@@ -1027,31 +1227,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 61,
-              "Title": "ISale .cs",
-              "DocumentMoniker": "C:\\Users\\User\\Contacts\\Downloads\\- \u05E2\u05D5\u05EA\u05E7 - \u05E2\u05D5\u05EA\u05E7\\layered-architecture-demo\\project C#.net\\BL\\BlApi\\ISale .cs",
-              "RelativeDocumentMoniker": "BL\\BlApi\\ISale .cs",
-              "ToolTip": "C:\\Users\\User\\Contacts\\Downloads\\- \u05E2\u05D5\u05EA\u05E7 - \u05E2\u05D5\u05EA\u05E7\\layered-architecture-demo\\project C#.net\\BL\\BlApi\\ISale .cs",
-              "RelativeToolTip": "BL\\BlApi\\ISale .cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAbAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-24T00:47:45.883Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 63,
-              "Title": "ProductInOrder.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Contacts\\Downloads\\- \u05E2\u05D5\u05EA\u05E7 - \u05E2\u05D5\u05EA\u05E7\\layered-architecture-demo\\project C#.net\\BL\\BO\\ProductInOrder.cs",
-              "RelativeDocumentMoniker": "BL\\BO\\ProductInOrder.cs",
-              "ToolTip": "C:\\Users\\User\\Contacts\\Downloads\\- \u05E2\u05D5\u05EA\u05E7 - \u05E2\u05D5\u05EA\u05E7\\layered-architecture-demo\\project C#.net\\BL\\BO\\ProductInOrder.cs",
-              "RelativeToolTip": "BL\\BO\\ProductInOrder.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBcAAAAHAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-25T19:20:33.772Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 62,
+              "DocumentIndex": 75,
               "Title": "ICustomer.cs",
               "DocumentMoniker": "C:\\Users\\User\\Contacts\\Downloads\\- \u05E2\u05D5\u05EA\u05E7 - \u05E2\u05D5\u05EA\u05E7\\layered-architecture-demo\\project C#.net\\BL\\BlApi\\ICustomer.cs",
               "RelativeDocumentMoniker": "BL\\BlApi\\ICustomer.cs",
@@ -1063,7 +1239,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 64,
+              "DocumentIndex": 76,
               "Title": "IBl .cs",
               "DocumentMoniker": "C:\\Users\\User\\Contacts\\Downloads\\- \u05E2\u05D5\u05EA\u05E7 - \u05E2\u05D5\u05EA\u05E7\\layered-architecture-demo\\project C#.net\\BL\\BlApi\\IBl .cs",
               "RelativeDocumentMoniker": "BL\\BlApi\\IBl .cs",
@@ -1075,7 +1251,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 67,
+              "DocumentIndex": 79,
               "Title": "IProduct.cs",
               "DocumentMoniker": "C:\\Users\\User\\Contacts\\Downloads\\- \u05E2\u05D5\u05EA\u05E7 - \u05E2\u05D5\u05EA\u05E7\\layered-architecture-demo\\project C#.net\\DalFacade\\DalApi\\IProduct.cs",
               "RelativeDocumentMoniker": "DalFacade\\DalApi\\IProduct.cs",
@@ -1087,7 +1263,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 65,
+              "DocumentIndex": 77,
               "Title": "IDal.cs",
               "DocumentMoniker": "C:\\Users\\User\\Contacts\\Downloads\\- \u05E2\u05D5\u05EA\u05E7 - \u05E2\u05D5\u05EA\u05E7\\layered-architecture-demo\\project C#.net\\DalFacade\\DalApi\\IDal.cs",
               "RelativeDocumentMoniker": "DalFacade\\DalApi\\IDal.cs",
@@ -1099,19 +1275,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 68,
-              "Title": "Enums.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Contacts\\Downloads\\- \u05E2\u05D5\u05EA\u05E7 - \u05E2\u05D5\u05EA\u05E7\\layered-architecture-demo\\project C#.net\\DalFacade\\Do\\Enums.cs",
-              "RelativeDocumentMoniker": "DalFacade\\Do\\Enums.cs",
-              "ToolTip": "C:\\Users\\User\\Contacts\\Downloads\\- \u05E2\u05D5\u05EA\u05E7 - \u05E2\u05D5\u05EA\u05E7\\layered-architecture-demo\\project C#.net\\DalFacade\\Do\\Enums.cs",
-              "RelativeToolTip": "DalFacade\\Do\\Enums.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAUAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-24T00:47:46.031Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 69,
+              "DocumentIndex": 80,
               "Title": "LogManager.cs",
               "DocumentMoniker": "C:\\Users\\User\\Contacts\\Downloads\\- \u05E2\u05D5\u05EA\u05E7 - \u05E2\u05D5\u05EA\u05E7\\layered-architecture-demo\\project C#.net\\Tools\\LogManager.cs",
               "RelativeDocumentMoniker": "Tools\\LogManager.cs",
@@ -1123,7 +1287,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 66,
+              "DocumentIndex": 78,
               "Title": "Microsoft.NET.EolTargetFrameworks.targets",
               "DocumentMoniker": "C:\\Program Files\\dotnet\\sdk\\9.0.307\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.EolTargetFrameworks.targets",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\Program Files\\dotnet\\sdk\\9.0.307\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.EolTargetFrameworks.targets",

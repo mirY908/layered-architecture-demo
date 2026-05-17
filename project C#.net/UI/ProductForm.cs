@@ -191,27 +191,37 @@ namespace UI
                 }
             }
         }
+
+
         private void comboBox1_SelectedIndexChanged(object sender, EventArgs e)
         {
-            // במקום להשתמש בשם comboBox1, נשתמש ב-sender ששלח את האירוע
             ComboBox combo = sender as ComboBox;
-
-            // בדיקה שההמרה הצליחה ושיש פריט נבחר
             if (combo == null || combo.SelectedItem == null) return;
 
             try
             {
-                string selectedValue = combo.SelectedItem.ToString();
+                string selectedHebrew = combo.SelectedItem.ToString();
+                string categoryInEnglish = "";
+
+                // המרה של הבחירה בעברית לערך המקורי שקיים ב-DB (באנגלית)
+                switch (selectedHebrew)
+                {
+                    case "פיצה": categoryInEnglish = "Piza"; break;
+                    case "סלט": categoryInEnglish = "Salad"; break;
+                    case "פסטה": categoryInEnglish = "Pasta"; break;
+                    case "הום פרייז": categoryInEnglish = "HomeFrize"; break;
+                    case "משקאות": categoryInEnglish = "Beverage"; break;
+                    default: categoryInEnglish = selectedHebrew; break;
+                }
 
                 BlApi.IBI bl = BlApi.Factory.Get();
                 var allProducts = bl.product.ReadAll();
 
-                // סינון
+                // עכשיו הסינון מתבצע לפי השם האנגלי שה-DB מכיר
                 var filteredList = allProducts
-                    .Where(p => p.category != null && p.category.ToString() == selectedValue)
+                    .Where(p => p.category != null && p.category.ToString() == categoryInEnglish)
                     .ToList();
 
-                // עדכון הטבלה
                 dataGridView2.DataSource = null;
                 if (filteredList.Any())
                 {
@@ -219,7 +229,8 @@ namespace UI
                 }
                 else
                 {
-                    MessageBox.Show($"לא נמצאו מוצרים בקטגוריה: {selectedValue}");
+                    // הודעה ידידותית למשתמש בעברית
+                    MessageBox.Show($"לא נמצאו מוצרים בקטגוריה: {selectedHebrew}");
                 }
             }
             catch (Exception ex)
@@ -227,6 +238,42 @@ namespace UI
                 MessageBox.Show("שגיאה: " + ex.Message);
             }
         }
+        //private void comboBox1_SelectedIndexChanged(object sender, EventArgs e)
+        //{
+        //    // במקום להשתמש בשם comboBox1, נשתמש ב-sender ששלח את האירוע
+        //    ComboBox combo = sender as ComboBox;
+
+        //    // בדיקה שההמרה הצליחה ושיש פריט נבחר
+        //    if (combo == null || combo.SelectedItem == null) return;
+
+        //    try
+        //    {
+        //        string selectedValue = combo.SelectedItem.ToString();
+
+        //        BlApi.IBI bl = BlApi.Factory.Get();
+        //        var allProducts = bl.product.ReadAll();
+
+        //        // סינון
+        //        var filteredList = allProducts
+        //            .Where(p => p.category != null && p.category.ToString() == selectedValue)
+        //            .ToList();
+
+        //        // עדכון הטבלה
+        //        dataGridView2.DataSource = null;
+        //        if (filteredList.Any())
+        //        {
+        //            dataGridView2.DataSource = filteredList;
+        //        }
+        //        else
+        //        {
+        //            MessageBox.Show($"לא נמצאו מוצרים בקטגוריה: {selectedValue}");
+        //        }
+        //    }
+        //    catch (Exception ex)
+        //    {
+        //        MessageBox.Show("שגיאה: " + ex.Message);
+        //    }
+        //}
 
 
         //private void button1_Click(object sender, EventArgs e)
@@ -277,34 +324,107 @@ namespace UI
             }
         }
 
+        //private void btnAddProduct_Click(object sender, EventArgs e)
+        //{
+        //    // יצירת חלון קלט חדש וריק
+        //    Form addForm = new Form();
+        //    addForm.Text = "הוספת מוצר חדש";
+        //    addForm.Size = new Size(300, 450);
+        //    addForm.StartPosition = FormStartPosition.CenterParent;
+
+        //    // שדות להזנת נתונים
+        //    Label lblName = new Label() { Text = "שם מוצר:", Left = 10, Top = 20 };
+        //    TextBox txtName = new TextBox() { Left = 100, Top = 20, Width = 150 };
+
+        //    Label lblPrice = new Label() { Text = "מחיר:", Left = 10, Top = 60 };
+        //    TextBox txtPrice = new TextBox() { Left = 100, Top = 60, Width = 150 };
+
+        //    Label lblCategory = new Label() { Text = "קטגוריה:", Left = 10, Top = 100 };
+        //    ComboBox cmbCategory = new ComboBox() { Left = 100, Top = 100, Width = 150 };
+        //    cmbCategory.DataSource = Enum.GetValues(typeof(BO.Category));
+
+        //    Button btnSave = new Button() { Text = "הוסף מוצר", Left = 100, Top = 160, DialogResult = DialogResult.OK };
+
+        //    addForm.Controls.AddRange(new Control[] { lblName, txtName, lblPrice, txtPrice, lblCategory, cmbCategory, btnSave });
+
+        //    if (addForm.ShowDialog() == DialogResult.OK)
+        //    {
+        //        try
+        //        {
+        //            // יצירת אובייקט מוצר חדש
+        //            BO.Product newProduct = new BO.Product()
+        //            {
+        //                ProductName = txtName.Text,
+        //                Price = double.Parse(txtPrice.Text),
+        //                category = (BO.Category)cmbCategory.SelectedItem
+        //            };
+
+        //            // קריאה ל-BL להוספה
+        //            BlApi.IBI bl = BlApi.Factory.Get();
+        //            bl.product.Create(newProduct);
+
+        //            // רענון הטבלה כדי לראות את המוצר החדש
+        //            dataGridView2.DataSource = bl.product.ReadAll().ToList();
+
+        //            MessageBox.Show("המוצר נוסף בהצלחה!");
+        //        }
+        //        catch (Exception ex)
+        //        {
+        //            MessageBox.Show("שגיאה בהוספת מוצר: " + ex.Message);
+        //        }
+        //    }
+        //}
+
+
+
         private void btnAddProduct_Click(object sender, EventArgs e)
         {
-            // יצירת חלון קלט חדש וריק
+            // יצירת חלון קלט חדש
             Form addForm = new Form();
             addForm.Text = "הוספת מוצר חדש";
-            addForm.Size = new Size(300, 450);
+            addForm.Size = new Size(320, 300); // הקטנתי את הגובה כי היה הרבה רווח ריק
             addForm.StartPosition = FormStartPosition.CenterParent;
 
-            // שדות להזנת נתונים
-            Label lblName = new Label() { Text = "שם מוצר:", Left = 10, Top = 20 };
+            // --- הוספת הגדרות ליישור לימין ---
+            addForm.RightToLeft = RightToLeft.Yes;
+            addForm.RightToLeftLayout = true;
+
+            // שדות להזנת נתונים - שימי לב ששיניתי מעט את ה-Left כדי שלא ייצמדו לקצה
+            Label lblName = new Label() { Text = "שם מוצר:", Left = 20, Top = 20, AutoSize = true };
             TextBox txtName = new TextBox() { Left = 100, Top = 20, Width = 150 };
 
-            Label lblPrice = new Label() { Text = "מחיר:", Left = 10, Top = 60 };
+            Label lblPrice = new Label() { Text = "מחיר:", Left = 20, Top = 60, AutoSize = true };
             TextBox txtPrice = new TextBox() { Left = 100, Top = 60, Width = 150 };
 
-            Label lblCategory = new Label() { Text = "קטגוריה:", Left = 10, Top = 100 };
-            ComboBox cmbCategory = new ComboBox() { Left = 100, Top = 100, Width = 150 };
+            Label lblCategory = new Label() { Text = "קטגוריה:", Left = 20, Top = 100, AutoSize = true };
+            ComboBox cmbCategory = new ComboBox() { Left = 100, Top = 100, Width = 150, DropDownStyle = ComboBoxStyle.DropDownList };
             cmbCategory.DataSource = Enum.GetValues(typeof(BO.Category));
 
-            Button btnSave = new Button() { Text = "הוסף מוצר", Left = 100, Top = 160, DialogResult = DialogResult.OK };
+            // כפתור הוספה - מרכזתי אותו לפי רוחב הטופס
+            Button btnSave = new Button()
+            {
+                Text = "הוסף מוצר",
+                Left = 100,
+                Top = 160,
+                Width = 100,
+                Height = 30,
+                DialogResult = DialogResult.OK
+            };
 
             addForm.Controls.AddRange(new Control[] { lblName, txtName, lblPrice, txtPrice, lblCategory, cmbCategory, btnSave });
+
+            // הגדרת כפתור ברירת מחדל (לחיצה על Enter תפעיל אותו)
+            addForm.AcceptButton = btnSave;
 
             if (addForm.ShowDialog() == DialogResult.OK)
             {
                 try
                 {
-                    // יצירת אובייקט מוצר חדש
+                    if (string.IsNullOrWhiteSpace(txtName.Text) || string.IsNullOrWhiteSpace(txtPrice.Text))
+                    {
+                        throw new Exception("חובה למלא שם ומחיר");
+                    }
+
                     BO.Product newProduct = new BO.Product()
                     {
                         ProductName = txtName.Text,
@@ -312,18 +432,15 @@ namespace UI
                         category = (BO.Category)cmbCategory.SelectedItem
                     };
 
-                    // קריאה ל-BL להוספה
                     BlApi.IBI bl = BlApi.Factory.Get();
                     bl.product.Create(newProduct);
 
-                    // רענון הטבלה כדי לראות את המוצר החדש
                     dataGridView2.DataSource = bl.product.ReadAll().ToList();
-
                     MessageBox.Show("המוצר נוסף בהצלחה!");
                 }
                 catch (Exception ex)
                 {
-                    MessageBox.Show("שגיאה בהוספת מוצר: " + ex.Message);
+                    MessageBox.Show("שגיאה: " + ex.Message);
                 }
             }
         }

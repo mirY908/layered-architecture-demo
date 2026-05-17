@@ -15,8 +15,8 @@ namespace BlImplementation
         public int Create(BO.Sale item)
         {
             // 1. בדיקות תקינות לוגיות (Validation)
-            if (item.Id <= 0)
-                throw new BO.BlInvalidDataException("Sale ID must be positive.");
+            //if (item.Id <= 0)
+            //    throw new BO.BlInvalidDataException("Sale ID must be positive.");
 
             if (item.EndSale <= item.StartSale)
                 throw new BO.BlInvalidDataException("End date must be after start date.");

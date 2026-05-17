@@ -1,24 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <ArrayOfSale>
   <Sale>
-    <Id>41</Id>
-    <ProductId>1</ProductId>
-    <MinProductSale>1</MinProductSale>
-    <SumPriceSale>1</SumPriceSale>
-    <IfEveryOne>true</IfEveryOne>
-    <StartSale>2026-04-28T22:08:09.3269577+03:00</StartSale>
-    <EndSale>2026-04-29T22:08:09.3269577+03:00</EndSale>
-  </Sale>
-  <Sale>
-    <Id>42</Id>
-    <ProductId>112</ProductId>
-    <MinProductSale>10</MinProductSale>
-    <SumPriceSale>32.5</SumPriceSale>
-    <IfEveryOne>false</IfEveryOne>
-    <StartSale>2026-04-27T23:24:28.7626172+03:00</StartSale>
-    <EndSale>2026-04-27T23:24:28.7648132+03:00</EndSale>
-  </Sale>
-  <Sale>
     <Id>43</Id>
     <ProductId>113</ProductId>
     <MinProductSale>10</MinProductSale>
@@ -26,15 +8,6 @@
     <IfEveryOne>true</IfEveryOne>
     <StartSale>2026-04-27T23:24:28.8084024+03:00</StartSale>
     <EndSale>2026-04-27T23:24:28.8084068+03:00</EndSale>
-  </Sale>
-  <Sale>
-    <Id>44</Id>
-    <ProductId>114</ProductId>
-    <MinProductSale>10</MinProductSale>
-    <SumPriceSale>32.5</SumPriceSale>
-    <IfEveryOne>true</IfEveryOne>
-    <StartSale>2026-04-27T23:24:28.8522762+03:00</StartSale>
-    <EndSale>2026-04-27T23:24:28.8522802+03:00</EndSale>
   </Sale>
   <Sale>
     <Id>45</Id>
@@ -47,7 +20,7 @@
   </Sale>
   <Sale>
     <Id>46</Id>
-    <ProductId>116</ProductId>
+    <ProductId>111</ProductId>
     <MinProductSale>10</MinProductSale>
     <SumPriceSale>32.5</SumPriceSale>
     <IfEveryOne>true</IfEveryOne>
@@ -532,15 +505,6 @@
     <EndSale>2026-04-30T15:04:10.0218086+03:00</EndSale>
   </Sale>
   <Sale>
-    <Id>100</Id>
-    <ProductId>114</ProductId>
-    <MinProductSale>10</MinProductSale>
-    <SumPriceSale>32.5</SumPriceSale>
-    <IfEveryOne>true</IfEveryOne>
-    <StartSale>2026-04-30T15:04:10.0639876+03:00</StartSale>
-    <EndSale>2026-04-30T15:04:10.0639934+03:00</EndSale>
-  </Sale>
-  <Sale>
     <Id>101</Id>
     <ProductId>115</ProductId>
     <MinProductSale>10</MinProductSale>
@@ -692,5 +656,23 @@
     <IfEveryOne>true</IfEveryOne>
     <StartSale>2026-04-30T15:08:23.2269293+03:00</StartSale>
     <EndSale>2026-04-30T15:08:23.2269347+03:00</EndSale>
+  </Sale>
+  <Sale>
+    <Id>118</Id>
+    <ProductId>20</ProductId>
+    <MinProductSale>11</MinProductSale>
+    <SumPriceSale>1234</SumPriceSale>
+    <IfEveryOne>false</IfEveryOne>
+    <StartSale>2026-05-02T21:59:14.6368512+03:00</StartSale>
+    <EndSale>2026-05-02T21:59:14.65041+03:00</EndSale>
+  </Sale>
+  <Sale>
+    <Id>120</Id>
+    <ProductId>0</ProductId>
+    <MinProductSale>100</MinProductSale>
+    <SumPriceSale>123</SumPriceSale>
+    <IfEveryOne>false</IfEveryOne>
+    <StartSale>2026-05-02T22:01:05.6611547+03:00</StartSale>
+    <EndSale>2026-05-02T22:01:05.6661305+03:00</EndSale>
   </Sale>
 </ArrayOfSale>

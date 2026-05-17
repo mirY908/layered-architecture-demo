@@ -35,6 +35,52 @@ namespace Dal
             return id;
         }
 
+        //public Sale? Read(int id)
+        //{
+        //    XElement root = XElement.Load(path);
+        //    XElement? s = root.Elements("Sale").FirstOrDefault(x => (int?)x.Element("Id") == id);
+
+        //    if (s == null)
+        //        return null;
+
+        //    return new Sale
+        //    (
+        //        (int)s.Element("Id")!,
+        //        (int)s.Element("ProductId")!,
+        //        (int?)s.Element("MinProductSale"),
+        //        (double?)s.Element("SumPriceSale"),
+        //        (bool)s.Element("IfEveryOne")!,
+        //        (DateTime)s.Element("StartSale")!,
+        //        (DateTime?)s.Element("EndSale")
+        //    );
+        //}
+
+        public Sale? Read(Func<Sale, bool> filter)
+        {
+            return ReadAll().FirstOrDefault(filter);
+        }
+
+        //public List<Sale> ReadAll(Func<Sale, bool>? filter = null)
+        //{
+        //    XElement root = XElement.Load(path);
+        //    var list = root.Elements("Sale").Select(s => new Sale
+        //    (
+        //        (int)s.Element("Id")!,
+        //        (int)s.Element("ProductId")!,
+        //        (int?)s.Element("MinProductSale"),
+        //        (double?)s.Element("SumPriceSale"),
+        //        (bool)s.Element("IfEveryOne")!,
+        //        (DateTime)s.Element("StartSale")!,
+        //        (DateTime?)s.Element("EndSale")
+        //    ));
+
+        //    if (filter == null) return list.ToList();
+        //    return list.Where(filter).ToList();
+        //}
+
+
+
+
         public Sale? Read(int id)
         {
             XElement root = XElement.Load(path);
@@ -50,14 +96,12 @@ namespace Dal
                 (int?)s.Element("MinProductSale"),
                 (double?)s.Element("SumPriceSale"),
                 (bool)s.Element("IfEveryOne")!,
-                (DateTime)s.Element("StartSale")!,
-                (DateTime?)s.Element("EndSale")
+                // תיקון כאן:
+                DateTime.Parse(s.Element("StartSale")!.Value, System.Globalization.CultureInfo.InvariantCulture),
+                s.Element("EndSale") != null && !string.IsNullOrEmpty(s.Element("EndSale")!.Value)
+                    ? DateTime.Parse(s.Element("EndSale")!.Value, System.Globalization.CultureInfo.InvariantCulture)
+                    : null
             );
-        }
-
-        public Sale? Read(Func<Sale, bool> filter)
-        {
-            return ReadAll().FirstOrDefault(filter);
         }
 
         public List<Sale> ReadAll(Func<Sale, bool>? filter = null)
@@ -70,8 +114,11 @@ namespace Dal
                 (int?)s.Element("MinProductSale"),
                 (double?)s.Element("SumPriceSale"),
                 (bool)s.Element("IfEveryOne")!,
-                (DateTime)s.Element("StartSale")!,
-                (DateTime?)s.Element("EndSale")
+                // תיקון כאן:
+                DateTime.Parse(s.Element("StartSale")!.Value, System.Globalization.CultureInfo.InvariantCulture),
+                s.Element("EndSale") != null && !string.IsNullOrEmpty(s.Element("EndSale")!.Value)
+                    ? DateTime.Parse(s.Element("EndSale")!.Value, System.Globalization.CultureInfo.InvariantCulture)
+                    : null
             ));
 
             if (filter == null) return list.ToList();
@@ -93,6 +140,10 @@ namespace Dal
             s.Element("StartSale")!.Value = item.StartSale.ToString();
             s.Element("EndSale")!.Value = item.EndSale?.ToString() ?? "";
 
+
+            // בתוך פונקציית Update:
+            s.Element("StartSale")!.Value = item.StartSale.ToString("O", System.Globalization.CultureInfo.InvariantCulture);
+            s.Element("EndSale")!.Value = item.EndSale?.ToString("O", System.Globalization.CultureInfo.InvariantCulture) ?? "";
             root.Save(path);
         }
 

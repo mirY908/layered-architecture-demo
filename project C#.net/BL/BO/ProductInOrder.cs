@@ -8,13 +8,13 @@ namespace BO
 {
     public class ProductInOrder
     {
-        public int id;
-        public string name;
-        public double minPrice;
-        public int amount;
+        public int id { get; set; }
+        public string name { get; set; }
+        public double minPrice { get; set; }
+        public int amount { get; set; }
         //List<SaleInProduct> products;
-        public List<SaleInProduct> products; 
-        public double finalPrice;
+        public List<SaleInProduct> products { get; set; }
+        public double finalPrice { get; set; }
 
         public ProductInOrder()
         {

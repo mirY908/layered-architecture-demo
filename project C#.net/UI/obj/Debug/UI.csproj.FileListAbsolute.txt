@@ -64,3 +64,5 @@ C:\Users\User\Contacts\Downloads\- עותק - עותק\layered-architecture-demo
 C:\Users\User\Contacts\Downloads\- עותק - עותק\layered-architecture-demo\project C#.net\UI\obj\Debug\UI.pdb
 C:\Users\User\Contacts\Downloads\- עותק - עותק\layered-architecture-demo\project C#.net\UI\obj\Debug\UI.genruntimeconfig.cache
 C:\Users\User\Contacts\Downloads\- עותק - עותק\layered-architecture-demo\project C#.net\UI\obj\Debug\ref\UI.dll
+C:\Users\User\Contacts\Downloads\- עותק - עותק\layered-architecture-demo\project C#.net\UI\obj\Debug\UI.SaleForm.resources
+C:\Users\User\Contacts\Downloads\- עותק - עותק\layered-architecture-demo\project C#.net\UI\obj\Debug\UI.CartWindow.resources

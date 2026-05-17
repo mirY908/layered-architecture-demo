@@ -32,10 +32,18 @@ namespace UI
 
         private void cusomersButtonForm_Click(object sender, EventArgs e)
         {
-            CustomerForm cusomersForm =new CustomerForm();
+            CustomerForm cusomersForm = new CustomerForm();
             this.Hide();
             cusomersForm.FormClosed += Form_FormClosed;
             cusomersForm.Show();
+        }
+
+        private void salesButtonForm_Click(object sender, EventArgs e)
+        {
+           SaleForm saleForm = new SaleForm();
+            this.Hide();
+            saleForm.FormClosed += Form_FormClosed;
+            saleForm.Show();
         }
     }
 }

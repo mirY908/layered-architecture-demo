@@ -128,7 +128,7 @@
             // cbCategories
             // 
             cbCategories.FormattingEnabled = true;
-            cbCategories.Items.AddRange(new object[] { "Piza", "Salad", "Pasta", "HomeFrize", "Beverage" });
+            cbCategories.Items.AddRange(new object[] { "פיצה", "סלט", "פסטה", " הום פרייז", "משקאות" });
             cbCategories.Location = new Point(51, 82);
             cbCategories.Name = "cbCategories";
             cbCategories.Size = new Size(151, 28);

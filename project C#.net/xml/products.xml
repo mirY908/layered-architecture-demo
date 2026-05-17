@@ -5,21 +5,21 @@
     <ProductName>פיצה איטלקית</ProductName>
     <Category>Piza</Category>
     <Price>512</Price>
-    <Amount>10</Amount>
+    <Amount>5</Amount>
   </Product>
   <Product>
     <ProductId>1010</ProductId>
     <ProductName>סלט חסה</ProductName>
     <Category>Salad</Category>
     <Price>230</Price>
-    <Amount>12</Amount>
+    <Amount>10</Amount>
   </Product>
   <Product>
     <ProductId>1011</ProductId>
     <ProductName>פסטה מוקרמת </ProductName>
     <Category>Pasta</Category>
     <Price>40</Price>
-    <Amount>8</Amount>
+    <Amount>3</Amount>
   </Product>
   <Product>
     <ProductId>1012</ProductId>
@@ -40,7 +40,7 @@
     <ProductName>פיצה איטלקית</ProductName>
     <Category>Piza</Category>
     <Price>57</Price>
-    <Amount>10</Amount>
+    <Amount>0</Amount>
   </Product>
   <Product>
     <ProductId>1015</ProductId>
@@ -76,13 +76,6 @@
     <Category>Piza</Category>
     <Price>57</Price>
     <Amount>10</Amount>
-  </Product>
-  <Product>
-    <ProductId>1020</ProductId>
-    <ProductName>סלט יווני</ProductName>
-    <Category>Salad</Category>
-    <Price>23</Price>
-    <Amount>12</Amount>
   </Product>
   <Product>
     <ProductId>1021</ProductId>
@@ -142,9 +135,9 @@
   </Product>
   <Product>
     <ProductId>1030</ProductId>
-    <ProductName>סלט יווני</ProductName>
+    <ProductName>סלט חלבי</ProductName>
     <Category>Salad</Category>
-    <Price>23</Price>
+    <Price>45</Price>
     <Amount>12</Amount>
   </Product>
   <Product>
@@ -152,7 +145,7 @@
     <ProductName>פסטה מוקרמת </ProductName>
     <Category>Pasta</Category>
     <Price>40</Price>
-    <Amount>8</Amount>
+    <Amount>4</Amount>
   </Product>
   <Product>
     <ProductId>1032</ProductId>
@@ -520,9 +513,9 @@
   </Product>
   <Product>
     <ProductId>1084</ProductId>
-    <ProductName>שתיה</ProductName>
+    <ProductName>קולה</ProductName>
     <Category>Beverage</Category>
-    <Price>10</Price>
+    <Price>12</Price>
     <Amount>23</Amount>
   </Product>
   <Product>
@@ -583,9 +576,9 @@
   </Product>
   <Product>
     <ProductId>1093</ProductId>
-    <ProductName>פסטה מוקרמת </ProductName>
+    <ProductName>פסטה עם פטריות</ProductName>
     <Category>Pasta</Category>
-    <Price>40</Price>
+    <Price>25</Price>
     <Amount>8</Amount>
   </Product>
   <Product>
@@ -649,14 +642,7 @@
     <ProductName>סלט יווני</ProductName>
     <Category>Salad</Category>
     <Price>23</Price>
-    <Amount>12</Amount>
-  </Product>
-  <Product>
-    <ProductId>1103</ProductId>
-    <ProductName>פסטה מוקרמת </ProductName>
-    <Category>Pasta</Category>
-    <Price>40</Price>
-    <Amount>8</Amount>
+    <Amount>10</Amount>
   </Product>
   <Product>
     <ProductId>1104</ProductId>
@@ -715,10 +701,10 @@
     <Amount>23</Amount>
   </Product>
   <Product>
-    <ProductId>1112</ProductId>
-    <ProductName>ניסוי</ProductName>
-    <Category>Pasta</Category>
-    <Price>100</Price>
+    <ProductId>1115</ProductId>
+    <ProductName>פיצה </ProductName>
+    <Category>Piza</Category>
+    <Price>11</Price>
     <Amount>0</Amount>
   </Product>
 </ArrayOfProduct>

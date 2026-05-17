@@ -50,6 +50,7 @@ namespace BlImplementation
                 }
 
                 ProductInOrder newProduct = new ProductInOrder(product.Id, product.Price, amountInOrder);
+                newProduct.name = product.ProductName;
                 SearchSaleForProduct(newProduct, order.IsFavoriteCustomer);
                 CalcTotalPriceForProduct(newProduct);
 

@@ -34,9 +34,10 @@
             // 
             // ManagerButton
             // 
-            ManagerButton.Location = new Point(421, 228);
+            ManagerButton.Location = new Point(481, 304);
+            ManagerButton.Margin = new Padding(3, 4, 3, 4);
             ManagerButton.Name = "ManagerButton";
-            ManagerButton.Size = new Size(125, 78);
+            ManagerButton.Size = new Size(143, 104);
             ManagerButton.TabIndex = 0;
             ManagerButton.Text = "מנהל";
             ManagerButton.UseVisualStyleBackColor = true;
@@ -44,20 +45,23 @@
             // 
             // shopperButton
             // 
-            shopperButton.Location = new Point(215, 237);
+            shopperButton.Location = new Point(246, 316);
+            shopperButton.Margin = new Padding(3, 4, 3, 4);
             shopperButton.Name = "shopperButton";
-            shopperButton.Size = new Size(129, 69);
+            shopperButton.Size = new Size(147, 92);
             shopperButton.TabIndex = 1;
             shopperButton.Text = "קופאי";
             shopperButton.UseVisualStyleBackColor = true;
+            shopperButton.Click += shopperButton_Click;
             // 
             // Form1
             // 
-            AutoScaleDimensions = new SizeF(7F, 15F);
+            AutoScaleDimensions = new SizeF(8F, 20F);
             AutoScaleMode = AutoScaleMode.Font;
-            ClientSize = new Size(800, 450);
+            ClientSize = new Size(914, 600);
             Controls.Add(shopperButton);
             Controls.Add(ManagerButton);
+            Margin = new Padding(3, 4, 3, 4);
             Name = "Form1";
             Text = "Form1";
             Load += Form1_Load;

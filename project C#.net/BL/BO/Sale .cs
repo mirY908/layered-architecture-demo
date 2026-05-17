@@ -9,14 +9,14 @@ namespace BO
 {
     public class Sale
     {
-        public int Id;
-        public int ProductId;
-        public int? MinProductSale;
+        public int Id { get; set; }
+        public int ProductId { get; set; }
+        public int? MinProductSale { get; set; }
 
       public  double  SumPriceSale { get; set; }
         public bool IfEveryOne { get; set; }
-        public DateTime StartSale;
-        public DateTime EndSale;
+        public DateTime StartSale { get; set; }
+        public DateTime EndSale { get; set; }
         public Sale(int Id, int ProductId, int? MinProductSale, double SumPriceSale, bool IfEveryOne, DateTime StartSale, DateTime EndSale)
         {
             this.Id = Id;

@@ -22,7 +22,15 @@ namespace UI
 
         private void ManagerForm_FormClosed(object? sender, FormClosedEventArgs e)
         {
-           this.Show();
+            this.Show();
+        }
+
+        private void shopperButton_Click(object sender, EventArgs e)
+        {
+            CartWindow cartWindow = new CartWindow();
+            this.Hide();
+            cartWindow.FormClosed += ManagerForm_FormClosed;
+            cartWindow.Show();
         }
     }
 }

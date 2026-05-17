@@ -35,18 +35,21 @@
             // 
             // salesButtonForm
             // 
-            salesButtonForm.Location = new Point(270, 109);
+            salesButtonForm.Location = new Point(309, 145);
+            salesButtonForm.Margin = new Padding(3, 4, 3, 4);
             salesButtonForm.Name = "salesButtonForm";
-            salesButtonForm.Size = new Size(114, 50);
+            salesButtonForm.Size = new Size(130, 67);
             salesButtonForm.TabIndex = 0;
             salesButtonForm.Text = "מבצעים";
             salesButtonForm.UseVisualStyleBackColor = true;
+            salesButtonForm.Click += salesButtonForm_Click;
             // 
             // cusomersButtonForm
             // 
-            cusomersButtonForm.Location = new Point(555, 107);
+            cusomersButtonForm.Location = new Point(634, 143);
+            cusomersButtonForm.Margin = new Padding(3, 4, 3, 4);
             cusomersButtonForm.Name = "cusomersButtonForm";
-            cusomersButtonForm.Size = new Size(87, 38);
+            cusomersButtonForm.Size = new Size(99, 51);
             cusomersButtonForm.TabIndex = 1;
             cusomersButtonForm.Text = "לקוחות";
             cusomersButtonForm.UseVisualStyleBackColor = true;
@@ -54,9 +57,10 @@
             // 
             // productsbuttonForm
             // 
-            productsbuttonForm.Location = new Point(423, 108);
+            productsbuttonForm.Location = new Point(483, 144);
+            productsbuttonForm.Margin = new Padding(3, 4, 3, 4);
             productsbuttonForm.Name = "productsbuttonForm";
-            productsbuttonForm.Size = new Size(94, 37);
+            productsbuttonForm.Size = new Size(107, 49);
             productsbuttonForm.TabIndex = 1;
             productsbuttonForm.Text = "מוצרים";
             productsbuttonForm.UseVisualStyleBackColor = true;
@@ -64,12 +68,13 @@
             // 
             // ManagerForm
             // 
-            AutoScaleDimensions = new SizeF(7F, 15F);
+            AutoScaleDimensions = new SizeF(8F, 20F);
             AutoScaleMode = AutoScaleMode.Font;
-            ClientSize = new Size(800, 450);
+            ClientSize = new Size(914, 600);
             Controls.Add(productsbuttonForm);
             Controls.Add(cusomersButtonForm);
             Controls.Add(salesButtonForm);
+            Margin = new Padding(3, 4, 3, 4);
             Name = "ManagerForm";
             Text = "ManagerForm";
             ResumeLayout(false);
